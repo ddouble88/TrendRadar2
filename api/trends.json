@@ -1,9 +1,13 @@
 {
-  "generated_at": "2025-11-18T19:36:33.526334+08:00",
+  "generated_at": "2025-11-18T21:49:55.939098+08:00",
   "total_titles_processed": 1560,
   "failed_sources": [
+    "toutiao",
+    "baidu",
     "wallstreetcn-hot",
     "thepaper",
+    "bilibili-hot-search",
+    "cls-hot",
     "ifeng",
     "jin10",
     "wallstreetcn-quick",
