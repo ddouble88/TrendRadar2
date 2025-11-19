@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T06:40:56.377626+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2025-11-20T07:33:48.444666+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 金价 黄金 美债 美股 美元 特朗普",
-      "match_count": 91,
+      "match_count": 97,
       "titles": [
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
@@ -20,6 +20,19 @@
           "time_info": "[00时55分 ~ 06时40分]"
         },
         {
+          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
+          "url": "https://wallstreetcn.com/articles/3759659",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
           "title": "40万的嫁衣是用黄金做的吗",
           "url": "https://search.bilibili.com/all?keyword=40%E4%B8%87%E7%9A%84%E5%AB%81%E8%A1%A3%E6%98%AF%E7%94%A8%E9%BB%84%E9%87%91%E5%81%9A%E7%9A%84%E5%90%97",
           "source": "bilibili 热搜",
@@ -29,23 +42,12 @@
             19,
             9,
             5,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
-        },
-        {
-          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
-          "url": "https://wallstreetcn.com/articles/3759659",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -56,8 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -68,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -91,8 +93,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时52分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[02时52分 ~ 07时33分]"
         },
         {
           "title": "C罗马斯克现身白宫 出席特朗普晚宴",
@@ -101,11 +103,12 @@
           "ranks": [
             24,
             16,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时52分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[02时52分 ~ 07时33分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -118,8 +121,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "市场消息：Luma AI获得由Humain领投的9亿美元C轮融资，并将合作在沙特阿拉伯建设一个2吉瓦的AI超级集群。",
@@ -131,6 +134,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.29吨，当前持仓量为1043.72吨。",
+          "url": "https://flash.jin10.com/detail/20251120071857698800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "特朗普考虑最早周五签署有关AI的行政令。（The Verge）",
+          "url": "https://wallstreetcn.com/livenews/3007479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "现货黄金站上4090美元/盎司，日内涨0.31%。",
+          "url": "https://flash.jin10.com/detail/20251120071809331800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美国总统特朗普：今天有数十家公司将签署总价值2700亿美元的协议和销售合同。",
@@ -199,17 +246,6 @@
           "time_info": "05时29分"
         },
         {
-          "title": "英伟达：针对中国市场的定制款AI芯片H20三季度销售仅仅0.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3007452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
           "title": "美国总统特朗普：正在努力批准向沙特阿拉伯出售飞机。",
           "url": "https://flash.jin10.com/detail/20251120011003291800",
           "source": "金十数据",
@@ -243,6 +279,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时29分 ~ 05时29分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
+          "url": "https://www.cls.cn/detail/2205612",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时33分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -318,6 +366,18 @@
           "time_info": "[04时35分 ~ 05时29分]"
         },
         {
+          "title": "英伟达：针对中国市场的定制款AI芯片H20三季度销售仅仅0.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3007452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时33分]"
+        },
+        {
           "title": "佩斯科夫：俄美元首会晤准备工作尚未完成",
           "url": "https://wallstreetcn.com/livenews/3007393",
           "source": "华尔街见闻-快讯",
@@ -379,6 +439,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时34分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：实体人工智能是公司下一个增长阶段，蕴含数万亿美元机遇。",
+          "url": "https://flash.jin10.com/detail/20251120062349243800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时33分]"
         },
         {
           "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
@@ -464,15 +536,15 @@
           "time_info": "[02时53分 ~ 03时29分]"
         },
         {
-          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
-          "url": "https://www.cls.cn/detail/2205612",
-          "source": "财联社热门",
+          "title": "特朗普：应起诉鲍威尔",
+          "url": "https://news.ifeng.com/c/8oQBc00t0BE",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时40分"
+          "time_info": "07时33分"
         },
         {
           "title": "美国总统特朗普：对于美国而言，沙特是北约之外一个非常强大的盟友。",
@@ -495,17 +567,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
-        },
-        {
-          "title": "英伟达(NVDA.O)CFO：实体人工智能是公司下一个增长阶段，蕴含数万亿美元机遇。",
-          "url": "https://flash.jin10.com/detail/20251120062349243800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时40分"
         },
         {
           "title": "美国总统特朗普：沙特阿拉伯成为非北约盟友意义重大。",
@@ -635,7 +696,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -690,7 +751,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -734,7 +795,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -756,7 +817,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -770,6 +831,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "市场消息：一项草案显示，美国总统特朗普正在考虑签署一项行政令，以优先于各州AI法规实施联邦规定。",
+          "url": "https://flash.jin10.com/detail/20251120063519485800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美元指数涨穿100关口，为11月6日以来首次，日内当前涨超0.4%。",
@@ -844,7 +916,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -932,7 +1004,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -954,7 +1026,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -976,7 +1048,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -998,7 +1070,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -1020,7 +1092,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -1031,7 +1103,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -1050,19 +1122,8 @@
     },
     {
       "keyword_group": "彭博社 财新 关税 A股 期货 焦煤 日本 大宗交易",
-      "match_count": 59,
+      "match_count": 67,
       "titles": [
-        {
-          "title": "高市早苗“可能成为日本存亡危机”",
-          "url": "https://www.toutiao.com/trending/7572965840547627017/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
-        },
         {
           "title": "外交部回应暂停进口日本水产品",
           "url": "https://www.douyin.com/hot/2311361",
@@ -1070,6 +1131,17 @@
           "ranks": [
             2,
             1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
+          "title": "外交部：日本水产品向中国出口也不会有市场",
+          "url": "https://news.ifeng.com/c/8oPTOEujS3V",
+          "source": "凤凰网",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -1082,22 +1154,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
-        },
-        {
-          "title": "外交部：日本水产品向中国出口也不会有市场",
-          "url": "https://news.ifeng.com/c/8oPTOEujS3V",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "日媒：中国已向日本通报暂停进口日本水产品",
@@ -1118,20 +1180,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
-        },
-        {
-          "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "视频丨中方代表：日本毫无资格要求成为安理会常任理事国",
@@ -1142,13 +1192,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "碳酸锂期货盘中突破10万元大关！2026年现货价格业内预测现分歧：8-12万vs冲20万？",
           "url": "https://www.cls.cn/detail/2205409",
           "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
+          "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
           "ranks": [
             5,
             4
@@ -1165,8 +1227,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "日本外务省官员离开中国外交部",
@@ -1176,8 +1238,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
+          "title": "高市早苗“可能成为日本存亡危机”",
+          "url": "https://www.toutiao.com/trending/7572965840547627017/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "外交部回应暂停进口日本水产品",
@@ -1185,11 +1259,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "日本飞出黑天鹅突袭全球市场",
@@ -1199,25 +1274,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
-        },
-        {
-          "title": "一图看懂 | 期货价格突破10万元 碳酸锂当前价格离历史高点还有多远?",
-          "url": "https://www.cls.cn/detail/2205027",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "外交部表示即使日本水产品向中国出口也不会有市场，日方目前未能提供所承诺的水产品输华技术材料，有何影响？",
           "url": "https://www.zhihu.com/question/1974501000632090950",
           "source": "知乎",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
+          "title": "一图看懂 | 期货价格突破10万元 碳酸锂当前价格离历史高点还有多远?",
+          "url": "https://www.cls.cn/detail/2205027",
+          "source": "财联社热门",
           "ranks": [
             6,
             7
@@ -1236,8 +1311,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "日本一旅行社失去80%订单",
@@ -1260,8 +1335,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "解放军警告日本",
@@ -1274,8 +1349,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "日本经济学家：中国游客数量锐减或将使日本每年损失上万亿日元",
@@ -1287,8 +1362,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "赴日中国游客减少，日本旅游业者很担心",
@@ -1312,8 +1387,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "外交部回应暂停进口日本水产品",
@@ -1325,11 +1400,12 @@
             9,
             14,
             15,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "朝鲜：日本没资格觊觎常任理事国席位",
@@ -1341,11 +1417,23 @@
             18,
             15,
             9,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
+        },
+        {
+          "title": "高市早苗令日本外交天崩开局",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BB%A4%E6%97%A5%E6%9C%AC%E5%A4%96%E4%BA%A4%E5%A4%A9%E5%B4%A9%E5%BC%80%E5%B1%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26pos%3D10%26realpos%3D10%26lcate%3D5001%26band_rank%3D10%26filter_type%3Drealtimehot%26q%3D%2523%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E4%25BB%25A4%25E6%2597%25A5%25E6%259C%25AC%25E5%25A4%2596%25E4%25BA%25A4%25E5%25A4%25A9%25E5%25B4%25A9%25E5%25BC%2580%25E5%25B1%2580%2523%26c_type%3D31%26flag%3D0%26display_time%3D1763457662%26pre_seqid%3D17634576620800280340176&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "日本民众自发集会抗议高市错误言论",
@@ -1364,17 +1452,6 @@
           "time_info": "[00时55分 ~ 06时40分]"
         },
         {
-          "title": "高市早苗令日本外交天崩开局",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BB%A4%E6%97%A5%E6%9C%AC%E5%A4%96%E4%BA%A4%E5%A4%A9%E5%B4%A9%E5%BC%80%E5%B1%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26pos%3D10%26realpos%3D10%26lcate%3D5001%26band_rank%3D10%26filter_type%3Drealtimehot%26q%3D%2523%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E4%25BB%25A4%25E6%2597%25A5%25E6%259C%25AC%25E5%25A4%2596%25E4%25BA%25A4%25E5%25A4%25A9%25E5%25B4%25A9%25E5%25BC%2580%25E5%25B1%2580%2523%26c_type%3D31%26flag%3D0%26display_time%3D1763457662%26pre_seqid%3D17634576620800280340176&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
-        },
-        {
           "title": "日本官员低头听中方讲话",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E4%BD%8E%E5%A4%B4%E5%90%AC%E4%B8%AD%E6%96%B9%E8%AE%B2%E8%AF%9D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26pos%3D12%26realpos%3D12%26lcate%3D5001%26band_rank%3D12%26filter_type%3Drealtimehot%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E5%25AE%2598%25E5%2591%2598%25E4%25BD%258E%25E5%25A4%25B4%25E5%2590%25AC%25E4%25B8%25AD%25E6%2596%25B9%25E8%25AE%25B2%25E8%25AF%259D%2523%26c_type%3D31%26flag%3D1%26display_time%3D1763457662%26pre_seqid%3D17634576620800280340176&launchid=10000360-page_H5",
           "source": "微博",
@@ -1382,8 +1459,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "日本毫无资格要求成为常任理事国",
@@ -1395,11 +1472,12 @@
             18,
             26,
             30,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "高市早苗成为日本危机",
@@ -1409,8 +1487,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "留学日本变崇洋,怒怼国人引众怒",
@@ -1420,8 +1498,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "日本部分酒店开始遭中国顾客退订",
@@ -1431,8 +1509,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时33分]"
         },
         {
           "title": "中方：日本根本没有资格要求入常",
@@ -1461,15 +1539,59 @@
           "time_info": "[00时55分 ~ 01时34分]"
         },
         {
-          "title": "做多中国资产，外资机构看好明年A股表现",
-          "url": "https://wallstreetcn.com/livenews/3007451",
+          "title": "日本学者：高市早苗违宪",
+          "url": "https://news.ifeng.com/c/8oPwgSydK2m",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美日韩等国网友批高市早苗：对中国无礼不明智，日本输了",
+          "url": "https://news.ifeng.com/c/8oPk3MOWGts",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "藤田高景人民日报刊文：日本不能再次滑向战争深渊",
+          "url": "https://news.ifeng.com/c/8oQO066C6EU",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "纳指期货亚太盘初涨1.4%，英伟达电话会后维持超过5%的涨幅，带动芯片板块走高",
+          "url": "https://wallstreetcn.com/livenews/3007476",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "民众在东京集会，反对日本政府扩张军备(图)",
+          "url": "https://news.ifeng.com/c/8oQUCUJF34B",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时40分"
+          "time_info": "07时33分"
         },
         {
           "title": "据官员们透露，美国总统特朗普的半导体关税计划可能会被推迟。（路透）",
@@ -1534,6 +1656,18 @@
           "time_info": "[04时35分 ~ 05时29分]"
         },
         {
+          "title": "做多中国资产，外资机构看好明年A股表现",
+          "url": "https://wallstreetcn.com/livenews/3007451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时33分]"
+        },
+        {
           "title": "中国邮轮取消在日本一港口靠岸计划",
           "url": "https://www.toutiao.com/trending/7573571118443839526/",
           "source": "今日头条",
@@ -1556,6 +1690,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时34分]"
+        },
+        {
+          "title": "日本一地发生大规模火灾",
+          "url": "https://www.douyin.com/hot/2310947",
+          "source": "抖音",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时33分]"
         },
         {
           "title": "美国能源部：美国打算购买和拥有多达10座核反应堆。 将由日本承诺的5500亿美元投资提供资金来源。",
@@ -1582,6 +1728,28 @@
           "time_info": "[00时55分 ~ 01时34分]"
         },
         {
+          "title": "多家A股公司披露第四季度新签重要订单",
+          "url": "https://wallstreetcn.com/livenews/3007469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "纳指期货周四开涨1%，受英伟达(NVDA.O)等AI概念股推动。",
+          "url": "https://flash.jin10.com/detail/20251120070108833800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：9月30日当周，投机者所持COMEX黄金净多头头寸减少9,305手合约，至149,311手合约。",
           "url": "https://wallstreetcn.com/livenews/3007406",
           "source": "华尔街见闻-快讯",
@@ -1591,17 +1759,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
-        },
-        {
-          "title": "日本一地发生大规模火灾",
-          "url": "https://www.douyin.com/hot/2310947",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时40分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：9月30日当周，投机者所持美国国债期货净空头头寸减少61手合约，至78,730手合约。",
@@ -1703,6 +1860,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "日本冲绳县再曝驻日美军性暴力事件",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%B2%E7%BB%B3%E5%8E%BF%E5%86%8D%E6%9B%9D%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E6%80%A7%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "美国国务院：国务院已批准向日本政府出售弹药及相关装备的潜在对外军售案，预计金额为8200万美元。国防安全合作局已交付（所需文件）。",
           "url": "https://flash.jin10.com/detail/20251120041730665800",
           "source": "金十数据",
@@ -1720,7 +1888,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -1731,7 +1899,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -1742,7 +1910,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
