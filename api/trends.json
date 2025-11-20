@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T06:35:46.300827+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2025-11-21T07:33:21.490922+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 金价 黄金 美债 美股 美元 特朗普",
-      "match_count": 82,
+      "match_count": 92,
       "titles": [
         {
           "title": "谷歌发布新一代图像生成模型",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时33分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -28,8 +28,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时33分]"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
+          "url": "https://wallstreetcn.com/articles/3759756",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时33分]"
         },
         {
           "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
@@ -41,18 +53,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时41分 ~ 06时35分]"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
-          "url": "https://wallstreetcn.com/articles/3759756",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
@@ -67,6 +67,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时57分 ~ 03时30分]"
+        },
+        {
+          "title": "特朗普“化缘”21万亿美元意味着啥",
+          "url": "https://www.toutiao.com/trending/7574747368273219114/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时32分 ~ 07时33分]"
+        },
+        {
+          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1974981372130116043",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
+        },
+        {
+          "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
+          "url": "https://news.ifeng.com/c/8oRnabvaRvi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "金十图示：2025年11月20日（周四）热门中概股行情一览（美股盘中）",
@@ -103,6 +138,17 @@
           "time_info": "[00时57分 ~ 04时42分]"
         },
         {
+          "title": "美股上演“史诗级”高开低走，英伟达跌超3%，美债走强，比特币跌破9万关口",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "金十图示：2025年11月20日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251121050600915800",
           "source": "金十数据",
@@ -112,18 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
-        },
-        {
-          "title": "特朗普“化缘”21万亿美元意味着啥",
-          "url": "https://www.toutiao.com/trending/7574747368273219114/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时32分 ~ 06时35分]"
         },
         {
           "title": "谷歌突破苹果生态壁垒 新款手机可实现跨生态文件共享",
@@ -137,6 +171,17 @@
           "time_info": "04时42分"
         },
         {
+          "title": "美媒：美大型银行搁置了200亿美元援助阿根廷计划",
+          "url": "https://flash.jin10.com/detail/20251121072301546800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "美股七巨头收盘播报｜英伟达收跌将近3%，亚马逊跌约2.5%，特斯拉跌2.2%",
           "url": "https://wallstreetcn.com/livenews/3008179",
           "source": "华尔街见闻-快讯",
@@ -148,15 +193,27 @@
           "time_info": "05时33分"
         },
         {
-          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1974981372130116043",
-          "source": "知乎",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
+          "url": "https://www.cls.cn/detail/2206810",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月20日（周四）晚盘收盘下跌0.46%报928.15元/克；<br/>上海黄金交易所白银T+D 11月20日（周四）晚盘收盘下跌1.11%报11964.0元/千克。",
@@ -330,6 +387,18 @@
           "time_info": "[03时30分 ~ 04时42分]"
         },
         {
+          "title": "美债价格在就业数据发布后反弹，风险资产下跌让投资者转向避险美债",
+          "url": "https://wallstreetcn.com/livenews/3008208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
+        },
+        {
           "title": "美国白宫：我们相信乌克兰计划应为双方所接受，特朗普支持该计划，我们正就结束乌克兰冲突与双方进行良好的对话。",
           "url": "https://flash.jin10.com/detail/20251121025425743800",
           "source": "金十数据",
@@ -352,6 +421,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时56分]"
+        },
+        {
+          "title": "周四（11月20日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报7.1175元，较周三纽约尾盘涨1点，日内整体交投于7.1205-7.1122元区间。",
+          "url": "https://wallstreetcn.com/livenews/3008207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普带C罗参观白宫",
+          "url": "https://www.douyin.com/hot/2311861",
+          "source": "抖音",
+          "ranks": [
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 07时33分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的65.2亿美元。",
@@ -426,6 +519,18 @@
           "time_info": "[02时56分 ~ 03时30分]"
         },
         {
+          "title": "（美股）费城金银指数收跌5.06%，报281.81点，美股盘初微幅上涨至301.10点刷新日高，随后逐步回吐涨幅并转跌，01:00过后持续低位震荡。 纽约证交所ARCA金矿开采商指数收跌4.02%，报2065.29点。",
+          "url": "https://wallstreetcn.com/livenews/3008202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
+        },
+        {
           "title": "LME期铜收跌14美元，报10738美元/吨。 LME期铝收涨13美元，报2814美元/吨。 LME期锌收涨35美元，报3016美元/吨。 LME期铅收跌4美元，报2010美元/吨。 LME期镍收跌149美元，报14501美元/吨。 LME期锡收涨115美元，报37068美元/吨。 LME期钴收平，报48570美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3008116",
           "source": "华尔街见闻-快讯",
@@ -474,15 +579,28 @@
           "time_info": "[02时56分 ~ 03时30分]"
         },
         {
-          "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
-          "url": "https://www.cls.cn/detail/2206810",
-          "source": "财联社热门",
+          "title": "美国的银行业搁置对阿根廷的200亿美元救助计划。 可能会通过短期回购操作（repo）向阿根廷贷款大约50亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3008194",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            21,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
+        },
+        {
+          "title": "半导体ETF收跌超4.2%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3008193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
         },
         {
           "title": "美股高开低走动能迅速消退 降息疑虑与避险情绪笼罩市场",
@@ -507,15 +625,26 @@
           "time_info": "04时42分"
         },
         {
-          "title": "美债价格在就业数据发布后反弹，风险资产下跌让投资者转向避险美债",
-          "url": "https://wallstreetcn.com/livenews/3008208",
-          "source": "华尔街见闻-快讯",
+          "title": "美股大跌 英伟达跌超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "现货黄金站上4080美元/盎司，日内涨0.08%。",
+          "url": "https://flash.jin10.com/detail/20251121071020878800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时33分"
         },
         {
           "title": "美元兑加元USD/CAD向上触及1.41，日内涨0.36%。",
@@ -527,17 +656,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
-        },
-        {
-          "title": "周四（11月20日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报7.1175元，较周三纽约尾盘涨1点，日内整体交投于7.1205-7.1122元区间。",
-          "url": "https://wallstreetcn.com/livenews/3008207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
         },
         {
           "title": "美股跌势不止，纳指跌幅扩大至1%，纳斯达克100指数跌幅扩大至1.1%，半导体指数跌2.4%。英伟达跌1.6%。",
@@ -562,13 +680,24 @@
           "time_info": "04时42分"
         },
         {
+          "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
+          "url": "https://www.cls.cn/detail/2206823",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "美法官叫停特朗普政府在华盛顿特区部署国民警卫队计划",
           "url": "https://flash.jin10.com/detail/20251121054813113800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -617,6 +746,17 @@
           "time_info": "01时35分"
         },
         {
+          "title": "富士康：公司将每年投入20亿至30亿美元用于人工智能领域。",
+          "url": "https://flash.jin10.com/detail/20251121070156697800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "Alphabet旗下谷歌公司提议，自愿买断英国员工。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3008167",
           "source": "华尔街见闻-快讯",
@@ -639,17 +779,6 @@
           "time_info": "05时33分"
         },
         {
-          "title": "（美股）费城金银指数收跌5.06%，报281.81点，美股盘初微幅上涨至301.10点刷新日高，随后逐步回吐涨幅并转跌，01:00过后持续低位震荡。 纽约证交所ARCA金矿开采商指数收跌4.02%，报2065.29点。",
-          "url": "https://wallstreetcn.com/livenews/3008202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
           "title": "美股收盘：纳指跌超2% 英伟达高开低收",
           "url": "https://flash.jin10.com/detail/20251121050054404800",
           "source": "金十数据",
@@ -659,6 +788,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少4.29吨，当前持仓量为1039.43吨。",
+          "url": "https://flash.jin10.com/detail/20251121065741022800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "Kalshi按110亿美元估值融资10亿美元，由Sequoia与Capitalg领投，Andreessen Horowitz也有参投。（TechCrunch）",
@@ -689,7 +829,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -733,7 +873,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -741,17 +881,6 @@
           "title": "亚马逊打算对美国密西西比州Warren County投资至少30亿美元，预计将给当地创造数百个新就业岗位。",
           "url": "https://wallstreetcn.com/livenews/3008076",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "特朗普带C罗参观白宫",
-          "url": "https://www.douyin.com/hot/2311861",
-          "source": "抖音",
           "ranks": [
             19
           ],
@@ -769,6 +898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "据英国每日电讯报：根据特朗普的乌克兰和平计划，俄罗斯将摆脱西方国家的制裁，重新加入七国集团（G7），并收回大部分被冻结的资产。",
+          "url": "https://flash.jin10.com/detail/20251121063623513800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "美、布两油短线均走低0.6美元，现分别报58.96美元/桶和62.87美元/桶。",
@@ -810,18 +950,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "美国的银行业搁置对阿根廷的200亿美元救助计划。 可能会通过短期回购操作（repo）向阿根廷贷款大约50亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3008194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -854,18 +983,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "半导体ETF收跌超4.2%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3008193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -920,7 +1038,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -950,7 +1068,7 @@
     },
     {
       "keyword_group": "彭博社 财新 关税 A股 期货 焦煤 日本 大宗交易",
-      "match_count": 51,
+      "match_count": 59,
       "titles": [
         {
           "title": "日本反对日本 高市被嘘下台",
@@ -960,8 +1078,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时33分]"
         },
         {
           "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
@@ -972,8 +1090,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时33分]"
         },
         {
           "title": "高市早苗“踩到老虎尾巴”背后，是日本“乱”了",
@@ -1004,11 +1122,97 @@
           "ranks": [
             5,
             10,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时33分]"
+        },
+        {
+          "title": "订单大量取消，日本旅游业日子“很难过”",
+          "url": "https://news.ifeng.com/c/8oRT8S59v3h",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时33分]"
+        },
+        {
+          "title": "精准打击双连发,日本产业全抓瞎",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347312&amp;topic_name=%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB%E5%8F%8C%E8%BF%9E%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E5%85%A8%E6%8A%93%E7%9E%8E",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时33分]"
+        },
+        {
+          "title": "锐评｜高市挑衅言论意欲何为？中日学者揭示背后政治算计：短视行为必将反噬日本",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31996292",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时33分]"
+        },
+        {
+          "title": "日本广岛牡蛎大规模异常死亡，政府正调查原因",
+          "url": "https://news.ifeng.com/c/8oR7R8wkARy",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时33分]"
+        },
+        {
+          "title": "郑丽文：台海无事 日本才能无事",
+          "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%B8%BD%E6%96%87%EF%BC%9A%E5%8F%B0%E6%B5%B7%E6%97%A0%E4%BA%8B+%E6%97%A5%E6%9C%AC%E6%89%8D%E8%83%BD%E6%97%A0%E4%BA%8B",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时33分]"
+        },
+        {
+          "title": "视频丨超54万张飞往日本机票被取消，日本旅游遭遇“退订寒潮”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32006870",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时33分]"
+        },
+        {
+          "title": "中方禁令狠准快,日本水产全歇菜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347268&amp;topic_name=%E4%B8%AD%E6%96%B9%E7%A6%81%E4%BB%A4%E7%8B%A0%E5%87%86%E5%BF%AB%2C%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%85%A8%E6%AD%87%E8%8F%9C",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时33分]"
         },
         {
           "title": "在台日本作家：高市早苗言论暴露其无知，赖当局迎合是误判",
@@ -1022,74 +1226,17 @@
           "time_info": "[00时57分 ~ 06时35分]"
         },
         {
-          "title": "锐评｜高市挑衅言论意欲何为？中日学者揭示背后政治算计：短视行为必将反噬日本",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31996292",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
-        },
-        {
-          "title": "订单大量取消，日本旅游业日子“很难过”",
-          "url": "https://news.ifeng.com/c/8oRT8S59v3h",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
-        },
-        {
-          "title": "精准打击双连发,日本产业全抓瞎",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347312&amp;topic_name=%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB%E5%8F%8C%E8%BF%9E%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E5%85%A8%E6%8A%93%E7%9E%8E",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
-        },
-        {
-          "title": "日本广岛牡蛎大规模异常死亡，政府正调查原因",
-          "url": "https://news.ifeng.com/c/8oR7R8wkARy",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
-        },
-        {
-          "title": "郑丽文：台海无事 日本才能无事",
-          "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%B8%BD%E6%96%87%EF%BC%9A%E5%8F%B0%E6%B5%B7%E6%97%A0%E4%BA%8B+%E6%97%A5%E6%9C%AC%E6%89%8D%E8%83%BD%E6%97%A0%E4%BA%8B",
-          "source": "百度热搜",
+          "title": "纳指期货盘前涨超2% 英伟达财报击退“泡沫论” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2206692",
+          "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
-        },
-        {
-          "title": "视频丨超54万张飞往日本机票被取消，日本旅游遭遇“退订寒潮”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32006870",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
+          "time_info": "[01时35分 ~ 07时33分]"
         },
         {
           "title": "日本一天爆发两场抗议集会",
@@ -1112,17 +1259,6 @@
             20,
             25,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
-        },
-        {
-          "title": "中方禁令狠准快,日本水产全歇菜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347268&amp;topic_name=%E4%B8%AD%E6%96%B9%E7%A6%81%E4%BB%A4%E7%8B%A0%E5%87%86%E5%BF%AB%2C%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%85%A8%E6%AD%87%E8%8F%9C",
-          "source": "贴吧",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -1155,19 +1291,6 @@
           "time_info": "[00时57分 ~ 06时35分]"
         },
         {
-          "title": "纳指期货盘前涨超2% 英伟达财报击退“泡沫论” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2206692",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时35分 ~ 06时35分]"
-        },
-        {
           "title": "日本政府被判赔39亿日元",
           "url": "https://www.douyin.com/hot/2311991",
           "source": "抖音",
@@ -1178,19 +1301,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时56分 ~ 06时35分]"
-        },
-        {
-          "title": "美国白宫：特朗普的行政令取消了对巴西牛肉、咖啡和橙汁的进口关税。",
-          "url": "https://flash.jin10.com/detail/20251121062734130800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
+          "appearance_count": 8,
+          "time_info": "[02时56分 ~ 07时33分]"
         },
         {
           "title": "赖清德晒午餐吃日料表达对日本的支持，外交部回应",
@@ -1201,8 +1313,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时30分 ~ 06时35分]"
+          "appearance_count": 7,
+          "time_info": "[03时30分 ~ 07时33分]"
+        },
+        {
+          "title": "日本10月全国未季调CPI月率 0.7%，前值-0.1%。",
+          "url": "https://flash.jin10.com/detail/20251121073053687800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "日本曾多次就台湾有事兵棋推演",
@@ -1218,26 +1341,37 @@
           "time_info": "[00时57分 ~ 06时35分]"
         },
         {
-          "title": "美国白宫：总统特朗普针对巴西进口商品发布的行政令取消了7月30日宣布加征的关税。",
-          "url": "https://flash.jin10.com/detail/20251121062712464800",
+          "title": "日本10月核心CPI年率 3%，预期3.00%，前值2.90%。",
+          "url": "https://flash.jin10.com/detail/20251121073003168800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时33分"
         },
         {
-          "title": "特朗普签署命令 免除部分巴西农产品40%的关税",
-          "url": "https://flash.jin10.com/detail/20251121060251003800",
+          "title": "日本10月全国CPI年率 3%，预期3.00%，前值2.90%。",
+          "url": "https://flash.jin10.com/detail/20251121073003145800",
           "source": "金十数据",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美国国会预算办公室下调关税收入预估 料难弥补特朗普减税影响",
+          "url": "https://wallstreetcn.com/livenews/3008221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "爱达邮轮回应取消停靠日本宫古岛",
@@ -1264,6 +1398,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时56分 ~ 04时42分]"
+        },
+        {
+          "title": "美国白宫：特朗普的行政令取消了对巴西牛肉、咖啡和橙汁的进口关税。",
+          "url": "https://flash.jin10.com/detail/20251121062734130800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
         },
         {
           "title": "英国央行货币政策委员会（MPC）成员Dhingra：关税造成英国价格轻微下降。",
@@ -1302,6 +1448,18 @@
           "time_info": "[05时33分 ~ 06时35分]"
         },
         {
+          "title": "美国白宫：总统特朗普针对巴西进口商品发布的行政令取消了7月30日宣布加征的关税。",
+          "url": "https://flash.jin10.com/detail/20251121062712464800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
+        },
+        {
           "title": "芝加哥小麦期货跌1.5%，大豆与豆粕跌约1.2%",
           "url": "https://wallstreetcn.com/livenews/3008154",
           "source": "华尔街见闻-快讯",
@@ -1326,6 +1484,18 @@
           "time_info": "[03时30分 ~ 04时42分]"
         },
         {
+          "title": "特朗普签署命令 免除部分巴西农产品40%的关税",
+          "url": "https://flash.jin10.com/detail/20251121060251003800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
+        },
+        {
           "title": "日本股债汇“连续三杀”：“高市早苗”交易再见，“抛售日本”交易才刚刚开始",
           "url": "https://wallstreetcn.com/articles/3759761",
           "source": "华尔街见闻",
@@ -1333,8 +1503,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时32分 ~ 06时35分]"
+          "appearance_count": 4,
+          "time_info": "[05时32分 ~ 07时33分]"
         },
         {
           "title": "超54万张飞往日本机票被取消",
@@ -1374,6 +1544,18 @@
           "time_info": "[04时42分 ~ 05时33分]"
         },
         {
+          "title": "周四（11月20日）纽约尾盘，标普500股指期货最终下跌1.64%，道指期货跌0.83%，纳斯达克100股指期货跌2.61%。 罗素2000股指期货跌1.88%。",
+          "url": "https://wallstreetcn.com/livenews/3008206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
+        },
+        {
           "title": "WTI原油期货转跌，乌克兰总统泽连斯基暗示对和平谈判持开放态度。",
           "url": "https://wallstreetcn.com/livenews/3008084",
           "source": "华尔街见闻-快讯",
@@ -1384,6 +1566,54 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时35分]"
+        },
+        {
+          "title": "周四（11月20日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.20%，报87605美元，北京时间22:00之前维持上涨状态——持稳于92000美元附近，之后开始下行，03:04刷新日低至86075美元。 CME以太币期货DCR主力合约跌1.82%，报2891.50美元，日内交投于3065.50-2792.50美元区间。 美股加密货币与加密货币关联指数跌5.49%，报58.79点。 MarketVector数字资产100小盘指数最近24小时跌3.59%，暂报18187.16点。 北京时间05:58，现货比特币跌2.23%，报87199.85美元；以太坊跌1.41%，Solana涨1.08%，狗狗币涨0.90%，XRP跌0.91%。",
+          "url": "https://wallstreetcn.com/livenews/3008204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
+        },
+        {
+          "title": "周四（11月20日）纽约尾盘，现货白银跌1.40%，报50.6407美元/盎司。 COMEX白银期货跌1.02%，报50.335美元/盎司。 COMEX铜期货跌1.20%，报4.9585美元/磅。 现货铂金跌2.13%，报1514.43美元/盎司；现货钯金跌0.66%，报1381.63美元/盎司，北京时间22:42涨至1429.17美元刷新日高，00:00出现一波显著的跳水行情。",
+          "url": "https://wallstreetcn.com/livenews/3008203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
+        },
+        {
+          "title": "周四（11月20日）纽约尾盘，现货黄金持平，报4077.91美元/盎司，北京时间08:01涨至4110.15美元刷新日高，10:00前后出现一波跳水行情，16:23刷新日低至4038.97美元，美股开盘前后出现一波冲高回落行情。 COMEX黄金期货跌0.16%，报4076.40美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3008201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普修改对巴西商品关税范围",
+          "url": "https://wallstreetcn.com/livenews/3008195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
         },
         {
           "title": "日本一旅行社失去80%订单",
@@ -1409,15 +1639,26 @@
           "time_info": "[04时41分 ~ 04时42分]"
         },
         {
-          "title": "周四（11月20日）纽约尾盘，标普500股指期货最终下跌1.64%，道指期货跌0.83%，纳斯达克100股指期货跌2.61%。 罗素2000股指期货跌1.88%。",
-          "url": "https://wallstreetcn.com/livenews/3008206",
-          "source": "华尔街见闻-快讯",
+          "title": "日本10月核心CPI年率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251121072000001800",
+          "source": "金十数据",
           "ranks": [
-            10
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时33分"
+        },
+        {
+          "title": "A股ESG实践从“合规披露”迈向“主动布局”",
+          "url": "https://wallstreetcn.com/livenews/3008218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "据日经新闻：SBI 和 Alliance Bernstein将在日本推出首家专注于主动管理型交易所交易基金（ETFs）的资产管理公司。",
@@ -1448,18 +1689,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "周四（11月20日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.20%，报87605美元，北京时间22:00之前维持上涨状态——持稳于92000美元附近，之后开始下行，03:04刷新日低至86075美元。 CME以太币期货DCR主力合约跌1.82%，报2891.50美元，日内交投于3065.50-2792.50美元区间。 美股加密货币与加密货币关联指数跌5.49%，报58.79点。 MarketVector数字资产100小盘指数最近24小时跌3.59%，暂报18187.16点。 北京时间05:58，现货比特币跌2.23%，报87199.85美元；以太坊跌1.41%，Solana涨1.08%，狗狗币涨0.90%，XRP跌0.91%。",
-          "url": "https://wallstreetcn.com/livenews/3008204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -1475,17 +1705,6 @@
           "time_info": "00时57分"
         },
         {
-          "title": "周四（11月20日）纽约尾盘，现货白银跌1.40%，报50.6407美元/盎司。 COMEX白银期货跌1.02%，报50.335美元/盎司。 COMEX铜期货跌1.20%，报4.9585美元/磅。 现货铂金跌2.13%，报1514.43美元/盎司；现货钯金跌0.66%，报1381.63美元/盎司，北京时间22:42涨至1429.17美元刷新日高，00:00出现一波显著的跳水行情。",
-          "url": "https://wallstreetcn.com/livenews/3008203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
           "title": "英国央行货币政策委员丁格拉：关税将导致英国物价小幅下降。",
           "url": "https://flash.jin10.com/detail/20251121031326295800",
           "source": "金十数据",
@@ -1497,15 +1716,15 @@
           "time_info": "04时42分"
         },
         {
-          "title": "周四（11月20日）纽约尾盘，现货黄金持平，报4077.91美元/盎司，北京时间08:01涨至4110.15美元刷新日高，10:00前后出现一波跳水行情，16:23刷新日低至4038.97美元，美股开盘前后出现一波冲高回落行情。 COMEX黄金期货跌0.16%，报4076.40美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3008201",
-          "source": "华尔街见闻-快讯",
+          "title": "富士康：正与日本政府商谈潜在的人工智能和电动汽车投资事宜。",
+          "url": "https://flash.jin10.com/detail/20251121070128399800",
+          "source": "金十数据",
           "ranks": [
-            15
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时33分"
         },
         {
           "title": "美国白宫：美国总统特朗普签署命令，修改对巴西政府关税的适用范围。",
@@ -1514,20 +1733,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
         {
-          "title": "特朗普修改对巴西商品关税范围",
-          "url": "https://wallstreetcn.com/livenews/3008195",
-          "source": "华尔街见闻-快讯",
+          "title": "美国白宫：美国总统特朗普的命令还取消了对巴西飞机零部件进口征收的40%关税。",
+          "url": "https://flash.jin10.com/detail/20251121064419834800",
+          "source": "金十数据",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时33分"
         },
         {
           "title": "日本政府顾问：在日元跌至160之前可能会触发干预",
@@ -1536,7 +1755,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
