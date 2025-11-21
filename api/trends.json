@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T15:36:06.112380+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2025-11-21T16:55:33.906410+08:00",
+  "total_titles_processed": 1401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 关税 A股 期货 焦煤 日本 大宗交易",
-      "match_count": 138,
+      "match_count": 145,
       "titles": [
         {
           "title": "日本反对日本 高市被嘘下台",
@@ -71,23 +71,12 @@
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时37分 ~ 15时36分]"
-        },
-        {
-          "title": "日本还抗议了，世界哭笑不得",
-          "url": "https://news.ifeng.com/c/8oSF6Z2nQ1S",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时37分 ~ 15时36分]"
+          "appearance_count": 7,
+          "time_info": "[11时37分 ~ 16时55分]"
         },
         {
           "title": "日本多个行业为高市早苗买单",
@@ -98,6 +87,18 @@
             1,
             4,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时37分 ~ 16时55分]"
+        },
+        {
+          "title": "日本还抗议了，世界哭笑不得",
+          "url": "https://news.ifeng.com/c/8oSF6Z2nQ1S",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -155,6 +156,22 @@
           "time_info": "[03时30分 ~ 15时36分]"
         },
         {
+          "title": "视频丨超54万张飞往日本机票被取消，日本旅游遭遇“退订寒潮”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32006870",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 16时55分]"
+        },
+        {
           "title": "精准打击双连发,日本产业全抓瞎",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347312&amp;topic_name=%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB%E5%8F%8C%E8%BF%9E%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E5%85%A8%E6%8A%93%E7%9E%8E",
           "source": "贴吧",
@@ -166,23 +183,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 15时36分]"
-        },
-        {
-          "title": "视频丨超54万张飞往日本机票被取消，日本旅游遭遇“退订寒潮”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32006870",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 15时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 16时55分]"
         },
         {
           "title": "纳指期货盘前涨超2% 英伟达财报击退“泡沫论” | 今夜看点",
@@ -223,8 +225,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 15时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 16时55分]"
         },
         {
           "title": "日本连片170栋建筑被烧成废墟",
@@ -321,11 +323,40 @@
           "source": "百度热搜",
           "ranks": [
             13,
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时45分 ~ 16时55分]"
+        },
+        {
+          "title": "日本多个行业为高市早苗买单，50 多万名中国游客取消原定日本行程，此次事件对日本经济影响到底有多大？",
+          "url": "https://www.zhihu.com/question/1975169592130286012",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时45分 ~ 15时36分]"
+          "appearance_count": 4,
+          "time_info": "[14时59分 ~ 16时55分]"
+        },
+        {
+          "title": "日本学者：高市言论冲击日本经济",
+          "url": "https://www.douyin.com/hot/2312966",
+          "source": "抖音",
+          "ranks": [
+            9,
+            14,
+            16,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时37分 ~ 16时55分]"
         },
         {
           "title": "日本水产从业者忧水产品销路，呼吁高市政府回应",
@@ -369,24 +400,37 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
         {
-          "title": "日本学者：高市言论冲击日本经济",
-          "url": "https://www.douyin.com/hot/2312966",
-          "source": "抖音",
+          "title": "日本拟推超20万亿日元经济刺激计划",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8B%9F%E6%8E%A8%E8%B6%8520%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83%E7%BB%8F%E6%B5%8E%E5%88%BA%E6%BF%80%E8%AE%A1%E5%88%92",
+          "source": "百度热搜",
           "ranks": [
-            9,
+            23,
+            17,
             14,
-            16,
-            18,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时45分 ~ 16时55分]"
+        },
+        {
+          "title": "插裤兜很正常 日本别痴心妄想了",
+          "url": "https://www.baidu.com/s?wd=%E6%8F%92%E8%A3%A4%E5%85%9C%E5%BE%88%E6%AD%A3%E5%B8%B8+%E6%97%A5%E6%9C%AC%E5%88%AB%E7%97%B4%E5%BF%83%E5%A6%84%E6%83%B3%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            15,
             17
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时37分 ~ 15时36分]"
+          "time_info": "[12时45分 ~ 16时55分]"
         },
         {
           "title": "日本曾多次就台湾有事兵棋推演",
@@ -400,6 +444,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时57分 ~ 06时35分]"
+        },
+        {
+          "title": "俄发布日本1945年投降画面警告日本",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%8F%91%E5%B8%83%E6%97%A5%E6%9C%AC1945%E5%B9%B4%E6%8A%95%E9%99%8D%E7%94%BB%E9%9D%A2%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "日本10月核心CPI年率 3%，预期3.00%，前值2.90%。",
@@ -435,25 +490,13 @@
           "time_info": "07时33分"
         },
         {
-          "title": "日本多个行业为高市早苗买单，50 多万名中国游客取消原定日本行程，此次事件对日本经济影响到底有多大？",
-          "url": "https://www.zhihu.com/question/1975169592130286012",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时59分 ~ 15时36分]"
-        },
-        {
           "title": "金十期货11月21日讯，上海航运交易所数据显示，截至11月21日，上海出口集装箱运价指数（综合指数）报1393.56点，与上期相比下跌57.82点；中国出口集装箱运价综合指数报1122.79点，与上期相比涨2.6%。",
           "url": "https://flash.jin10.com/detail/20251121150840838800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -497,7 +540,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -516,31 +559,18 @@
           "time_info": "[12时45分 ~ 15时36分]"
         },
         {
-          "title": "日本拟推超20万亿日元经济刺激计划",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8B%9F%E6%8E%A8%E8%B6%8520%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83%E7%BB%8F%E6%B5%8E%E5%88%BA%E6%BF%80%E8%AE%A1%E5%88%92",
+          "title": "高市言论给日本经济界带来巨大冲击",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E8%A8%80%E8%AE%BA%E7%BB%99%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E7%95%8C%E5%B8%A6%E6%9D%A5%E5%B7%A8%E5%A4%A7%E5%86%B2%E5%87%BB",
           "source": "百度热搜",
           "ranks": [
-            23,
-            17,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时45分 ~ 15时36分]"
-        },
-        {
-          "title": "插裤兜很正常 日本别痴心妄想了",
-          "url": "https://www.baidu.com/s?wd=%E6%8F%92%E8%A3%A4%E5%85%9C%E5%BE%88%E6%AD%A3%E5%B8%B8+%E6%97%A5%E6%9C%AC%E5%88%AB%E7%97%B4%E5%BF%83%E5%A6%84%E6%83%B3%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            27,
+            18,
             15,
-            17
+            19,
+            27
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时45分 ~ 15时36分]"
+          "time_info": "[13时43分 ~ 16时55分]"
         },
         {
           "title": "爱达邮轮回应取消停靠日本宫古岛",
@@ -580,6 +610,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时37分 ~ 13时43分]"
+        },
+        {
+          "title": "日媒：日本多次就“台湾有事”作兵棋推演",
+          "url": "https://news.ifeng.com/c/8oSVvTsUcJx",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时59分 ~ 16时55分]"
         },
         {
           "title": "上期所原油期货2501合约夜盘收跌0.73%，报451.70元人民币/桶。 沪金夜盘收跌0.66%，沪银收跌1.34%。",
@@ -691,6 +732,18 @@
           "time_info": "[04时42分 ~ 05时33分]"
         },
         {
+          "title": "日本真“有事”了 高市何以“了事”",
+          "url": "https://www.toutiao.com/trending/7574989394847731254/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时59分 ~ 16时55分]"
+        },
+        {
           "title": "早盘收盘，国内期货主力合约涨跌互现。碳酸锂跌超8%，沪银跌超3%，红枣、低硫燃料油（LU）、集运指数（欧线）、玻璃、工业硅、SC原油跌超2%。涨幅方面，淀粉涨超1%，玉米涨近1%。",
           "url": "https://flash.jin10.com/detail/20251121113043880800",
           "source": "金十数据",
@@ -774,19 +827,6 @@
           "time_info": "[05时32分 ~ 07时33分]"
         },
         {
-          "title": "高市言论给日本经济界带来巨大冲击",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E8%A8%80%E8%AE%BA%E7%BB%99%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E7%95%8C%E5%B8%A6%E6%9D%A5%E5%B7%A8%E5%A4%A7%E5%86%B2%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 15时36分]"
-        },
-        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -810,29 +850,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时37分 ~ 14时59分]"
-        },
-        {
-          "title": "日媒：日本多次就“台湾有事”作兵棋推演",
-          "url": "https://news.ifeng.com/c/8oSVvTsUcJx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时59分 ~ 15时36分]"
-        },
-        {
-          "title": "日本真“有事”了 高市何以“了事”",
-          "url": "https://www.toutiao.com/trending/7574989394847731254/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时59分 ~ 15时36分]"
         },
         {
           "title": "日本股债汇继续三杀",
@@ -1197,7 +1214,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -1211,6 +1228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：如果柏崎刈羽核电站6号反应堆满负荷运行，将使东京地区的供需平衡改善约2%。",
+          "url": "https://flash.jin10.com/detail/20251121163257576800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "期货盯盘神器专属文章",
@@ -1285,9 +1313,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：正考虑通过产业投资机构（IPA）向日本半导体公司Rapidus投资1000亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3008545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "专家：日本自卫队长期觊觎台海",
@@ -1351,7 +1390,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -1373,7 +1412,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -1422,6 +1461,17 @@
           "time_info": "13时43分"
         },
         {
+          "title": "日本将琉球改为冲绳县",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E7%90%89%E7%90%83%E6%94%B9%E4%B8%BA%E5%86%B2%E7%BB%B3%E5%8E%BF%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普签署命令，修改对巴西政府关税的适用范围。",
           "url": "https://flash.jin10.com/detail/20251121053841010800",
           "source": "金十数据",
@@ -1461,7 +1511,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -1532,6 +1582,17 @@
           "time_info": "14时59分"
         },
         {
+          "title": "欧洲央行行长拉加德：服务和商品市场中的内部壁垒分别相当于约100%和65%的关税。",
+          "url": "https://flash.jin10.com/detail/20251121162100900800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "日本正向核力量靠拢",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%90%91%E6%A0%B8%E5%8A%9B%E9%87%8F%E9%9D%A0%E6%8B%A2%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1541,6 +1602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "外交部回应日本出口杀伤性武器",
+          "url": "https://www.douyin.com/hot/2313493",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "40年期日本国债收益率下跌7.0个基点，至3.675%。",
@@ -1620,6 +1692,17 @@
           "time_info": "03时30分"
         },
         {
+          "title": "人们不禁要问日本意欲何为",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BB%AC%E4%B8%8D%E7%A6%81%E8%A6%81%E9%97%AE%E6%97%A5%E6%9C%AC%E6%84%8F%E6%AC%B2%E4%BD%95%E4%B8%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "荷兰国际银行：日本出口与通胀数据强化央行加息预期",
           "url": "https://flash.jin10.com/detail/20251121104057402800",
           "source": "金十数据",
@@ -1645,7 +1728,7 @@
     },
     {
       "keyword_group": "谷歌 金价 黄金 美债 美股 美元 特朗普",
-      "match_count": 131,
+      "match_count": 140,
       "titles": [
         {
           "title": "谷歌发布新一代图像生成模型",
@@ -1670,6 +1753,44 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时57分 ~ 07时33分]"
+        },
+        {
+          "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
+          "url": "https://www.cls.cn/detail/2206908",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时37分 ~ 16时55分]"
+        },
+        {
+          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
+          "url": "https://wallstreetcn.com/articles/3759840",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时37分 ~ 16时55分]"
+        },
+        {
+          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
+          "url": "https://wallstreetcn.com/articles/3759847",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时37分 ~ 16时55分]"
         },
         {
           "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
@@ -1697,52 +1818,17 @@
           "time_info": "[00时57分 ~ 07时33分]"
         },
         {
-          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
-          "url": "https://wallstreetcn.com/articles/3759840",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时37分 ~ 15时36分]"
-        },
-        {
-          "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
-          "url": "https://www.cls.cn/detail/2206908",
+          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
+          "url": "https://www.cls.cn/detail/2206941",
           "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时37分 ~ 15时36分]"
-        },
-        {
-          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
-          "url": "https://wallstreetcn.com/articles/3759847",
-          "source": "华尔街见闻",
           "ranks": [
             5,
             4,
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时37分 ~ 15时36分]"
-        },
-        {
-          "title": "美股为何巨震暴跌",
-          "url": "https://www.toutiao.com/trending/7574979338739650091/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时45分 ~ 15时36分]"
+          "time_info": "[12时45分 ~ 16时55分]"
         },
         {
           "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
@@ -1768,18 +1854,6 @@
           "time_info": "[07时33分 ~ 15时36分]"
         },
         {
-          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
-          "url": "https://www.cls.cn/detail/2206941",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时45分 ~ 15时36分]"
-        },
-        {
           "title": "英伟达市值一夜蒸发1429亿美元",
           "url": "https://www.toutiao.com/trending/7574350572359696427/",
           "source": "今日头条",
@@ -1791,6 +1865,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时37分 ~ 15时36分]"
+        },
+        {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.toutiao.com/trending/7574979338739650091/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时45分 ~ 16时55分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
@@ -1890,6 +1976,19 @@
           "time_info": "[11时37分 ~ 15时36分]"
         },
         {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时45分 ~ 16时55分]"
+        },
+        {
           "title": "美股上演“史诗级”高开低走，英伟达跌超3%，美债走强，比特币跌破9万关口",
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
@@ -1907,9 +2006,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD突破1.31，日内涨0.21%。",
+          "url": "https://flash.jin10.com/detail/20251121164725235800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "金十图示：2025年11月20日（周四）热门中概股行情一览（美股收盘）",
@@ -1921,6 +2031,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "美国银行表示，截至周三的一周内，美国国债资金流入达88亿美元，为四月以来最大规模。",
+          "url": "https://flash.jin10.com/detail/20251121164400819800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "谷歌突破苹果生态壁垒 新款手机可实现跨生态文件共享",
@@ -1951,9 +2072,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "美国银行援引EPFR数据称，科技股今年有望创下750亿美元的资金流入纪录。",
+          "url": "https://flash.jin10.com/detail/20251121164351837800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌将近3%，亚马逊跌约2.5%，特斯拉跌2.2%",
@@ -1978,17 +2110,16 @@
           "time_info": "07时33分"
         },
         {
-          "title": "美股为何巨震暴跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
           "ranks": [
-            29,
-            28,
-            24
+            21,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时45分 ~ 15时36分]"
+          "time_info": "[13时43分 ~ 16时55分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月20日（周四）晚盘收盘下跌0.46%报928.15元/克；<br/>上海黄金交易所白银T+D 11月20日（周四）晚盘收盘下跌1.11%报11964.0元/千克。",
@@ -2063,6 +2194,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时45分 ~ 13时43分]"
+        },
+        {
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时59分 ~ 16时55分]"
         },
         {
           "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股收盘）",
@@ -2171,28 +2313,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时30分 ~ 04时42分]"
-        },
-        {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 15时36分]"
-        },
-        {
-          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
-          "url": "https://wallstreetcn.com/articles/3759849",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时59分 ~ 15时36分]"
         },
         {
           "title": "周四（11月20日），美联储隔夜逆回购协议（RRP）使用规模为65.20亿美元，上个交易日报11.29亿美元。",
@@ -2505,6 +2625,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "全球股市重挫，币圈流血不止，比特币跌破8.4万美元，欧股股指集体低开，日韩大幅收跌",
+          "url": "https://wallstreetcn.com/articles/3759842",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "现货黄金站上4080美元/盎司，日内涨0.08%。",
           "url": "https://flash.jin10.com/detail/20251121071020878800",
           "source": "金十数据",
@@ -2533,9 +2664,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.1103，较上一交易日官方收盘价涨64点，较上日夜盘收盘涨77点。",
+          "url": "https://wallstreetcn.com/livenews/3008549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "特朗普晒与C罗在白宫踢球AI视频",
@@ -2577,7 +2719,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -2665,7 +2807,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -2679,6 +2821,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "现货黄金重新转涨，现报4080美元/盎司。",
@@ -2767,6 +2920,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "美元指数DXY回落至100下方，日内跌0.23%。",
+          "url": "https://flash.jin10.com/detail/20251121162526707800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产下降至7.52万亿美元。",
@@ -3017,7 +3181,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -3130,6 +3294,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "美元延续疲软走势 分析师：仍预计美联储12月按兵不动",
+          "url": "https://flash.jin10.com/detail/20251121161656689800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "特朗普政府宣布油气开发新动作 多州强烈反对",
+          "url": "https://wallstreetcn.com/livenews/3008527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "科兴生物被美股“劝退”",
