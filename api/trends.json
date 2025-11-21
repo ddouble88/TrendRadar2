@@ -1,33 +1,403 @@
 {
-  "generated_at": "2025-11-22T00:48:02.849463+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-22T01:38:09.912718+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "谷歌 金价 黄金 美债 美股 美元 特朗普",
+      "match_count": 33,
+      "titles": [
+        {
+          "title": "美联储高官安抚市场，美股指数集体高开，美债走高，礼来市值破万亿美元，比特币短线反弹3000美元，金银跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3759842",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
+        },
+        {
+          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
+          "url": "https://wallstreetcn.com/articles/3759847",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
+        },
+        {
+          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
+          "url": "https://wallstreetcn.com/articles/3759840",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
+        },
+        {
+          "title": "周五（11月21日），韩元兑美元最终涨0.19%，报1470.98韩元。 本周，该货币对累计下跌1.18%，整体上从1450.89韩元持续走低至1478.01韩元。",
+          "url": "https://wallstreetcn.com/livenews/3008831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "金十图示：2025年11月21日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251122013041840800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "谷歌公司推出BigQuery AI。",
+          "url": "https://wallstreetcn.com/livenews/3008826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
+        },
+        {
+          "title": "美元兑日元USD/JPY短线波动不大，现报156.67。",
+          "url": "https://flash.jin10.com/detail/20251122004132965800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时38分]"
+        },
+        {
+          "title": "美元兑瑞郎USD/CHF日内涨幅扩大至0.50%，现报0.8097。",
+          "url": "https://flash.jin10.com/detail/20251122004117528800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时38分]"
+        },
+        {
+          "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2207754",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰尊重美国总统特朗普的和平努力。",
+          "url": "https://flash.jin10.com/detail/20251122003317235800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时38分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗希望（围绕其核问题）达成一份协议，我们可能会这样做。",
+          "url": "https://wallstreetcn.com/livenews/3008806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时38分]"
+        },
+        {
+          "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
+          "url": "https://www.cls.cn/detail/2207612",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
+        },
+        {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
+        },
+        {
+          "title": "美国总统特朗普：（下）周四可作为乌克兰和平计划的最后期限。 如果进展顺利，倾向于将这个最后期限推后。",
+          "url": "https://wallstreetcn.com/livenews/3008805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时38分]"
+        },
+        {
+          "title": "美国总统特朗普：下周四是乌克兰接受美国支持的和平方案的合适期限。",
+          "url": "https://flash.jin10.com/detail/20251122002520185800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时38分]"
+        },
+        {
+          "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
+          "url": "https://wallstreetcn.com/livenews/3008802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时38分]"
+        },
+        {
+          "title": "高盛合伙人：美股出现多头缴械迹象，市场似乎正进入AI周期的新阶段",
+          "url": "https://wallstreetcn.com/livenews/3008798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时38分]"
+        },
+        {
+          "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
+          "url": "https://wallstreetcn.com/livenews/3008796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时38分]"
+        },
+        {
+          "title": "诺基亚计划在美国进行40亿美元AI投资",
+          "url": "https://wallstreetcn.com/livenews/3008795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时38分]"
+        },
+        {
+          "title": "特朗普社媒帖子引发连锁威胁 民主党议员要求警察调查总统",
+          "url": "https://flash.jin10.com/detail/20251122012739675800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "谷歌：我们推出BigQuery AI。",
+          "url": "https://flash.jin10.com/detail/20251122011317548800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美股V形反转，道指涨约1%",
+          "url": "https://wallstreetcn.com/livenews/3008815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "纽元兑美元NZD/USD日内涨幅达0.50%，现报0.5611。",
+          "url": "https://flash.jin10.com/detail/20251122010753925800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "现货黄金持续走高，重回4100美元/盎司上方。",
+          "url": "https://flash.jin10.com/detail/20251122010009293800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美股三大股指均涨超1%，英伟达(NVDA.O)日内转涨，此前一度跌4%。",
+          "url": "https://flash.jin10.com/detail/20251122005849224800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美国银行放松监管利好 杰富瑞预测2.6万亿美元贷款能力将释放",
+          "url": "https://flash.jin10.com/detail/20251122005416106800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "南非无视特朗普政府发出的威胁，起草二十国集团（G20）峰会公报。 G20表示，保护关键矿物（的供应）不至于遭受单边贸易（政策的）限制。",
+          "url": "https://wallstreetcn.com/livenews/3008792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "现货黄金短线拉升超10美元，突破4090美元/盎司，日内涨0.33%。",
+          "url": "https://flash.jin10.com/detail/20251122005151227800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美股延续涨势，道指涨1%。",
+          "url": "https://flash.jin10.com/detail/20251122004255320800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
+          "url": "https://flash.jin10.com/detail/20251121234321355800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "美国总统特朗普：如果事情进展顺利，倾向于延长截止日期。",
+          "url": "https://flash.jin10.com/detail/20251121234229867800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "礼来成为全球首家市值突破1万亿美元的医疗保健公司",
+          "url": "https://wallstreetcn.com/livenews/3008779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "彭博社 财新 关税 A股 期货 焦煤 日本 大宗交易",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "日本多个行业为高市早苗买单，50 多万名中国游客取消原定日本行程，此次事件对日本经济影响到底有多大？",
           "url": "https://www.zhihu.com/question/1975169592130286012",
           "source": "知乎",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
-        },
-        {
-          "title": "与中国闹翻日本经济界先慌了",
-          "url": "https://www.toutiao.com/trending/7574250888475590692/",
-          "source": "今日头条",
-          "ranks": [
+            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
           "title": "解放军报警告：高市要日本万劫不复吗",
@@ -37,8 +407,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
           "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
@@ -48,8 +418,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
           "title": "敌国条款重申,日本伸手必挨打",
@@ -59,8 +429,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
           "title": "日本演员古川雄辉发文致歉",
@@ -70,8 +440,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
           "title": "中国点穴式制裁日本",
@@ -81,8 +451,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
           "title": "日本将因高市早苗言论损失多少真金白银？我们算了一笔账",
@@ -92,30 +462,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
-          "title": "据日经新闻：日本央行委员增一行表示，我们即将做出加息决定，我不能说是哪个月，但我们已经接近加息时机。",
-          "url": "https://flash.jin10.com/detail/20251122004057409800",
-          "source": "金十数据",
+          "title": "与中国闹翻日本经济界先慌了",
+          "url": "https://www.toutiao.com/trending/7574250888475590692/",
+          "source": "今日头条",
           "ranks": [
-            3
+            2,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
           "title": "中国代表：对这样的日本必须严加管束",
           "url": "https://www.toutiao.com/trending/7575092725462695955/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
+        },
+        {
+          "title": "湾湾接盘日本海鲜,核食吃到饱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347382&amp;topic_name=%E6%B9%BE%E6%B9%BE%E6%8E%A5%E7%9B%98%E6%97%A5%E6%9C%AC%E6%B5%B7%E9%B2%9C%2C%E6%A0%B8%E9%A3%9F%E5%90%83%E5%88%B0%E9%A5%B1",
+          "source": "贴吧",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "time_info": "[01时37分 ~ 01时38分]"
         },
         {
           "title": "敌国条款称日本侵略五常可直接动武",
@@ -125,8 +508,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
           "title": "高市早苗最新表态：台湾问题立场不变！外交部质问：日本加紧“重新武装”，究竟意欲何为？",
@@ -136,41 +519,56 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
+        },
+        {
+          "title": "据日经新闻：日本央行委员增一行表示，我们即将做出加息决定，我不能说是哪个月，但我们已经接近加息时机。",
+          "url": "https://flash.jin10.com/detail/20251122004057409800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "time_info": "[00时48分 ~ 01时38分]"
         },
         {
           "title": "UP主探访日本美军基地汉堡店",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8E%A2%E8%AE%BF%E6%97%A5%E6%9C%AC%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E6%B1%89%E5%A0%A1%E5%BA%97",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
           "title": "日本首相官邸外抗议人数剧增",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E5%AE%98%E9%82%B8%E5%A4%96%E6%8A%97%E8%AE%AE%E4%BA%BA%E6%95%B0%E5%89%A7%E5%A2%9E",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
           "title": "A股牛市要结束了吗",
           "url": "https://www.toutiao.com/trending/7575138184879672868/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
           "title": "俄发布日本1945年投降画面警告日本",
@@ -180,63 +578,80 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
           "title": "更大更强的航母或出现在日本",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%B4%E5%A4%A7%E6%9B%B4%E5%BC%BA%E7%9A%84%E8%88%AA%E6%AF%8D%E6%88%96%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
           "title": "专家：日本的军事野心已彻底暴露",
           "url": "https://www.toutiao.com/trending/7575170048625479218/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
           "title": "业内：A股向上趋势不变",
           "url": "https://www.toutiao.com/trending/7575161815512911379/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
           "title": "精准打击双连发,日本产业全抓瞎",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347312&amp;topic_name=%E7%B2%BE%E5%87%86%E6%89%93%E5%87%BB%E5%8F%8C%E8%BF%9E%E5%8F%91%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E5%85%A8%E6%8A%93%E7%9E%8E",
           "source": "贴吧",
           "ranks": [
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
+        },
+        {
+          "title": "日元持续贬值日本发出最强烈警告",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%85%83%E6%8C%81%E7%BB%AD%E8%B4%AC%E5%80%BC%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E6%9C%80%E5%BC%BA%E7%83%88%E8%AD%A6%E5%91%8A%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
           "title": "日本将因高市言论损失多少真金白银",
           "url": "https://www.toutiao.com/trending/7574441599560826906/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时38分]"
         },
         {
           "title": "台退役少校：台湾的事关日本什么事",
@@ -250,15 +665,15 @@
           "time_info": "[00时47分 ~ 00时48分]"
         },
         {
-          "title": "日元持续贬值日本发出最强烈警告",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%85%83%E6%8C%81%E7%BB%AD%E8%B4%AC%E5%80%BC%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E6%9C%80%E5%BC%BA%E7%83%88%E8%AD%A6%E5%91%8A%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "日本央行政策委员Masu称：“接近”作出加息决定",
+          "url": "https://wallstreetcn.com/livenews/3008828",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
         },
         {
           "title": "内盘期货夜市多数收跌，苯乙烯、低硫燃油等跌超2%，焦煤跌约1.1%，铁矿石微涨",
@@ -267,244 +682,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 金价 黄金 美债 美股 美元 特朗普",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "美联储高官安抚市场，美股指数集体高开，美债走高，礼来市值破万亿美元，比特币短线反弹3000美元，金银跌幅收窄",
-          "url": "https://wallstreetcn.com/articles/3759842",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
-        },
-        {
-          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
-          "url": "https://wallstreetcn.com/articles/3759847",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
-        },
-        {
-          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
-          "url": "https://wallstreetcn.com/articles/3759840",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
-        },
-        {
-          "title": "美元兑日元USD/JPY短线波动不大，现报156.67。",
-          "url": "https://flash.jin10.com/detail/20251122004132965800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "美元兑瑞郎USD/CHF日内涨幅扩大至0.50%，现报0.8097。",
-          "url": "https://flash.jin10.com/detail/20251122004117528800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰尊重美国总统特朗普的和平努力。",
-          "url": "https://flash.jin10.com/detail/20251122003317235800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗希望（围绕其核问题）达成一份协议，我们可能会这样做。",
-          "url": "https://wallstreetcn.com/livenews/3008806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
-          "url": "https://wallstreetcn.com/articles/3759849",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
-        },
-        {
-          "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2207754",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
-        },
-        {
-          "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
-          "url": "https://www.cls.cn/detail/2207612",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
-        },
-        {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
-        },
-        {
-          "title": "美国总统特朗普：（下）周四可作为乌克兰和平计划的最后期限。 如果进展顺利，倾向于将这个最后期限推后。",
-          "url": "https://wallstreetcn.com/livenews/3008805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "美国总统特朗普：下周四是乌克兰接受美国支持的和平方案的合适期限。",
-          "url": "https://flash.jin10.com/detail/20251122002520185800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
-          "url": "https://wallstreetcn.com/livenews/3008802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "高盛合伙人：美股出现多头缴械迹象，市场似乎正进入AI周期的新阶段",
-          "url": "https://wallstreetcn.com/livenews/3008798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
-          "url": "https://wallstreetcn.com/livenews/3008796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "诺基亚计划在美国进行40亿美元AI投资",
-          "url": "https://wallstreetcn.com/livenews/3008795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "南非无视特朗普政府发出的威胁，起草二十国集团（G20）峰会公报。 G20表示，保护关键矿物（的供应）不至于遭受单边贸易（政策的）限制。",
-          "url": "https://wallstreetcn.com/livenews/3008792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
-          "url": "https://flash.jin10.com/detail/20251121234321355800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "美国总统特朗普：如果事情进展顺利，倾向于延长截止日期。",
-          "url": "https://flash.jin10.com/detail/20251121234229867800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "礼来成为全球首家市值突破1万亿美元的医疗保健公司",
-          "url": "https://wallstreetcn.com/livenews/3008779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "00时48分"
         }
