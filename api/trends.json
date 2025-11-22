@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T01:33:30.249655+08:00",
-  "total_titles_processed": 336,
+  "generated_at": "2025-11-23T02:51:05.090402+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 关税 A股 期货 焦煤 日本 大宗交易",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "日本已付出代价",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "全服通告!中方致函联合国警告日本",
@@ -37,19 +37,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
-          "title": "日本金融市场遭遇债汇双杀",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA%E9%81%AD%E9%81%87%E5%80%BA%E6%B1%87%E5%8F%8C%E6%9D%80",
-          "source": "bilibili 热搜",
+          "title": "日本已付出代价",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "“台湾有事，日本有事”为什么让中国人如此愤怒",
@@ -59,19 +60,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
-          "title": "日本已付出代价",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "日本金融市场遭遇债汇双杀",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA%E9%81%AD%E9%81%87%E5%80%BA%E6%B1%87%E5%8F%8C%E6%9D%80",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "中国反制稳准狠,日本遭股债汇三杀",
@@ -81,8 +83,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "万亿级券商或诞生 本周披露并购重组进展的A股名单一览",
@@ -93,8 +95,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
+        },
+        {
+          "title": "日本股市大跌、「抛售日本」潮加剧，会对日本经济造成怎样的影响？",
+          "url": "https://www.zhihu.com/question/1975608470024777738",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "中国航司大面积取消日本航班",
@@ -104,31 +118,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
-        },
-        {
-          "title": "日本股市大跌、「抛售日本」潮加剧，会对日本经济造成怎样的影响？",
-          "url": "https://www.zhihu.com/question/1975608470024777738",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
-        },
-        {
-          "title": "114亿美元代价！日本旅游业复苏势头恐被按下“暂停键”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32016722",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "实拍日本民众抗议现场",
@@ -139,8 +130,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
+        },
+        {
+          "title": "114亿美元代价！日本旅游业复苏势头恐被按下“暂停键”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32016722",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "日本机场安检员偷中国游客现金被捕",
@@ -151,8 +155,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "日本机场安检员偷中国游客现金被捕",
@@ -164,8 +168,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "偷中国游客现金 日本机场安检员被捕",
@@ -176,8 +180,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "人民日报钟声：一意孤行抑或回归理性，日本再次面临抉择",
@@ -187,8 +191,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "人民日报钟声：一意孤行抑或回归理性，日本再次面临抉择",
@@ -198,8 +202,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "敌国条款重申,日本伸手必挨打",
@@ -209,8 +213,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "湾湾接盘日本海鲜,核食吃到饱",
@@ -220,8 +224,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "日本前首相野田佳彦再批高市早苗",
@@ -232,8 +236,53 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
+        },
+        {
+          "title": "日本长期以核能掩盖核武能力",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%95%BF%E6%9C%9F%E4%BB%A5%E6%A0%B8%E8%83%BD%E6%8E%A9%E7%9B%96%E6%A0%B8%E6%AD%A6%E8%83%BD%E5%8A%9B",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
+        },
+        {
+          "title": "日本军事评论家：高市早苗涉台谬论严重背离日本民众和平意愿",
+          "url": "https://wallstreetcn.com/livenews/3009013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "time_info": "[00时45分 ~ 02时51分]"
+        },
+        {
+          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时51分]"
+        },
+        {
+          "title": "A股大盘进入调整阶段",
+          "url": "https://www.toutiao.com/trending/7574762466995945535/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "放弃靠岸日本的中国邮轮改去越南",
@@ -248,37 +297,15 @@
           "time_info": "[00时44分 ~ 01时33分]"
         },
         {
-          "title": "日本长期以核能掩盖核武能力",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%95%BF%E6%9C%9F%E4%BB%A5%E6%A0%B8%E8%83%BD%E6%8E%A9%E7%9B%96%E6%A0%B8%E6%AD%A6%E8%83%BD%E5%8A%9B",
-          "source": "百度热搜",
+          "title": "“一切为了中选”！明年上半年的美国政策组合：“关税退坡+财货双松”？",
+          "url": "https://wallstreetcn.com/articles/3759925",
+          "source": "华尔街见闻",
           "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
-        },
-        {
-          "title": "日本军事评论家：高市早苗涉台谬论严重背离日本民众和平意愿",
-          "url": "https://wallstreetcn.com/livenews/3009013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时33分]"
-        },
-        {
-          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3009012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时33分]"
+          "time_info": "[02时50分 ~ 02时51分]"
         },
         {
           "title": "日本人没米下锅了",
@@ -292,15 +319,15 @@
           "time_info": "[00时44分 ~ 00时45分]"
         },
         {
-          "title": "A股大盘进入调整阶段",
-          "url": "https://www.toutiao.com/trending/7574762466995945535/",
+          "title": "中国航司大面积调整日本航线",
+          "url": "https://www.toutiao.com/trending/7574456738733621267/",
           "source": "今日头条",
           "ranks": [
-            30
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 02时51分]"
         }
       ]
     },
@@ -317,8 +344,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -329,8 +356,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
@@ -341,19 +368,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
           "url": "https://m.thepaper.cn/newsDetail_forward_32019589",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -363,19 +391,77 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
           "url": "https://wallstreetcn.com/articles/3759917",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
+        },
+        {
+          "title": "柬埔寨“江湖大嫂”口供曝光：布局4天劫囚救夫，花1500美元买枪",
+          "url": "https://news.ifeng.com/c/8oUYgVS7kmn",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
+        },
+        {
+          "title": "男子称给女友买1.5万黄金后被拉黑",
+          "url": "https://www.toutiao.com/trending/7575421487273312319/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
+        },
+        {
+          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时51分]"
+        },
+        {
+          "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
+          "url": "https://flash.jin10.com/detail/20251122223224197800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
+          "time_info": "[00时45分 ~ 02时51分]"
+        },
+        {
+          "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
+          "url": "https://flash.jin10.com/detail/20251122223006926800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时51分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限，普京：已收到美提出的计划，俄方愿谈判",
@@ -389,62 +475,6 @@
           "time_info": "[00时44分 ~ 01时33分]"
         },
         {
-          "title": "柬埔寨“江湖大嫂”口供曝光：布局4天劫囚救夫，花1500美元买枪",
-          "url": "https://news.ifeng.com/c/8oUYgVS7kmn",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
-        },
-        {
-          "title": "男子称给女友买1.5万黄金后被拉黑",
-          "url": "https://www.toutiao.com/trending/7575421487273312319/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
-        },
-        {
-          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时33分]"
-        },
-        {
-          "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
-          "url": "https://flash.jin10.com/detail/20251122223224197800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时33分]"
-        },
-        {
-          "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
-          "url": "https://flash.jin10.com/detail/20251122223006926800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时33分]"
-        },
-        {
           "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3009010",
           "source": "华尔街见闻-快讯",
@@ -452,8 +482,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时51分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
@@ -463,8 +493,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时51分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
