@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T16:46:04.065977+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2025-11-23T17:35:43.080057+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 关税 A股 期货 焦煤 日本 大宗交易",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 16时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 17时35分]"
         },
         {
           "title": "全服通告!中方致函联合国警告日本",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 16时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 17时35分]"
         },
         {
           "title": "日本已付出代价",
@@ -62,8 +62,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 16时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 17时35分]"
+        },
+        {
+          "title": "偷中国游客现金，日本机场一安检员被捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32023339",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 17时35分]"
         },
         {
           "title": "日本股市大跌、「抛售日本」潮加剧，会对日本经济造成怎样的影响？",
@@ -90,20 +103,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 16时46分]"
-        },
-        {
-          "title": "偷中国游客现金，日本机场一安检员被捕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32023339",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时53分 ~ 16时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 17时35分]"
         },
         {
           "title": "日本长期以核能掩盖核武能力",
@@ -137,11 +138,12 @@
           "ranks": [
             1,
             2,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时53分 ~ 16时46分]"
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 17时35分]"
         },
         {
           "title": "日本金融市场遭遇债汇双杀",
@@ -237,11 +239,12 @@
             16,
             17,
             18,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 16时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 17时35分]"
         },
         {
           "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
@@ -252,11 +255,12 @@
             17,
             18,
             19,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 16时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 17时35分]"
         },
         {
           "title": "偷中国游客现金 日本机场安检员被捕",
@@ -309,8 +313,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 16时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 17时35分]"
         },
         {
           "title": "湾湾接盘日本海鲜,核食吃到饱",
@@ -321,8 +325,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 16时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 17时35分]"
         },
         {
           "title": "日本前首相野田佳彦再批高市早苗",
@@ -365,6 +369,19 @@
           "time_info": "[00时44分 ~ 06时39分]"
         },
         {
+          "title": "日本人不敢相信自己眼睛",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1%E8%87%AA%E5%B7%B1%E7%9C%BC%E7%9D%9B",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 17时35分]"
+        },
+        {
           "title": "日本机场安检员偷中国游客现金被捕",
           "url": "https://www.toutiao.com/trending/7575347307517198379/",
           "source": "今日头条",
@@ -378,19 +395,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时44分 ~ 07时33分]"
-        },
-        {
-          "title": "日本人不敢相信自己眼睛",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1%E8%87%AA%E5%B7%B1%E7%9C%BC%E7%9D%9B",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时53分 ~ 16时46分]"
         },
         {
           "title": "日本早已制定三套夺岛方案",
@@ -413,8 +417,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 17时35分]"
         },
         {
           "title": "王毅：有权利对日本历史罪行再清算",
@@ -425,8 +429,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 16时46分]"
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 17时35分]"
+        },
+        {
+          "title": "日本“夺岛”方案注定出动即失败",
+          "url": "https://news.ifeng.com/c/8oVjOaHBVA0",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 17时35分]"
         },
         {
           "title": "王毅：绝不允许日本军国主义死灰复燃",
@@ -434,11 +449,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时40分 ~ 16时46分]"
+          "appearance_count": 7,
+          "time_info": "[13时40分 ~ 17时35分]"
         },
         {
           "title": "中国双拳痛击日本",
@@ -453,15 +469,16 @@
           "time_info": "[12时57分 ~ 13时40分]"
         },
         {
-          "title": "日本“夺岛”方案注定出动即失败",
-          "url": "https://news.ifeng.com/c/8oVjOaHBVA0",
-          "source": "凤凰网",
+          "title": "日本社民党党首发文抗议高市早苗错误言论",
+          "url": "https://wallstreetcn.com/livenews/3009049",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            4,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
+          "time_info": "[16时46分 ~ 17时35分]"
         },
         {
           "title": "14名日本人在马来西亚落网",
@@ -501,15 +518,18 @@
           "time_info": "11时53分"
         },
         {
-          "title": "日本社民党党首发文抗议高市早苗错误言论",
-          "url": "https://wallstreetcn.com/livenews/3009049",
-          "source": "华尔街见闻-快讯",
+          "title": "小泉进次郎就任日本防卫相后首次访问冲绳",
+          "url": "https://flash.jin10.com/detail/20251123142653243800",
+          "source": "金十数据",
           "ranks": [
-            4
+            4,
+            9,
+            14,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时54分 ~ 17时35分]"
         },
         {
           "title": "人民日报钟声：日本再次面临抉择",
@@ -524,19 +544,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时27分 ~ 07时33分]"
-        },
-        {
-          "title": "小泉进次郎就任日本防卫相后首次访问冲绳",
-          "url": "https://flash.jin10.com/detail/20251123142653243800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 16时46分]"
         },
         {
           "title": "“军国主义”为何能在日本存续下来",
@@ -634,11 +641,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32025481",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 17时35分]"
         },
         {
           "title": "日本人没米下锅了",
@@ -661,6 +669,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "日本现职领导人越了不应碰的红线",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%8E%B0%E8%81%8C%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%B6%8A%E4%BA%86%E4%B8%8D%E5%BA%94%E7%A2%B0%E7%9A%84%E7%BA%A2%E7%BA%BF%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "俄媒：为何日本西欧摆出军事化姿态",
+          "url": "https://www.toutiao.com/trending/7575001709903511595/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         }
       ]
     },
@@ -704,8 +734,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 16时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 17时35分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -741,11 +771,12 @@
             19,
             20,
             21,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 16时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 17时35分]"
         },
         {
           "title": "柬埔寨“江湖大嫂”口供曝光：布局4天劫囚救夫，花1500美元买枪",
@@ -799,6 +830,20 @@
           "time_info": "[00时44分 ~ 05时31分]"
         },
         {
+          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 17时35分]"
+        },
+        {
           "title": "男子称给女友买1.5万黄金后被拉黑",
           "url": "https://www.toutiao.com/trending/7575421487273312319/",
           "source": "今日头条",
@@ -816,6 +861,21 @@
           "time_info": "[00时44分 ~ 07时33分]"
         },
         {
+          "title": "比特币突破86000美元/枚，日内涨1.63%；以太坊向上触及2800美元/枚，日内涨1.11%。",
+          "url": "https://wallstreetcn.com/livenews/3009032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            6,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 17时35分]"
+        },
+        {
           "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
           "url": "https://flash.jin10.com/detail/20251122223224197800",
           "source": "金十数据",
@@ -825,20 +885,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时45分 ~ 07时33分]"
-        },
-        {
-          "title": "比特币突破86000美元/枚，日内涨1.63%；以太坊向上触及2800美元/枚，日内涨1.11%。",
-          "url": "https://wallstreetcn.com/livenews/3009032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 16时46分]"
         },
         {
           "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
@@ -852,20 +898,6 @@
           "time_info": "[00时45分 ~ 07时33分]"
         },
         {
-          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时53分 ~ 16时46分]"
-        },
-        {
           "title": "特朗普表示，那些煽动美军无视他命令的“叛徒”应该被关进监狱，而不是出现在假新闻上，试图为自己的行为辩解。",
           "url": "https://flash.jin10.com/detail/20251123123342966800",
           "source": "金十数据",
@@ -874,11 +906,12 @@
             4,
             16,
             21,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时57分 ~ 16时46分]"
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 17时35分]"
         },
         {
           "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
@@ -921,6 +954,18 @@
           "time_info": "[15时32分 ~ 16时46分]"
         },
         {
+          "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
+          "url": "https://www.zhihu.com/question/1975522293208876150",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 17时35分]"
+        },
+        {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限，普京：已收到美提出的计划，俄方愿谈判",
           "url": "https://wallstreetcn.com/articles/3759903",
           "source": "华尔街见闻",
@@ -930,6 +975,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 01时33分]"
+        },
+        {
+          "title": "特朗普：若泽连斯基不同意，可以继续拼死抵抗",
+          "url": "https://news.ifeng.com/c/8oVo9VsbeqC",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 17时35分]"
         },
         {
           "title": "比特币突破86000美元/枚，日内涨1.63%。",
@@ -956,28 +1012,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时53分 ~ 13时40分]"
-        },
-        {
-          "title": "特朗普：若泽连斯基不同意，可以继续拼死抵抗",
-          "url": "https://news.ifeng.com/c/8oVo9VsbeqC",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
-        },
-        {
-          "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
-          "url": "https://www.zhihu.com/question/1975522293208876150",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
