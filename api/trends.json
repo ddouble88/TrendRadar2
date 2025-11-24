@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T14:58:16.485932+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2025-11-24T15:36:17.093958+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 关税 A股 期货 焦煤 日本 大宗交易",
-      "match_count": 74,
+      "match_count": 81,
       "titles": [
         {
           "title": "日本网民批高市早苗：去中国道歉",
@@ -31,18 +31,6 @@
           "time_info": "[00时44分 ~ 07时33分]"
         },
         {
-          "title": "世界周刊之日本危险转向",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E4%B9%8B%E6%97%A5%E6%9C%AC%E5%8D%B1%E9%99%A9%E8%BD%AC%E5%90%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时44分 ~ 14时58分]"
-        },
-        {
           "title": "口嫌体直,日本人疯抢中国大米",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347420&amp;topic_name=%E5%8F%A3%E5%AB%8C%E4%BD%93%E7%9B%B4%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%96%AF%E6%8A%A2%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%B1%B3",
           "source": "贴吧",
@@ -51,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 14时58分]"
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 15时36分]"
         },
         {
           "title": "搞事恶果已现，日本何去何从？",
@@ -63,8 +51,58 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 14时58分]"
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 15时36分]"
+        },
+        {
+          "title": "世界周刊之日本危险转向",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E4%B9%8B%E6%97%A5%E6%9C%AC%E5%8D%B1%E9%99%A9%E8%BD%AC%E5%90%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时44分 ~ 15时36分]"
+        },
+        {
+          "title": "高市早苗为何一意孤行？日本政府内部：你捅了大娄子！",
+          "url": "https://news.ifeng.com/c/8oXR0XsqHEw",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 15时36分]"
+        },
+        {
+          "title": "中国对日本的最新警告很不一般",
+          "url": "https://www.toutiao.com/trending/7575191520555974710/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 15时36分]"
+        },
+        {
+          "title": "台湾没什么事日本真有事了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B2%A1%E4%BB%80%E4%B9%88%E4%BA%8B%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 15时36分]"
         },
         {
           "title": "央媒：日本“夺岛”方案，注定出动即失败",
@@ -80,15 +118,17 @@
           "time_info": "[00时44分 ~ 12时59分]"
         },
         {
-          "title": "高市早苗为何一意孤行？日本政府内部：你捅了大娄子！",
-          "url": "https://news.ifeng.com/c/8oXR0XsqHEw",
-          "source": "凤凰网",
+          "title": "台湾没什么事日本真有事了",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%B2%A1%E4%BB%80%E4%B9%88%E4%BA%8B%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            5
+            2,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 14时58分]"
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 15时36分]"
         },
         {
           "title": "牛弹琴：日本人不敢相信自己眼睛",
@@ -107,6 +147,29 @@
           "time_info": "[00时44分 ~ 07时33分]"
         },
         {
+          "title": "中方用胆敢二字警告日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E7%94%A8%E8%83%86%E6%95%A2%E4%BA%8C%E5%AD%97%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时44分 ~ 15时36分]"
+        },
+        {
+          "title": "日本三名前首相接连批评高市早苗谬论",
+          "url": "https://news.ifeng.com/c/8oXaTKHpxhq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时44分 ~ 15时36分]"
+        },
+        {
           "title": "日本共产党党报揭批：高市早苗企图建立战争国家",
           "url": "https://news.ifeng.com/c/8oWIRgbTmKd",
           "source": "凤凰网",
@@ -119,19 +182,6 @@
           "time_info": "[00时44分 ~ 07时33分]"
         },
         {
-          "title": "中国对日本的最新警告很不一般",
-          "url": "https://www.toutiao.com/trending/7575191520555974710/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 14时58分]"
-        },
-        {
           "title": "全服通告!中方致函联合国警告日本",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347398&amp;topic_name=%E5%85%A8%E6%9C%8D%E9%80%9A%E5%91%8A%21%E4%B8%AD%E6%96%B9%E8%87%B4%E5%87%BD%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
           "source": "贴吧",
@@ -139,11 +189,12 @@
             13,
             14,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时44分 ~ 14时58分]"
+          "appearance_count": 21,
+          "time_info": "[00时44分 ~ 15时36分]"
         },
         {
           "title": "中国反制稳准狠,日本遭股债汇三杀",
@@ -153,11 +204,12 @@
             15,
             16,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时44分 ~ 14时58分]"
+          "appearance_count": 21,
+          "time_info": "[00时44分 ~ 15时36分]"
         },
         {
           "title": "王毅：绝不允许日本军国主义死灰复燃",
@@ -174,52 +226,56 @@
           "time_info": "[00时44分 ~ 07时33分]"
         },
         {
-          "title": "台湾没什么事日本真有事了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B2%A1%E4%BB%80%E4%B9%88%E4%BA%8B%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%E4%BA%86%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 14时58分]"
-        },
-        {
-          "title": "台湾没什么事日本真有事了",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%B2%A1%E4%BB%80%E4%B9%88%E4%BA%8B%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%E4%BA%86",
+          "title": "日本砸131亿日元在台搞媚日宣传",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A0%B8131%E4%BA%BF%E6%97%A5%E5%85%83%E5%9C%A8%E5%8F%B0%E6%90%9E%E5%AA%9A%E6%97%A5%E5%AE%A3%E4%BC%A0",
           "source": "百度热搜",
           "ranks": [
-            2,
-            6,
-            7
+            9,
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 14时58分]"
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 15时36分]"
         },
         {
-          "title": "中方用胆敢二字警告日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E7%94%A8%E8%83%86%E6%95%A2%E4%BA%8C%E5%AD%97%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "中国对日本的最新警告很不一般",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%97%A5%E6%9C%AC%E7%9A%84%E6%9C%80%E6%96%B0%E8%AD%A6%E5%91%8A%E5%BE%88%E4%B8%8D%E4%B8%80%E8%88%AC",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            1
+            12,
+            13,
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 14时58分]"
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 15时36分]"
         },
         {
-          "title": "日本三名前首相接连批评高市早苗谬论",
-          "url": "https://news.ifeng.com/c/8oXaTKHpxhq",
-          "source": "凤凰网",
+          "title": "台评论员：琉球跟日本没半毛钱关系",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%EF%BC%9A%E7%90%89%E7%90%83%E8%B7%9F%E6%97%A5%E6%9C%AC%E6%B2%A1%E5%8D%8A%E6%AF%9B%E9%92%B1%E5%85%B3%E7%B3%BB",
+          "source": "百度热搜",
           "ranks": [
-            4
+            16,
+            18,
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 14时58分]"
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 15时36分]"
+        },
+        {
+          "title": "中国对日本的最新警告很不一般",
+          "url": "https://www.douyin.com/hot/2315943",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 15时36分]"
         },
         {
           "title": "日本“夺岛”方案注定出动即失败",
@@ -259,53 +315,40 @@
           "time_info": "[11时53分 ~ 12时59分]"
         },
         {
-          "title": "日本砸131亿日元在台搞媚日宣传",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A0%B8131%E4%BA%BF%E6%97%A5%E5%85%83%E5%9C%A8%E5%8F%B0%E6%90%9E%E5%AA%9A%E6%97%A5%E5%AE%A3%E4%BC%A0",
-          "source": "百度热搜",
+          "title": "12 条中日航线取消全部航班，日本旅游业将面临什么？中国游客对日本旅游业重要性有多大？",
+          "url": "https://www.zhihu.com/question/1976258610913891213",
+          "source": "知乎",
           "ranks": [
-            9,
-            8
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 14时58分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 15时36分]"
         },
         {
-          "title": "中国对日本的最新警告很不一般",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%97%A5%E6%9C%AC%E7%9A%84%E6%9C%80%E6%96%B0%E8%AD%A6%E5%91%8A%E5%BE%88%E4%B8%8D%E4%B8%80%E8%88%AC",
-          "source": "百度热搜",
+          "title": "李家超：香港特区政府支持国家对日本的外交政策",
+          "url": "https://news.ifeng.com/c/8oXZCEHDeMJ",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            13,
-            24
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 14时58分]"
+          "appearance_count": 6,
+          "time_info": "[13时44分 ~ 15时36分]"
         },
         {
-          "title": "台评论员：琉球跟日本没半毛钱关系",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%EF%BC%9A%E7%90%89%E7%90%83%E8%B7%9F%E6%97%A5%E6%9C%AC%E6%B2%A1%E5%8D%8A%E6%AF%9B%E9%92%B1%E5%85%B3%E7%B3%BB",
-          "source": "百度热搜",
+          "title": "距离中国台湾仅110公里 日本宣布在敏感区域部署导弹",
+          "url": "https://www.cls.cn/detail/2208785",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            18,
-            19
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 14时58分]"
-        },
-        {
-          "title": "中国对日本的最新警告很不一般",
-          "url": "https://www.douyin.com/hot/2315943",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 14时58分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 15时36分]"
         },
         {
           "title": "日本砸131亿日元在台搞媚日宣传",
@@ -321,6 +364,18 @@
           "time_info": "[11时53分 ~ 13时45分]"
         },
         {
+          "title": "日本公众：希望大熊猫留在上野动物园",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%85%AC%E4%BC%97%EF%BC%9A%E5%B8%8C%E6%9C%9B%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%95%99%E5%9C%A8%E4%B8%8A%E9%87%8E%E5%8A%A8%E7%89%A9%E5%9B%AD",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 15时36分]"
+        },
+        {
           "title": "高市花几小时挑衣服遭日本网友嘲讽",
           "url": "https://www.toutiao.com/trending/7575166335756471851/",
           "source": "今日头条",
@@ -332,6 +387,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时53分 ~ 13时45分]"
+        },
+        {
+          "title": "媒体：中国反制措施重挫日本经济",
+          "url": "https://www.toutiao.com/trending/7575185846568632346/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时44分 ~ 15时36分]"
         },
         {
           "title": "特朗普：“囤货”现象即将结束 关税收入将激增",
@@ -356,6 +424,20 @@
           "time_info": "07时33分"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251124111452731800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            24,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 15时36分]"
+        },
+        {
           "title": "年末重新增配A股迎来契机？投资主线有哪些？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2208280",
           "source": "财联社热门",
@@ -366,18 +448,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时53分 ~ 12时59分]"
-        },
-        {
-          "title": "李家超：香港特区政府支持国家对日本的外交政策",
-          "url": "https://news.ifeng.com/c/8oXZCEHDeMJ",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 14时58分]"
         },
         {
           "title": "中国对日本的最新警告，很不一般",
@@ -392,17 +462,16 @@
           "time_info": "[07时33分 ~ 11时53分]"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251124111452731800",
-          "source": "金十数据",
+          "title": "A股三大指数翻红，创业板涨近1%，阿里概念股大涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
+          "url": "https://wallstreetcn.com/articles/3759974",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            24,
-            10
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 13时45分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 15时36分]"
         },
         {
           "title": "富宝资讯：碳酸锂期货盘面震荡偏弱，富宝电池级碳酸锂报90000元/吨",
@@ -477,18 +546,6 @@
           "time_info": "[13时45分 ~ 14时58分]"
         },
         {
-          "title": "媒体：中国反制措施重挫日本经济",
-          "url": "https://www.toutiao.com/trending/7575185846568632346/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 14时58分]"
-        },
-        {
           "title": "高市之祸来了 日本发出最强烈警告",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E4%B9%8B%E7%A5%B8%E6%9D%A5%E4%BA%86+%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E6%9C%80%E5%BC%BA%E7%83%88%E8%AD%A6%E5%91%8A",
           "source": "百度热搜",
@@ -549,39 +606,6 @@
           "time_info": "[13时44分 ~ 13时45分]"
         },
         {
-          "title": "12 条中日航线取消全部航班，日本旅游业将面临什么？中国游客对日本旅游业重要性有多大？",
-          "url": "https://www.zhihu.com/question/1976258610913891213",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
-        },
-        {
-          "title": "A股三大指数翻红，创业板涨近1%，阿里概念股大涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
-          "url": "https://wallstreetcn.com/articles/3759974",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
-        },
-        {
-          "title": "距离中国台湾仅110公里 日本宣布在敏感区域部署导弹",
-          "url": "https://www.cls.cn/detail/2208785",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
-        },
-        {
           "title": "日本政府顾问：可动用外汇储备干预并支撑日元",
           "url": "https://flash.jin10.com/detail/20251124122234590800",
           "source": "金十数据",
@@ -606,15 +630,15 @@
           "time_info": "[11时53分 ~ 12时59分]"
         },
         {
-          "title": "日本公众：希望大熊猫留在上野动物园",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%85%AC%E4%BC%97%EF%BC%9A%E5%B8%8C%E6%9C%9B%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%95%99%E5%9C%A8%E4%B8%8A%E9%87%8E%E5%8A%A8%E7%89%A9%E5%9B%AD",
-          "source": "百度热搜",
+          "title": "日本欠台湾的血债该还了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AC%A0%E5%8F%B0%E6%B9%BE%E7%9A%84%E8%A1%80%E5%80%BA%E8%AF%A5%E8%BF%98%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            16
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
+          "time_info": "[15时35分 ~ 15时36分]"
         },
         {
           "title": "美国财长贝森特：我们看到价格（稳定性）“变得更好”。 是服务业造成通胀上升，而不是（与总统特朗普关税相关的）进口商品。 能源价格下跌，这将拉低其他价格。 预计某些领域的价格将在未来数周下降，其他则需等待好几个月。 接下来一周，我们将看到（特朗普政府）关于医疗保健成本的公告。（NBC）",
@@ -712,7 +736,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -723,7 +747,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -737,6 +761,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251124151605137800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约涨0.15%，10年期主力合约涨0.06%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3009428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "日本前首相批评高市错误言论 称应阐明日方官方立场",
@@ -756,7 +802,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -767,7 +813,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -794,6 +840,17 @@
           "time_info": "12时59分"
         },
         {
+          "title": "金十数据整理：A股每日市场要闻回顾（2025-11-24）",
+          "url": "https://flash.jin10.com/detail/20251124151122439800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "股指期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20251124113105861800",
           "source": "金十数据",
@@ -811,7 +868,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -833,9 +890,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "A股收盘：三大指数小幅上涨，军工板块集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3009419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "赣锋锂业A股跌近8%，赣锋锂业H股跌超6%。高盛下调赣锋锂业H股评级至卖出。",
@@ -849,6 +917,17 @@
           "time_info": "11时53分"
         },
         {
+          "title": "日本Rapidus拟于2031年左右进行IPO",
+          "url": "https://flash.jin10.com/detail/20251124150852044800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -858,6 +937,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "商品期货收盘，甲醇主力合约涨超3%，玻璃涨近3%，乙二醇、玉米、淀粉、棉纱、红枣、多晶硅涨超1%。碳酸锂、LU燃油、液化气、纯苯跌超2%，苯乙烯、焦煤、棕榈油、沪银、原油跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3009414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "A股三大指数集体翻绿，创业板指此前一度涨超1%，锂矿、海南、磷化工、燃气等板块跌幅居前，沪深京三市下跌个股超2100只。",
@@ -885,7 +975,7 @@
     },
     {
       "keyword_group": "谷歌 金价 黄金 美债 美股 美元 特朗普",
-      "match_count": 51,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -907,8 +997,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时53分 ~ 14时58分]"
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 15时36分]"
         },
         {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
@@ -941,6 +1031,17 @@
           "time_info": "[00时44分 ~ 06时40分]"
         },
         {
+          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
+          "url": "https://wallstreetcn.com/articles/3759968",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 15时36分]"
+        },
+        {
           "title": "特朗普：普京只敢在拜登任内动手 我继承了一场本不该发生的“俄乌冲突”",
           "url": "https://flash.jin10.com/detail/20251123222329110800",
           "source": "金十数据",
@@ -954,15 +1055,16 @@
           "time_info": "[00时45分 ~ 05时32分]"
         },
         {
-          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
-          "url": "https://wallstreetcn.com/articles/3759968",
-          "source": "华尔街见闻",
+          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
+          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
+          "source": "凤凰网",
           "ranks": [
-            4
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
+          "appearance_count": 6,
+          "time_info": "[13时44分 ~ 15时36分]"
         },
         {
           "title": "11月24日悉尼盘初，美元兑日元涨0.12%，报156.59日元。 欧元兑美元暂报1.1519，英镑兑美元暂报1.3103，美元兑瑞郎暂时持稳于0.8083。",
@@ -1015,6 +1117,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时45分 ~ 05时32分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月24日（周一）收盘下跌0.16%报926.0元/克；<br/>上海黄金交易所白银T+D 11月24日（周一）收盘下跌0.02%报11828.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251124153440946800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "特朗普顾问哈塞特：新的美联储领导层可能会降息",
@@ -1075,6 +1188,17 @@
           "time_info": "[03时29分 ~ 07时33分]"
         },
         {
+          "title": "现货钯金日内涨超2.00%，现报1394.43美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251124153319394800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "特朗普抨击乌克兰领导层",
           "url": "https://wallstreetcn.com/livenews/3009162",
           "source": "华尔街见闻-快讯",
@@ -1098,6 +1222,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时40分 ~ 07时33分]"
+        },
+        {
+          "title": "贝森特：政府停摆造成110亿美元损失 但美国经济并无衰退风险",
+          "url": "https://www.cls.cn/detail/2208412",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 15时36分]"
         },
         {
           "title": "据知情人士透露，美国与乌克兰讨论本周将乌总统泽连斯基带到美国。 特朗普政府希望，在感恩节（11月27日）之前达成协议。（CBS）",
@@ -1200,18 +1336,6 @@
           "time_info": "[04时40分 ~ 06时40分]"
         },
         {
-          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
-          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 14时58分]"
-        },
-        {
           "title": "市场消息：特朗普预计最早将于当时时间周一公布控制医疗成本的总体框架方案。",
           "url": "https://flash.jin10.com/detail/20251124061816910800",
           "source": "金十数据",
@@ -1309,17 +1433,6 @@
           "time_info": "[07时33分 ~ 13时45分]"
         },
         {
-          "title": "贝森特：政府停摆造成110亿美元损失 但美国经济并无衰退风险",
-          "url": "https://www.cls.cn/detail/2208412",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 13时45分]"
-        },
-        {
           "title": "美国财长贝森特：并不认为美国将在2026年面临经济衰退风险。 （2025年10月1日开始的、持续天数创历史最长的）政府停摆给美国GDP造成110亿美元的永久性打击。",
           "url": "https://wallstreetcn.com/livenews/3009126",
           "source": "华尔街见闻-快讯",
@@ -1343,6 +1456,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时40分]"
+        },
+        {
+          "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
+          "url": "https://www.cls.cn/detail/2208396",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
         },
         {
           "title": "特朗普称乌克兰领导层对美方努力“毫无感激之情”",
@@ -1407,9 +1531,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "高盛：首次覆盖法拉利(RACE.N)并给予买入评级；目标价454美元。",
+          "url": "https://flash.jin10.com/detail/20251124152049644800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "Prosus上半年调整后息税前利润2.5亿美元，预估2.895亿美元。 上半年合并收入36.2亿美元，预估35.7亿美元。 上半年营业利润2.19亿美元，未达预估的2.29亿美元。",
@@ -1418,7 +1553,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -1429,7 +1564,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -1456,6 +1591,17 @@
           "time_info": "12时59分"
         },
         {
+          "title": "高盛：首次覆盖斯泰兰蒂斯(STLA.N)并给予中性评级，目标价10美元。",
+          "url": "https://flash.jin10.com/detail/20251124151456270800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "市场消息：韩国现代重工赢得价值14.6亿美元的八艘超大型集装箱船订单。",
           "url": "https://flash.jin10.com/detail/20251124105908554800",
           "source": "金十数据",
@@ -1465,6 +1611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "阿布扎比lunate基金正考虑向人工智能公司MGX投资10亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "纽约期金日内走低1.00%，现报4038.70美元/盎司。",
@@ -1509,6 +1666,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "阿斯利康(AZN.O)：交易推动在药品生产和研发领域500亿美元的承诺。",
+          "url": "https://flash.jin10.com/detail/20251124150717210800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "阿斯利康(AZN.O)：该交易（在马里兰州投资20亿美元）是今年宣布的第四项美国重大制造业投资。",
+          "url": "https://flash.jin10.com/detail/20251124150705239800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "市场消息：阿布扎比投资管理公司Lunate向人工智能公司MGX承诺投资10亿美元。",
+          "url": "https://flash.jin10.com/detail/20251124150547293800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "市场消息：阿斯利康(AZN.O)计划在马里兰州投资20亿美元用于生产设施。",
+          "url": "https://flash.jin10.com/detail/20251124150342874800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     }
