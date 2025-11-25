@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T15:36:34.655350+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2025-11-25T16:58:15.070293+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时42分 ~ 15时36分]"
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 16时58分]"
         },
         {
           "title": "期货热点追踪",
@@ -27,11 +27,12 @@
             1,
             17,
             6,
-            19
+            19,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 15时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 16时58分]"
         },
         {
           "title": "富宝资讯：碳酸锂期货盘面震荡，富宝电池级碳酸锂报90000元/吨",
@@ -51,7 +52,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -183,7 +184,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -205,7 +206,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -216,7 +217,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -260,7 +261,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
