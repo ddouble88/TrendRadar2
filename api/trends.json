@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T01:43:17.851169+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2025-11-26T02:55:15.145292+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "降息预期飙升，“万物齐涨”！纳指创5月来最佳单日表现，中概、加密货币大涨",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 01时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 02时55分]"
         },
         {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
@@ -26,8 +26,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 01时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 02时55分]"
+        },
+        {
+          "title": "上期所原油期货2501合约夜盘收跌0.98%，报443元人民币/桶。 沪金夜盘收涨0.45%，沪银收涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3010361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
           "title": "WTI原油期货约3%，报57.10美元/桶，美股盘前消息，美国官员称乌克兰同意和平协议条款。 布伦特原油跌破61美元/桶关口，报60.96美元/桶。",
