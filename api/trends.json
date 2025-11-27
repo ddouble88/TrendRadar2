@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T18:48:49.355679+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2025-11-27T19:33:34.699384+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             16,
             1,
             19,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 18时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 19时33分]"
         },
         {
           "title": "芝加哥玉米款期货涨超1.8%",
@@ -73,6 +74,17 @@
           "time_info": "[02时51分 ~ 04时37分]"
         },
         {
+          "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
+          "url": "https://wallstreetcn.com/articles/3760222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 19时33分]"
+        },
+        {
           "title": "WTI 1月原油期货收涨0.70美元，涨幅将近1.21%，报58.65美元/桶。 布伦特1月原油期货收报63.13美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3011032",
           "source": "华尔街见闻-快讯",
@@ -83,17 +95,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时33分]"
-        },
-        {
-          "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
-          "url": "https://wallstreetcn.com/articles/3760222",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时48分]"
         },
         {
           "title": "过去三天利率期货持仓量暴涨，市场“确信”12月美联储降息，这一次市场会错吗？",
