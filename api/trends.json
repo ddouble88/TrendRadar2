@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T17:42:59.479427+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2025-11-27T18:48:49.355679+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             22,
             16,
             1,
-            19
+            19,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 17时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 18时48分]"
         },
         {
           "title": "芝加哥玉米款期货涨超1.8%",
@@ -82,6 +83,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时33分]"
+        },
+        {
+          "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
+          "url": "https://wallstreetcn.com/articles/3760222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时48分]"
         },
         {
           "title": "过去三天利率期货持仓量暴涨，市场“确信”12月美联储降息，这一次市场会错吗？",
@@ -153,17 +165,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时34分]"
-        },
-        {
-          "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
-          "url": "https://wallstreetcn.com/articles/3760222",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
         },
         {
           "title": "国债期货收盘，30年期主力合约跌0.01%，10年期主力合约跌0.06%，5年期主力合约跌0.01%，2年期主力合约涨0.01%。",
