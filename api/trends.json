@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T04:37:29.360945+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2025-11-28T05:32:48.392732+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 05时32分]"
         },
         {
           "title": "上期所原油期货2501合约夜盘收涨1.46%，报451.60元人民币/桶。 沪金夜盘收涨0.02%，沪银收涨1.29%。",
@@ -25,23 +25,12 @@
           "ranks": [
             2,
             7,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 04时37分]"
-        },
-        {
-          "title": "恒指期货夜盘收跌0.03%，报25935点，低水11点。",
-          "url": "https://flash.jin10.com/detail/20251128030231394800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时37分]"
+          "appearance_count": 4,
+          "time_info": "[02时52分 ~ 05时32分]"
         },
         {
           "title": "布伦特1月原油期货收涨0.21美元，涨幅超过0.33%，报63.34美元/桶。",
@@ -50,11 +39,25 @@
           "ranks": [
             3,
             8,
-            11
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时52分 ~ 05时32分]"
+        },
+        {
+          "title": "恒指期货夜盘收跌0.03%，报25935点，低水11点。",
+          "url": "https://flash.jin10.com/detail/20251128030231394800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时52分 ~ 04时37分]"
+          "time_info": "[03时28分 ~ 05时32分]"
         },
         {
           "title": "内盘期货夜市涨跌各异，玻璃收涨超1.9%，铁矿石则跌约0.9%，焦煤跌超1.7%，焦炭跌约2.3%",
