@@ -1,351 +1,55 @@
 {
-  "generated_at": "2025-11-27T23:41:43.258633+08:00",
-  "total_titles_processed": 1873,
+  "generated_at": "2025-11-28T00:51:26.975139+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 29,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251126234704534800",
-          "source": "金十数据",
-          "ranks": [
-            24,
-            22,
-            16,
-            1,
-            19,
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 19时33分]"
-        },
         {
           "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
           "url": "https://wallstreetcn.com/articles/3760222",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时42分 ~ 23时41分]"
-        },
-        {
-          "title": "截至23:00收盘，国内期货主力合约涨跌不一，玻璃、橡胶、棕榈油、纯碱、PVC涨超1%，LPG、燃料油、BR橡胶、20号胶小幅上涨。跌幅方面，焦炭跌超2%，焦煤、沥青跌超1%，铁矿石、乙二醇小幅下跌。",
-          "url": "https://flash.jin10.com/detail/20251127230106711800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "芝加哥玉米款期货涨超1.8%",
-          "url": "https://wallstreetcn.com/livenews/3011042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时33分]"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.05%，10年期主力合约跌0.03%，5年期主力合约跌0.02%，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3011242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 12时48分]"
-        },
-        {
-          "title": "周三（11月26日）纽约尾盘，ICE原糖期货涨1.41%，ICE白糖期货涨1.26%。 ICE阿拉比卡咖啡期货跌0.63%，咖啡“C”期货跌0.89%。罗布斯塔咖啡期货跌0.81%。 纽约可可期货涨1.02%，伦敦可可期货涨0.66%。 芝加哥WCE双低油菜籽期货涨0.48%。 ICE棉花期货涨0.59%。",
-          "url": "https://wallstreetcn.com/livenews/3011036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时33分]"
-        },
-        {
-          "title": "夜盘期货开盘，沪银、燃油、原油、棕榈油涨逾1%，低硫燃油、豆油、豆粕等上涨；焦炭、焦煤、沪锌、沪铝等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3011554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 22时44分]"
-        },
-        {
-          "title": "上期所原油期货2501合约夜盘收涨0.79%，报446.30元人民币/桶。 沪金夜盘收涨0.37%，沪银收涨2.73%。",
-          "url": "https://wallstreetcn.com/livenews/3011019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时51分 ~ 04时37分]"
-        },
-        {
-          "title": "WTI 1月原油期货收涨0.70美元，涨幅将近1.21%，报58.65美元/桶。 布伦特1月原油期货收报63.13美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3011032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时33分]"
-        },
-        {
-          "title": "过去三天利率期货持仓量暴涨，市场“确信”12月美联储降息，这一次市场会错吗？",
-          "url": "https://wallstreetcn.com/articles/3760127",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时33分 ~ 07时34分]"
-        },
-        {
-          "title": "韩国债券期货跌幅扩大，此前韩国央行在声明中删除维持降息立场的措辞。",
-          "url": "https://wallstreetcn.com/livenews/3011231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 12时48分]"
-        },
-        {
-          "title": "周三（11月26日）纽约尾盘，标普500股指期货最终涨0.74%，道指期货涨0.71%，纳斯达克100股指期货涨0.93%。 罗素2000股指期货涨0.88%。",
-          "url": "https://wallstreetcn.com/livenews/3011074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时34分]"
-        },
-        {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20251127215811402800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时41分]"
-        },
-        {
-          "title": "周三（11月26日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨3.29%，报90295.00美元，北京时间00:00-02:00出现一波显著上涨的行情。 CME以太币期货DCR主力合约涨3.50%，报3031.50美元。 美股加密货币与加密货币关联指数涨4.95%，报68.01点。 最近24小时，MarketVector数字资产100小盘指数涨3.18%，暂报18855.77点。",
-          "url": "https://wallstreetcn.com/livenews/3011073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时34分]"
-        },
-        {
-          "title": "金十期货热图",
-          "url": "https://flash.jin10.com/detail/20251127122256474800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 13时43分]"
-        },
-        {
-          "title": "周三（11月26日）纽约尾盘，现货黄金涨0.80%，报4163.78美元/盎司，日内交投于4129.91-4173.42美元，大部分时间高位震荡。 COMEX黄金期货涨0.46%，报4158.90美元/盎司；2月合约涨0.74%，报4196.40美元。",
-          "url": "https://wallstreetcn.com/livenews/3011069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时34分]"
-        },
-        {
-          "title": "夜盘开盘，国内期货主力合约涨多跌少，沪银、燃料油、原油、棕榈油涨超1%，低硫燃料油、BR橡胶、豆油小幅上涨。跌幅方面，铝合金、焦炭、焦煤、沪锌小幅下跌。",
-          "url": "https://flash.jin10.com/detail/20251127210002720800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时46分"
+          "time_info": "00时51分"
         },
         {
           "title": "内盘期货夜市涨跌各异，玻璃收涨超1.9%，铁矿石则跌约0.9%，焦煤跌超1.7%，焦炭跌约2.3%",
           "url": "https://wallstreetcn.com/livenews/3011591",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "国债期货收盘，30年期主力合约跌0.01%，10年期主力合约跌0.06%，5年期主力合约跌0.01%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3011377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "国债期货午盘收盘",
-          "url": "https://flash.jin10.com/detail/20251127151608321800",
-          "source": "金十数据",
-          "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时38分"
+          "time_info": "00时51分"
         },
         {
-          "title": "韩国3年期国债期货下跌超过30个基点。",
-          "url": "https://flash.jin10.com/detail/20251127115727060800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "恒指期货夜盘收涨0.02%，报25906点，低水22点。",
-          "url": "https://flash.jin10.com/detail/20251127031050649800",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251127234314388800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时37分"
+          "time_info": "00时51分"
         },
         {
-          "title": "内盘期货收盘，铂涨超6%，沪银涨逾3%，鸡蛋、沪锡涨逾2%，钯、玻璃、工业硅涨逾1%；碳酸锂、沥青跌逾1%。",
-          "url": "https://wallstreetcn.com/livenews/3011362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20251127113130533800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20251127113126576800",
+          "title": "截至23:00收盘，国内期货主力合约涨跌不一，玻璃、橡胶、棕榈油、纯碱、PVC涨超1%，LPG、燃料油、BR橡胶、20号胶小幅上涨。跌幅方面，焦炭跌超2%，焦煤、沥青跌超1%，铁矿石、乙二醇小幅下跌。",
+          "url": "https://flash.jin10.com/detail/20251127230106711800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨多跌少，铂涨近7%，钯涨近3%，沪银涨超2%，沪锡、工业硅、鸡蛋涨近2%，玻璃、棕榈油、豆油、尿素涨超1%。跌幅方面，集运欧线、短纤、沥青、碳酸锂跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251127113112054800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "股指期货午盘收盘",
-          "url": "https://flash.jin10.com/detail/20251127150128829800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "两大贵金属期货首秀大涨",
-          "url": "https://wallstreetcn.com/livenews/3011203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨跌不一，铂涨超6%，沪银涨超3%，鸡蛋、沪锡涨超2%，棕榈油涨近2%，钯、豆二、玻璃、花生、工业硅涨超1%。跌幅方面，碳酸锂跌近2%，沥青、短纤跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251127150113318800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
+          "time_info": "00时51分"
         }
       ]
     }
