@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T15:36:03.256836+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2025-11-28T16:56:18.201557+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时38分 ~ 15时36分]"
+          "appearance_count": 8,
+          "time_info": "[11时38分 ~ 16时56分]"
         },
         {
           "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
@@ -68,7 +68,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -98,6 +98,20 @@
           "time_info": "14时59分"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251127234314388800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            10,
+            21,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 16时56分]"
+        },
+        {
           "title": "周四（11月27日）纽约尾盘，现货黄金跌0.11%，报4157.61美元/盎司，交投区间为4168.85-4142.79美元。 COMEX黄金期货跌0.28%，报4153.60美元/盎司；2月合约跌0.30%，报4189.60美元，北京时间12:08跌至4174.60美元刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3011671",
           "source": "华尔街见闻-快讯",
@@ -108,19 +122,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时33分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251127234314388800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 13时43分]"
         },
         {
           "title": "内盘期货夜市涨跌各异，玻璃收涨超1.9%，铁矿石则跌约0.9%，焦煤跌超1.7%，焦炭跌约2.3%",
@@ -141,7 +142,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -152,7 +153,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -185,7 +186,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -207,7 +208,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -218,7 +219,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
