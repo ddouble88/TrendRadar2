@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T06:38:44.855467+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2025-11-29T07:33:31.032055+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -8,35 +8,37 @@
       "match_count": 11,
       "titles": [
         {
-          "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
-          "url": "https://wallstreetcn.com/articles/3760251",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 06时38分]"
-        },
-        {
           "title": "数据中心“制冷问题”，芝商所“宕机”，各类期货交易停摆，网友戏言“白银新高有人压力太大？”",
           "url": "https://wallstreetcn.com/articles/3760314",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 06时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 07时33分]"
         },
         {
           "title": "白银期货创新高，中国库存位于近十年低位",
           "url": "https://wallstreetcn.com/articles/3760317",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 07时33分]"
+        },
+        {
+          "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
+          "url": "https://wallstreetcn.com/articles/3760251",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -60,11 +62,12 @@
           "ranks": [
             3,
             11,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时38分]"
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时33分]"
         },
         {
           "title": "美国天然气期货涨5%，报4.77美元/百万英热。",
@@ -85,11 +88,25 @@
           "ranks": [
             6,
             14,
-            17
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时33分]"
+        },
+        {
+          "title": "芝加哥大豆期货11月涨约2%，大豆油跌超6%",
+          "url": "https://wallstreetcn.com/livenews/3012387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时38分]"
+          "time_info": "[05时36分 ~ 07时33分]"
         },
         {
           "title": "11月份，伦敦可可期货累跌9.80%，周五（11月28日）欧市尾盘报4045美元/吨，11月5日涨至4864美元之后持续走低，11月25日跌至3650美元。",
@@ -118,28 +135,17 @@
           "time_info": "[01时37分 ~ 03时28分]"
         },
         {
-          "title": "芝加哥大豆期货11月涨约2%，大豆油跌超6%",
-          "url": "https://wallstreetcn.com/livenews/3012387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时38分]"
-        },
-        {
           "title": "美国原油期货11月累跌约3.4%，纽约天然气累涨11%",
           "url": "https://wallstreetcn.com/livenews/3012380",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时38分]"
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时33分]"
         }
       ]
     }
