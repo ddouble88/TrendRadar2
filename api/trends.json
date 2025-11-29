@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T11:39:03.767285+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2025-11-29T12:45:42.116753+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             8,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 11时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 12时45分]"
         },
         {
           "title": "白银期货创新高，中国库存位于近十年低位",
@@ -31,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 11时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 12时45分]"
         },
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
