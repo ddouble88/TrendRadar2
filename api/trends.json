@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T17:54:23.097009+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2025-12-02T18:51:05.936964+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "日本央行加息预期飙升，加密货币大跌，标普连涨终结，中概股逆市上涨，铜银钴走强",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时46分 ~ 17时54分]"
+          "appearance_count": 13,
+          "time_info": "[11时46分 ~ 18时51分]"
         },
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
@@ -251,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251202181338145800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "国债期货跌幅扩大，30年期主力合约跌0.49%，10年期主力合约跌0.06%。",
