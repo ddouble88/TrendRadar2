@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T01:00:48.118141+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-03T01:50:55.225214+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时00分"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时50分]"
         },
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
           "url": "https://wallstreetcn.com/articles/3760523",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时00分"
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时50分]"
         },
         {
           "title": "期货热点追踪",
