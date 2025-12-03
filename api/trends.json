@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T22:56:26.923515+08:00",
-  "total_titles_processed": 1817,
+  "generated_at": "2025-12-03T23:48:41.193571+08:00",
+  "total_titles_processed": 1892,
   "failed_sources": [],
   "trends": [
     {
@@ -48,7 +48,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -124,6 +124,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 04时46分]"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251203190137578800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            30,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 23时48分]"
         },
         {
           "title": "股指期货早盘收盘",
@@ -222,18 +235,6 @@
           "time_info": "[11时46分 ~ 12时52分]"
         },
         {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20251203190137578800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 22时56分]"
-        },
-        {
           "title": "小非农超预期降温，美股期货上扬，美元短线跳水，伦铜涨破纪录，白银新高回落，离岸人民币创14个月来高点",
           "url": "https://wallstreetcn.com/articles/3760624",
           "source": "华尔街见闻",
@@ -306,7 +307,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -339,7 +340,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
