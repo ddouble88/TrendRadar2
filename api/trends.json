@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T03:36:10.562510+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2025-12-05T04:47:35.165302+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "上期所原油期货2501合约夜盘收涨1.15%，报456.50元人民币/桶。 沪金夜盘收涨0.09%，沪银收跌1.91%。",
@@ -13,22 +13,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时36分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时47分]"
         },
         {
-          "title": "恒指期货夜盘收跌0.2%，报25900点，低水36点。",
-          "url": "https://flash.jin10.com/detail/20251205030025667800",
-          "source": "金十数据",
+          "title": "芝加哥玉米期货涨约0.7%",
+          "url": "https://wallstreetcn.com/livenews/3015342",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时36分"
+          "time_info": "04时47分"
         },
         {
           "title": "WTI原油日内涨幅超过1.5%，报报60.01美元/桶；日线图上，美国原油期货自10月2日以来持续交投于60美元整数位心理关口附近。 布伦特原油日内涨幅达1.0%，报63.32美元/桶。",
@@ -45,6 +46,31 @@
           "time_info": "[01时00分 ~ 03时36分]"
         },
         {
+          "title": "恒指期货夜盘收跌0.2%，报25900点，低水36点。",
+          "url": "https://flash.jin10.com/detail/20251205030025667800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时47分]"
+        },
+        {
+          "title": "伦敦基础金属期货价格多数收涨，伦钴涨幅突出",
+          "url": "https://wallstreetcn.com/livenews/3015309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时47分]"
+        },
+        {
           "title": "美国CFTC：现货加密货币现可在CFTC注册交易平台进行交易",
           "url": "https://wallstreetcn.com/livenews/3015287",
           "source": "华尔街见闻-快讯",
@@ -57,16 +83,15 @@
           "time_info": "[01时00分 ~ 01时48分]"
         },
         {
-          "title": "伦敦基础金属期货价格多数收涨，伦钴涨幅突出",
-          "url": "https://wallstreetcn.com/livenews/3015309",
+          "title": "美国原油期货收涨超1.2%，纽约天然气收涨至5美元上方",
+          "url": "https://wallstreetcn.com/livenews/3015336",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            14
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "WTI原油期货日内涨幅达1.00%，现报59.54美元/桶。",
