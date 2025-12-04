@@ -1,350 +1,55 @@
 {
-  "generated_at": "2025-12-04T23:49:01.253149+08:00",
-  "total_titles_processed": 1848,
+  "generated_at": "2025-12-05T01:00:04.479081+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 30,
+      "match_count": 4,
       "titles": [
         {
-          "title": "美国能源信息署报告显示库存降幅低于预期，美国天然气期货延续跌势，现跌约2%。",
-          "url": "https://flash.jin10.com/detail/20251204233406265800",
-          "source": "金十数据",
+          "title": "WTI原油日内涨幅超过1.5%，报报60.01美元/桶；日线图上，美国原油期货自10月2日以来持续交投于60美元整数位心理关口附近。 布伦特原油日内涨幅达1.0%，报63.32美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3015293",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时49分"
+          "time_info": "01时00分"
         },
         {
-          "title": "欧洲天然气基准荷兰近月期货下跌3.2%，报每兆瓦时27.31欧元。",
-          "url": "https://wallstreetcn.com/livenews/3015209",
+          "title": "美国CFTC：现货加密货币现可在CFTC注册交易平台进行交易",
+          "url": "https://wallstreetcn.com/livenews/3015287",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时51分"
+          "time_info": "01时00分"
         },
         {
-          "title": "上期所原油期货2501合约夜盘收涨0.36%，报450.90元人民币/桶。 沪金夜盘收跌0.12%，沪银收跌0.13%。",
-          "url": "https://wallstreetcn.com/livenews/3014597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时58分 ~ 05时31分]"
-        },
-        {
-          "title": "国债期货集体收跌，30年期主力合约跌超1%",
-          "url": "https://wallstreetcn.com/livenews/3015002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
-          "title": "恒指期货夜盘收涨0.34%，报25829点，高水68点。",
-          "url": "https://flash.jin10.com/detail/20251204030043660800",
+          "title": "WTI原油期货日内涨幅达1.00%，现报59.54美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251204235204449800",
           "source": "金十数据",
           "ranks": [
-            1,
-            12
+            24
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时48分]"
-        },
-        {
-          "title": "芝加哥玉米期货跌1.5%，大豆油跌超1.8%",
-          "url": "https://wallstreetcn.com/livenews/3014614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时31分]"
-        },
-        {
-          "title": "美国原油期货收涨超0.5%，纽约天然气收涨3.2%、5美元关口得而复失",
-          "url": "https://wallstreetcn.com/livenews/3014610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时31分]"
-        },
-        {
-          "title": "金十期货热图",
-          "url": "https://flash.jin10.com/detail/20251204171150940800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 18时52分]"
-        },
-        {
-          "title": "金十期货图示",
-          "url": "https://flash.jin10.com/detail/20251204120131603800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 13时43分]"
-        },
-        {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20251204210939471800",
-          "source": "金十数据",
-          "ranks": [
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 22时51分]"
-        },
-        {
-          "title": "金十期货·铜市专题",
-          "url": "https://flash.jin10.com/detail/20251204124747588800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "美国芝加哥期权交易所（CBOE）11月期货日均成交量增长28.3%，指数期权日均成交量增长41.4%。 11月多地上市期权日均成交量增长16.8%。",
-          "url": "https://wallstreetcn.com/livenews/3014650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "国债期货午盘收盘",
-          "url": "https://flash.jin10.com/detail/20251204151608865800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
-          "title": "周三（12月3日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨2.58%，报93815美元。 CME以太币期货DCR主力合约涨5.72%，报3162.50美元。 美股加密货币与加密货币关联指数涨5.12%，报70.05点。 最近24小时，MarketVector数字资产100指数涨2.67%，报19415.07点；小盘指数涨1.75%，暂报4382.83点。",
-          "url": "https://wallstreetcn.com/livenews/3014648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "01时00分"
         },
         {
           "title": "内盘期货夜市涨跌各异，焦炭涨超1.2%，焦煤涨超0.8%，铁矿石跌超0.2%",
           "url": "https://wallstreetcn.com/livenews/3015258",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251204181042400800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "现货白银大致持平，报58.4880美元/盎司，日内交投于58.9789-57.5578美元区间。 COMEX白银期货涨0.49%，报58.990美元/盎司，日内交投于58.210-59.655美元区间。 COMEX铜期货涨2.87%，报5.3935美元/磅，全天处于上涨状态，北京时间00:00过后高位持稳。 现货铂金涨1.98%，现货钯金跌0.40%。",
-          "url": "https://wallstreetcn.com/livenews/3014647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "周三（12月3日）纽约尾盘，现货黄金大致持平，报4207.07美元/盎司，日内呈现出M形走势，交投于4241.50-4194.65美元区间。 COMEX黄金期货涨0.44%，报4239.30美元/盎司，交投于4273.30-4225.10美元区间。",
-          "url": "https://wallstreetcn.com/livenews/3014644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "欧洲斯托克50指数期货上涨0.60%，德国DAX指数期货上涨0.64%，英国富时100指数期货上涨0.31%。",
-          "url": "https://flash.jin10.com/detail/20251204150644454800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
-          "title": "夜盘期货开盘，焦煤、交谈涨逾1%，螺纹钢、纸浆等上涨；沪银、沪锡跌逾1%，棕榈油、沪金等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3015191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时51分"
-        },
-        {
-          "title": "30年期国债期货（TL）主力合约日内走低1.20%，现报112.26元。",
-          "url": "https://flash.jin10.com/detail/20251204150636108800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
-          "title": "商品期货收盘，集运欧线主力合约涨超3%，国际铜涨近3%，沪铜、沪锡涨超2%，纸浆、焦炭、硅铁、玉米、淀粉、焦煤涨超1%。BR橡胶、烧碱跌近2%，沪银、玻璃、碳酸锂、橡胶、氧化铝、苹果跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3014985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
-          "title": "中证500股指期货（IC）主力合约站上7000点，日内涨0.85%。",
-          "url": "https://flash.jin10.com/detail/20251204105550485800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "30年期国债期货（TL）主力合约日内跌幅达1.00%，现报112.47元。",
-          "url": "https://flash.jin10.com/detail/20251204104554535800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "美国股指期货涨幅扩大，标普股指期货与纳指期货涨超0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3015229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "股指期货午盘收盘",
-          "url": "https://flash.jin10.com/detail/20251204150111742800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
-          "title": "周三（12月3日）纽约尾盘，标普500股指期货最终涨0.37%，道指期货张1.06%，纳斯达克100股指期货涨0.17%。 罗素2000股指期货涨1.85%。",
-          "url": "https://wallstreetcn.com/livenews/3014658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨跌不一。集运欧线涨超3%，国际铜涨近3%，沪铜、沪锡涨超2%，焦炭、硅铁、纸浆、玉米涨超1%。跌幅方面，合成橡胶、烧碱跌近2%，沪银、玻璃、橡胶跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251204150052715800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
-          "title": "NYMEX天然气期货涨至5美元，为2022年以来首次，日内当前涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3014546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "洪灏：已在4500美元高位清仓黄金",
-          "url": "https://www.toutiao.com/trending/7579431810869706793/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "01时00分"
         }
       ]
     }
