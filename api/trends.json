@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T18:48:34.234425+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2025-12-05T19:33:26.497365+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "上期所原油期货2501合约夜盘收涨1.15%，报456.50元人民币/桶。 沪金夜盘收涨0.09%，沪银收跌1.91%。",
@@ -58,6 +58,19 @@
           "time_info": "[01时00分 ~ 03时36分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251205162319758800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 19时33分]"
+        },
+        {
           "title": "恒指期货夜盘收跌0.2%，报25900点，低水36点。",
           "url": "https://flash.jin10.com/detail/20251205030025667800",
           "source": "金十数据",
@@ -82,18 +95,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时47分 ~ 06时41分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251205162319758800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 18时48分]"
         },
         {
           "title": "周四（12月4日）纽约尾盘，标普500股指期货最终涨0.08%，道指期货跌0.09%，纳斯达克100股指期货跌0.07%。 罗素2000股指期货涨0.68%。",
@@ -225,6 +226,17 @@
           "time_info": "12时52分"
         },
         {
+          "title": "上海国际能源交易中心：经研究决定，自2025年12月9日（星期二）收盘结算时起，交易保证金比例和涨跌停板幅度调整如下：原油、低硫燃料油期货合约的涨跌停板幅度调整为7%，套保持仓交易保证金比例调整为8%，一般持仓交易保证金比例调整为9%。",
+          "url": "https://flash.jin10.com/detail/20251205191305649800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "早盘收盘，国内期货主力合约跌多涨少。集运欧线涨超3%，红枣涨超2%，线材、沪锌、沪铜涨超1%。跌幅方面，多晶硅跌超2%，氧化铝、PVC、乙二醇跌近2%，丙烯、双胶纸、甲醇、烧碱、塑料、纯碱跌超1%。",
           "url": "https://flash.jin10.com/detail/20251205113043289800",
           "source": "金十数据",
@@ -247,6 +259,17 @@
           "time_info": "15时39分"
         },
         {
+          "title": "上期所：调整燃料油等期货交易保证金比例和涨跌停板幅度",
+          "url": "https://flash.jin10.com/detail/20251205191111464800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "中证1000股指期货（IM）主力合约向上触及7300点，日内涨1.33%。",
           "url": "https://flash.jin10.com/detail/20251205135614720800",
           "source": "金十数据",
@@ -256,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251205190924013800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "商品期货收盘，集运欧线主力合约涨超4%，沪铜、沪锌涨超2%，国际铜、红枣、沪铝涨超1%。焦炭跌超3%，多晶硅跌近3%，乙二醇、氧化铝、焦煤、烧碱跌超2%。",
@@ -363,7 +397,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
