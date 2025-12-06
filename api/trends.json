@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T22:36:19.495192+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2025-12-06T23:34:24.373440+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             3,
             16,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 22时36分]"
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 23时34分]"
         },
         {
           "title": "上期所原油期货2501合约夜盘收涨0.82%，报457.10元人民币/桶。 沪金夜盘收涨0.15%，沪银收涨2.67%。",
