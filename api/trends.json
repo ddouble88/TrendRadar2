@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T00:57:46.702583+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-09T01:43:42.497208+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时43分]"
         },
         {
           "title": "内盘期货夜市普遍收跌，玻璃跌约2.4%，双焦至多跌超1.9%",
