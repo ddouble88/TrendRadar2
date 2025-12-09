@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T13:43:47.357396+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2025-12-09T15:00:15.209886+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时57分 ~ 13时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时57分 ~ 15时00分]"
         },
         {
           "title": "富宝资讯：碳酸锂期货盘面盘整运行，富宝电池级碳酸锂报92350元/吨",
@@ -26,7 +27,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
