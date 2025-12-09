@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T12:52:00.887557+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2025-12-09T13:43:47.357396+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
@@ -16,8 +16,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时57分 ~ 12时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时57分 ~ 13时43分]"
+        },
+        {
+          "title": "富宝资讯：碳酸锂期货盘面盘整运行，富宝电池级碳酸锂报92350元/吨",
+          "url": "https://flash.jin10.com/detail/20251209130952303800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "上期所原油期货2501合约夜盘收跌1.84%，报448.00元人民币/桶。 沪金夜盘收跌0.72%，沪银收跌0.69%。",
@@ -105,6 +116,18 @@
           "time_info": "[04时45分 ~ 05时31分]"
         },
         {
+          "title": "境内首笔！期货市场正稳步向境外机构开放",
+          "url": "https://wallstreetcn.com/livenews/3017366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 13时43分]"
+        },
+        {
           "title": "国际原油期货收跌2%，纽约天然气期货收跌约7%",
           "url": "https://wallstreetcn.com/livenews/3017133",
           "source": "华尔街见闻-快讯",
@@ -171,17 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "境内首笔！期货市场正稳步向境外机构开放",
-          "url": "https://wallstreetcn.com/livenews/3017366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
         },
         {
           "title": "早盘收盘，国内期货主力合约跌多涨少，工业硅跌超3%，焦炭、燃料油、焦煤、SC原油、玻璃、低硫燃料油跌超2%，乙二醇、菜油、螺纹钢、热卷跌近2%。涨幅方面，多晶硅涨超2%，纤维板、生猪涨超1%。",
