@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T11:50:36.401787+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2025-12-10T12:58:23.090262+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "美利率决议前市场谨慎，摩根大通拖累道指，白银突破60美元创新高，加密货币涨",
@@ -38,20 +38,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时58分]"
         },
         {
-          "title": "金十期货整理 | 早盘碳酸锂期货明显拉升！目前市场的主要矛盾是什么？",
-          "url": "https://flash.jin10.com/detail/20251210113831810800",
+          "title": "金十期货图示",
+          "url": "https://flash.jin10.com/detail/20251210124713354800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时50分"
+          "time_info": "12时58分"
         },
         {
           "title": "美利率决议前市场谨慎，摩根大通警告拖累道指，白银突破60美元创新高，加密货币涨",
@@ -65,6 +65,28 @@
           "time_info": "04时37分"
         },
         {
+          "title": "金十期货12月10日讯，马来西亚棕榈油局MPOB：马来西亚11月棕榈油进口为23176吨，环比减少36.12%。",
+          "url": "https://flash.jin10.com/detail/20251210123953067800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "金十期货12月10日讯，马来西亚棕榈油局MPOB：马来西亚11月棕榈油库存量为2835439吨，环比增长13.04%。",
+          "url": "https://flash.jin10.com/detail/20251210123942704800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "沪银收涨3.55%，报14116元人民币/千克。 沪金夜盘收涨0.20%。 上期所原油期货2501合约夜盘收跌1.31%，报443.40元人民币/桶。",
           "url": "https://wallstreetcn.com/livenews/3017845",
           "source": "华尔街见闻-快讯",
@@ -76,6 +98,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时55分 ~ 04时37分]"
+        },
+        {
+          "title": "金十期货整理 | 早盘碳酸锂期货明显拉升！目前市场的主要矛盾是什么？",
+          "url": "https://flash.jin10.com/detail/20251210113831810800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时58分]"
         },
         {
           "title": "芝加哥玉米期货涨超0.9%，大豆期货跌超0.5%，豆粕跌超1.3%",
@@ -139,6 +173,18 @@
           "time_info": "[06时37分 ~ 07时33分]"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.35%，10年期主力合约涨0.06%，5年期主力合约涨0.04%，2年期主力合约涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3018128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时58分]"
+        },
+        {
           "title": "提醒：美国商品期货交易委员会（CFTC）补充发布11月4日当周的（投机者）持仓报告。 其中，WTI原油净多头头寸增加18,061手合约。 COMEX铜（净多头头寸）减少4,156手合约。 CBOT大豆净多头头寸增加60,194手合约。",
           "url": "https://wallstreetcn.com/livenews/3017879",
           "source": "华尔街见闻-快讯",
@@ -163,24 +209,35 @@
           "time_info": "[06时37分 ~ 07时33分]"
         },
         {
+          "title": "金十期货12月10日讯，马来西亚棕榈油局MPOB：马来西亚11月棕榈油出口为1212814吨，环比减少28.13%。",
+          "url": "https://flash.jin10.com/detail/20251210123924103800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "金十期货12月10日讯，马来西亚棕榈油局MPOB：马来西亚11月棕榈油产量为1935510吨，环比减少5.30%。",
+          "url": "https://flash.jin10.com/detail/20251210123911098800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "国债期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20251210113136725800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.35%，10年期主力合约涨0.06%，5年期主力合约涨0.04%，2年期主力合约涨0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3018128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -191,7 +248,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -213,7 +270,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -224,7 +281,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
