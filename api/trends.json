@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T21:52:38.337663+08:00",
-  "total_titles_processed": 1773,
+  "generated_at": "2025-12-10T22:54:16.869529+08:00",
+  "total_titles_processed": 1858,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时50分 ~ 21时52分]"
+          "appearance_count": 13,
+          "time_info": "[11时50分 ~ 22时54分]"
         },
         {
           "title": "美利率决议前市场谨慎，摩根大通拖累道指，白银突破60美元创新高，加密货币涨",
@@ -201,6 +201,18 @@
           "time_info": "[12时58分 ~ 13时46分]"
         },
         {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251210184253327800",
+          "source": "金十数据",
+          "ranks": [
+            27,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 22时54分]"
+        },
+        {
           "title": "金十期货12月10日讯，马来西亚棕榈油局MPOB：马来西亚11月棕榈油产量为1935510吨，环比减少5.30%。",
           "url": "https://flash.jin10.com/detail/20251210123911098800",
           "source": "金十数据",
@@ -301,7 +313,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -466,7 +478,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -513,17 +525,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
-        },
-        {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20251210184253327800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
         },
         {
           "title": "午盘收盘，国内期货主力合约涨跌不一，沪银涨超5%，集运欧线涨超3%，碳酸锂、沪锡涨超2%，铁矿石、豆一、多晶硅、豆二涨近2%。跌幅方面，氧化铝跌超3%，纯碱、玻璃、工业硅、苯乙烯跌超2%，原木、纯苯、PVC，棕榈油、焦煤、SC原油、短纤、聚丙烯、丙烯跌超1%。",
