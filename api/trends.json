@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T03:33:26.319693+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2025-12-11T04:50:37.020836+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 03时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时50分]"
         },
         {
           "title": "期货市场显示，在美联储降息之后，交易员预计到2026年底美联储的政策利率将为3.1%，与决议前定价的水平相比变化不大。",
@@ -26,7 +26,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
         },
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "鲍威尔：联邦基金利率（期货）上扬，表明储备金处于“充足的水平”（ample levels）。",
+          "url": "https://wallstreetcn.com/livenews/3018623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         }
       ]
     }
