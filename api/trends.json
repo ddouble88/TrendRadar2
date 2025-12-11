@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T11:50:39.106006+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2025-12-11T13:01:11.928913+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -42,17 +42,6 @@
           "time_info": "03时33分"
         },
         {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.43%，10年期主力合约涨0.11%，5年期主力合约涨0.09%，2年期主力合约涨0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3018902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
           "title": "美国利率期货显示，美联储明年1月份会议暂停降息的可能性为78%，而FOMC决议前这一概率为70%。",
           "url": "https://flash.jin10.com/detail/20251211030418315800",
           "source": "金十数据",
@@ -70,7 +59,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -87,6 +76,18 @@
           "time_info": "[02时57分 ~ 03时33分]"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.43%，10年期主力合约涨0.11%，5年期主力合约涨0.09%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3018902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 13时01分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：在截至11月10日当周，铜期货投机者将净多头仓位增加3,104手，至65,502手。COMEX黄金投机者净多头仓位增加2,274手，至103,830手。COMEX白银投机者将净多头仓位增加3,962手，至23,540手。原油投机者将WTI原油净空头头寸增加16,033手，至20,550手。",
           "url": "https://flash.jin10.com/detail/20251211052312968800",
           "source": "金十数据",
@@ -99,13 +100,25 @@
           "time_info": "[05时44分 ~ 06时44分]"
         },
         {
+          "title": "美股期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3018895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 13时01分]"
+        },
+        {
           "title": "国债期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20251211113105987800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -116,18 +129,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "美股期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3018895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -138,7 +140,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -171,7 +173,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -204,7 +206,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -229,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251211115435097800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     }
