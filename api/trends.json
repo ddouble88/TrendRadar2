@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-12T04:41:59.104133+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2025-12-12T05:39:53.595630+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "周四（12月11日）纽约尾盘，彭博谷物分类指数涨0.34%，报29.8951点。 CBOT玉米期货涨0.56%，CBOT小麦期货涨0.94%。 CBOT大豆期货涨0.18%，报11.03美元/蒲式耳，豆粕期货涨0.23%，豆油期货跌0.56%。 CBOT瘦肉猪期货涨2.06%，活牛期货涨1.06%，饲牛期货涨1.45%。",
-          "url": "https://wallstreetcn.com/livenews/3019393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
         {
           "title": "恒指期货夜盘收涨0.85%，报25788点，高水257点。",
           "url": "https://flash.jin10.com/detail/20251212030211962800",
@@ -29,6 +18,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时41分]"
+        },
+        {
+          "title": "周四（12月11日）纽约尾盘，彭博谷物分类指数涨0.34%，报29.8951点。 CBOT玉米期货涨0.56%，CBOT小麦期货涨0.94%。 CBOT大豆期货涨0.18%，报11.03美元/蒲式耳，豆粕期货涨0.23%，豆油期货跌0.56%。 CBOT瘦肉猪期货涨2.06%，活牛期货涨1.06%，饲牛期货涨1.45%。",
+          "url": "https://wallstreetcn.com/livenews/3019393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时39分]"
         },
         {
           "title": "沪银收涨4.56%，报14984元人民币/千克。 沪金夜盘收涨1.24%。 上期所原油期货2501合约夜盘收跌1.27%，报435.60元人民币/桶。",
@@ -48,33 +49,47 @@
           "url": "https://wallstreetcn.com/livenews/3019391",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时39分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：代理主席宣布撤回过时的数字资产指引。",
           "url": "https://flash.jin10.com/detail/20251212032217605800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时39分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：鉴于加密货币市场的发展形势，撤销过时的数字资产指导意见。",
           "url": "https://wallstreetcn.com/livenews/3019390",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时39分]"
+        },
+        {
+          "title": "美国国会议员们会见银行业CEO们，讨论加密货币市场结构问题。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3019405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时41分"
+          "time_info": "05时39分"
         },
         {
           "title": "欧盟正在推动最早于周五达成协议，动用紧急权力延长对俄罗斯资产的冻结。 彭博援引知情人士报道称，欧盟委员会将很快就此提出方案，目标是在本周末前敲定协议。 WTI原油期货目前跌1.77%，暂报57.27美元/桶。",
