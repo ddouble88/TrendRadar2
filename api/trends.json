@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T13:50:25.269014+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2025-12-11T15:03:10.112151+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -26,20 +26,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
         {
-          "title": "中国30年期国债期货上涨0.5%，触及一周高位。10年期国债期货涨0.12%。",
-          "url": "https://wallstreetcn.com/livenews/3018965",
-          "source": "华尔街见闻-快讯",
+          "title": "金十期货12月11日讯，华储网发布通知称，将于12月15日开展中央储备冻猪肉轮换出库竞价交易。本次出库竞价交易挂牌国产冻猪肉20500吨。",
+          "url": "https://flash.jin10.com/detail/20251211144800979800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "15时03分"
         },
         {
           "title": "纳斯达克100指数期货跌幅扩大至0.3%。",
@@ -98,6 +98,18 @@
           "time_info": "[02时57分 ~ 03时33分]"
         },
         {
+          "title": "中国30年期国债期货上涨0.5%，触及一周高位。10年期国债期货涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3018965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 15时03分]"
+        },
+        {
           "title": "国债期货早盘收盘，30年期主力合约涨0.43%，10年期主力合约涨0.11%，5年期主力合约涨0.09%，2年期主力合约涨0.02%。",
           "url": "https://wallstreetcn.com/livenews/3018902",
           "source": "华尔街见闻-快讯",
@@ -154,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "焦煤期货主力合约下跌超过3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3019007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "欧洲斯托克50指数期货抹去此前涨幅，现跌0.2%；德国DAX指数期货跌0.4%。",
