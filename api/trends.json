@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T18:51:16.326596+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2025-12-12T19:39:15.451875+08:00",
+  "total_titles_processed": 1678,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20251212165245556800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时59分"
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 19时39分]"
         },
         {
           "title": "周四（12月11日）纽约尾盘，标普500股指期货最终涨0.47%，道指期货涨1.48%，纳斯达克100股指期货涨0.12%。 罗素2000股指期货涨1.36%。",
@@ -300,7 +301,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         }
