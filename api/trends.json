@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T00:50:31.904865+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-13T01:43:20.480348+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
         {
           "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
@@ -15,8 +15,52 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时43分]"
+        },
+        {
+          "title": "美国白宫人工智能和加密货币顾问萨克斯：人工智能创造的就业机会比流失的就业机会要多。",
+          "url": "https://flash.jin10.com/detail/20251213005547449800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "01时43分"
+        },
+        {
+          "title": "美国白宫人工智能和加密货币顾问萨克斯：法规的混乱造成了合规性问题。",
+          "url": "https://flash.jin10.com/detail/20251213005313673800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "美国白宫人工智能和加密货币顾问萨克斯：（特朗普的人工智能行政令）旨在控制相互矛盾的州规则。",
+          "url": "https://flash.jin10.com/detail/20251213005246298800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "市场消息：美国白宫人工智能和加密货币顾问萨克斯为特朗普关于人工智能的行政令辩护。",
+          "url": "https://flash.jin10.com/detail/20251213005108572800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
         }
       ]
     }
