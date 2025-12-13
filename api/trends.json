@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T14:56:32.930669+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2025-12-13T15:36:40.416446+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             6,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时50分 ~ 14时56分]"
+          "appearance_count": 16,
+          "time_info": "[00时50分 ~ 15时36分]"
         },
         {
           "title": "恒指期货夜盘收跌0.95%，报25735点，低水242点。",
