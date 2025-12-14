@@ -1,26 +1,7 @@
 {
-  "generated_at": "2025-12-14T23:37:09.918652+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2025-12-15T00:48:27.681238+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "乌克兰男子透露“副市长父亲有加密货币资产”遭同学虐杀",
-          "url": "https://news.ifeng.com/c/8p3fUJXzyNF",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 07时33分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
