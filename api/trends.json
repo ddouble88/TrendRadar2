@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T03:01:32.941283+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2025-12-16T03:37:17.394512+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
@@ -16,8 +16,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 03时37分]"
+        },
+        {
+          "title": "WTI 1月原油期货收跌0.62美元，跌幅1.08%，报56.82美元/桶。 NYMEX 1月天然气期货收报4.0120美元/百万英热单位。 NYMEX 1月汽油期货收报1.7323美元/加仑，NYMEX 1月取暖油期货收报2.1806美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3021147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "重要大宗商品指数再平衡在即，黄金白银期货将迎巨大抛压！",
@@ -27,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 03时37分]"
         },
         {
           "title": "AH股震荡调整，创业板跌1.77%，大消费全面爆发，恒科指跌超2%，铂金期货涨停，30年期国债收跌0.99%",
@@ -38,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 03时37分]"
         },
         {
           "title": "随着俄乌和平谈判取得进展，美国原油期货日内下跌1美元。",
@@ -51,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "恒指期货夜盘收跌0.31%，报25574点，低水55点。",
+          "url": "https://flash.jin10.com/detail/20251216030054937800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         }
       ]
     }
