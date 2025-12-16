@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T23:46:52.756369+08:00",
-  "total_titles_processed": 1927,
+  "generated_at": "2025-12-17T01:01:24.706916+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 37,
+      "match_count": 5,
       "titles": [
         {
           "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
@@ -15,421 +15,52 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时53分 ~ 23时46分]"
-        },
-        {
-          "title": "重要大宗商品指数再平衡在即，黄金白银期货将迎巨大抛压！",
-          "url": "https://wallstreetcn.com/articles/3761400",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时13分 ~ 13时01分]"
-        },
-        {
-          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
-          "url": "https://wallstreetcn.com/articles/3761417",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时13分 ~ 05时40分]"
-        },
-        {
-          "title": "AH股震荡调整，创业板跌1.77%，大消费全面爆发，恒科指跌超2%，铂金期货涨停，30年期国债收跌0.99%",
-          "url": "https://wallstreetcn.com/articles/3761388",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时13分 ~ 17时01分]"
-        },
-        {
-          "title": "非农数据前夕，科技股续跌拖累大盘，特斯拉创年内新高，加密货币遭挫，人民币走强",
-          "url": "https://wallstreetcn.com/articles/3761417",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时41分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至11月25日当周，在纽约商品交易所（NYMEX）和洲际交易所（ICE）的四个主要市场中，天然气投机者的净多头头寸减少了1,578手，降至199,357手。",
-          "url": "https://flash.jin10.com/detail/20251216043202087800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "01时01分"
         },
         {
-          "title": "WTI原油期货失守55美元/桶，日内跌幅3.22%。",
-          "url": "https://flash.jin10.com/detail/20251216234227731800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至11月25日当周，COMEX白银投机者的净多头头寸减少了806手，降至20,127手。",
-          "url": "https://flash.jin10.com/detail/20251216043141603800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "WTI原油期货回落至56美元/桶下方，日内跌1.46%。",
-          "url": "https://flash.jin10.com/detail/20251216163927802800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至11月25日当周，COMEX铜投机者的净多头头寸减少了4,343手，降至58,497手。",
-          "url": "https://flash.jin10.com/detail/20251216043126698800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "WTI 1月原油期货收跌0.62美元，跌幅1.08%，报56.82美元/桶。 NYMEX 1月天然气期货收报4.0120美元/百万英热单位。 NYMEX 1月汽油期货收报1.7323美元/加仑，NYMEX 1月取暖油期货收报2.1806美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3021147",
+          "title": "美国原油期货自2021年以来首次跌穿55美元",
+          "url": "https://wallstreetcn.com/livenews/3021812",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至11月25日当周，COMEX黄金投机者的净多头头寸增加了11,291手，达到107,976手。",
-          "url": "https://flash.jin10.com/detail/20251216043030598800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20251216114851555800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 22时56分]"
-        },
-        {
-          "title": "芝加哥小麦期货跌1.6%，大豆油跌1.2%",
-          "url": "https://wallstreetcn.com/livenews/3021160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时40分]"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20251216113116492800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 13时01分]"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20251216113112911800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 13时01分]"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少。钯涨超4%，铂涨近4%，多晶硅涨超2%，聚氯乙烯（PVC）、液化石油气（LPG）、纯碱、铁矿石、碳酸锂、焦炭涨超1%；跌幅方面，沪锡跌超3%，沪镍、低硫燃料油（LU）、菜油、沥青跌超2%，SC原油、不锈钢（SS）、沪锌跌近2%。",
-          "url": "https://flash.jin10.com/detail/20251216113101668800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 13时01分]"
-        },
-        {
-          "title": "周一（12月15日）纽约尾盘，标普500股指期货最终跌0.15%，道指期货跌0.03%，纳斯达克100股指期货跌0.47%。 罗素2000股指期货跌0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3021190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时41分]"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.22%，10年期主力合约涨0.08%，5年期主力合约涨0.03%，2年期主力合约跌0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3021381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 13时01分]"
-        },
-        {
-          "title": "周一（12月15日）纽约尾盘，现货白银涨 3.28%，报63.9914美元/盎司，全天持续走高。 COMEX白银期货涨3.25%，报64.020美元/盎司。 COMEX铜期货涨1.10%，报5.4075美元/磅，北京时间20:56曾刷新日高至5.52美元。 现货铂金涨2.48%，报1790.52美元/盎司；现货钯金涨5.51%，报1575.04美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3021186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时41分]"
-        },
-        {
-          "title": "周一（12月15日）纽约尾盘，现货黄金涨0.06%，报4302.34美元/盎司，全天冲高回落，北京时间17:15曾刷新日高至4350.33美元。 COMEX黄金期货涨0.12%，报4333.30美元/盎司，17:32曾刷新日高至4384.30美元。",
-          "url": "https://wallstreetcn.com/livenews/3021184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时41分]"
-        },
-        {
-          "title": "美国非农数据公布后，美股期货短线上涨",
-          "url": "https://wallstreetcn.com/livenews/3021739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "美国就业数据公布后，美国联邦基金期货小幅提高了明年1月降息的几率，从之前的22%升至31%。",
-          "url": "https://flash.jin10.com/detail/20251216213628224800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "广州：大力支持广州期货交易所推进碳排放权期货市场建设",
-          "url": "https://wallstreetcn.com/livenews/3021483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "随着俄乌和平谈判取得进展，美国原油期货日内下跌1美元。",
-          "url": "https://flash.jin10.com/detail/20251216005103965800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "WTI 1月原油期货收跌0.62美元，跌幅1.08%，报56.82美元/桶。 布伦特2月原油期货收跌0.56美元，跌幅0.92%，报60.56美元/桶。 NYMEX 1月天然气期货收报4.0120美元/百万英热单位。 NYMEX 1月汽油期货收报1.7323美元/加仑，NYMEX 1月取暖油期货收报2.1806美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3021147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "01时01分"
         },
         {
           "title": "内盘期货夜市涨跌各异，低硫燃油收跌超2.8%，焦炭涨1%",
           "url": "https://wallstreetcn.com/livenews/3021802",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "恒指期货夜盘收跌0.31%，报25574点，低水55点。",
-          "url": "https://flash.jin10.com/detail/20251216030054937800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "富宝资讯：碳酸锂期货盘面震荡偏弱，富宝电池级碳酸锂报94950元/吨",
-          "url": "https://flash.jin10.com/detail/20251216141751222800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "WTI原油期货日内大跌3.00%，现报55.11美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251216232657667800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "加密货币交易所HashKey港股暗盘转跌，现跌0.45%，此前一度涨近15%。",
-          "url": "https://wallstreetcn.com/livenews/3021551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
-          "title": "美国股指期货在经济数据公布后转为上涨。",
-          "url": "https://flash.jin10.com/detail/20251216213247135800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "WTI原油期货日内跌幅达2.00%，现报55.55美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3021754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
-          "title": "加密货币交易所HashKey将香港IPO股票发行价定在6.68港元",
-          "url": "https://wallstreetcn.com/livenews/3021792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "布伦特原油期货自5月以来首次跌破60美元/桶",
-          "url": "https://flash.jin10.com/detail/20251216162219500800",
-          "source": "金十数据",
-          "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "01时01分"
         },
         {
-          "title": "美国原油期货创2021年2月份以来收盘新低",
-          "url": "https://wallstreetcn.com/livenews/3021147",
-          "source": "华尔街见闻-快讯",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251216235524435800",
+          "source": "金十数据",
           "ranks": [
-            25
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时40分"
+          "time_info": "01时01分"
         },
         {
-          "title": "在美国就业数据公布后，英国国债期货短暂上涨后转为下跌，并触及本交易日新低。",
-          "url": "https://wallstreetcn.com/livenews/3021747",
-          "source": "华尔街见闻-快讯",
+          "title": "WTI原油期货价格自2021年初以来首次跌破55美元",
+          "url": "https://flash.jin10.com/detail/20251216234227731800",
+          "source": "金十数据",
           "ranks": [
-            25
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时56分"
+          "time_info": "01时01分"
         }
       ]
     }
