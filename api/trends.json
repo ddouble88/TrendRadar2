@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-16T17:52:45.346892+08:00",
-  "total_titles_processed": 1415,
+  "generated_at": "2025-12-16T18:54:33.059352+08:00",
+  "total_titles_processed": 1497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
       "match_count": 28,
       "titles": [
+        {
+          "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时53分 ~ 18时54分]"
+        },
         {
           "title": "重要大宗商品指数再平衡在即，黄金白银期货将迎巨大抛压！",
           "url": "https://wallstreetcn.com/articles/3761400",
@@ -19,17 +30,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时13分 ~ 13时01分]"
-        },
-        {
-          "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
-          "url": "https://wallstreetcn.com/articles/3761417",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时53分 ~ 17时52分]"
         },
         {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
