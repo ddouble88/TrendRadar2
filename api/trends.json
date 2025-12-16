@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T01:52:49.988525+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2025-12-17T03:00:33.590485+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 03时00分]"
+        },
+        {
+          "title": "上期所原油期货2502合约夜盘收跌2.24%，报422.50元人民币/桶。 沪金夜盘收跌0.14%，沪银收跌0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3021865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
         },
         {
           "title": "美国原油期货自2021年以来首次跌穿55美元",
