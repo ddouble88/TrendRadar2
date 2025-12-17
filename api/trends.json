@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T12:39:14.635514+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2025-12-17T13:31:17.764465+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时01分 ~ 06时43分]"
+        },
+        {
+          "title": "30年期国债期货（TL）主力合约日内涨超0.50%，现报112.03元。",
+          "url": "https://flash.jin10.com/detail/20251217130227657800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "沪银期货续创历史新高！年内价格翻一番",
@@ -54,6 +65,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时00分 ~ 04时47分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251216235524435800",
+          "source": "金十数据",
+          "ranks": [
+            24,
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 13时31分]"
         },
         {
           "title": "周二（12月16日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨2.46%，报88100美元。 CME以太币期货DCR主力合约涨0.82%，报2959美元。 美股加密货币与加密货币关联指数涨1.89%，报61.48点。 最近24小时，MarketVector数字资产100小盘指数涨1.08%，暂报3724.25点。",
@@ -103,18 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时36分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251216235524435800",
-          "source": "金十数据",
-          "ranks": [
-            24,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 12时39分]"
         },
         {
           "title": "周二（12月16日）纽约尾盘，ICE原糖期货跌0.67%，ICE白糖期货跌0.61%。 ICE阿拉比卡咖啡期货跌1.33%，咖啡“C”期货跌2.16%。罗布斯塔咖啡期货跌2.52%。 纽约可可期货涨2.08%，伦敦可可期货涨2.88%。 芝加哥WCE双低油菜籽期货跌0.70%。 ICE棉花期货跌1.30%。",
@@ -168,7 +180,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -179,7 +191,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -190,7 +202,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
