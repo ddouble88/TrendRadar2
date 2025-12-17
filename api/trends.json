@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T07:36:18.197968+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2025-12-17T11:46:10.747569+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
@@ -21,15 +21,37 @@
           "time_info": "[01时01分 ~ 06时43分]"
         },
         {
+          "title": "沪银期货续创历史新高！年内价格翻一番",
+          "url": "https://flash.jin10.com/detail/20251217110816060800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
           "title": "周二（12月16日）纽约尾盘，标普500股指期货最终跌0.39%，道指期货跌0.70%，纳斯达克100股指期货涨0.01%。 罗素2000股指期货跌0.67%。",
           "url": "https://wallstreetcn.com/livenews/3021943",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.43%，10年期主力合约涨0.08%，5年期主力合约涨0.04%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3022103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
         },
         {
           "title": "上期所原油期货2502合约夜盘收跌2.24%，报422.50元人民币/桶。 沪金夜盘收跌0.14%，沪银收跌0.24%。",
@@ -116,6 +138,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "沪银期货主力合约日内涨超4%，报15358元/千克。",
+          "url": "https://wallstreetcn.com/livenews/3022080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
           "title": "内盘期货夜市涨跌各异，低硫燃油收跌超2.8%，焦炭涨1%",
           "url": "https://wallstreetcn.com/livenews/3021802",
           "source": "华尔街见闻-快讯",
@@ -136,6 +169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "金十期货12月17日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨3500元/吨，中间价报101300元/吨。",
+          "url": "https://flash.jin10.com/detail/20251217103210222800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
         },
         {
           "title": "WTI原油期货价格自2021年初以来首次跌破55美元",
