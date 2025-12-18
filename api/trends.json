@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T11:58:54.585363+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2025-12-18T12:41:35.453123+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 11时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 12时41分]"
         },
         {
           "title": "股指期货早盘开盘",
@@ -57,22 +57,12 @@
           "url": "https://flash.jin10.com/detail/20251218113108069800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20251218113105054800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 12时41分]"
         },
         {
           "title": "周三（12月17日）纽约尾盘，彭博谷物分类指数涨0.15%，报29.0534点。 CBOT玉米期货涨0.97%，CBOT小麦期货跌0.64%。 CBOT大豆期货跌0.29%，豆粕期货跌1.44%，豆油期货涨0.36%。 CBOT瘦肉猪期货跌1.95%，活牛期货跌0.53%，饲牛期货跌0.21%。",
@@ -99,6 +89,18 @@
           "time_info": "[06时28分 ~ 07时27分]"
         },
         {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251218113105054800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 12时41分]"
+        },
+        {
           "title": "恒指期货夜盘收跌0.57%，报25304点，低水165点。",
           "url": "https://flash.jin10.com/detail/20251218030041376800",
           "source": "金十数据",
@@ -109,6 +111,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 04时33分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少。钯涨超6%，铂涨超5%，焦煤、焦炭涨超4%，沪银、沪锡涨超3%，玻璃、工业硅涨超2%；跌幅方面，集运欧线跌超3%，苹果、豆二、豆一、苯乙烯（EB）跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251218113053882800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 12时41分]"
         },
         {
           "title": "美国原油期货收盘反弹1.2%，纽约天然气涨超3.5%",
@@ -171,15 +185,16 @@
           "time_info": "[05时28分 ~ 06时28分]"
         },
         {
-          "title": "早盘收盘，国内期货主力合约涨多跌少。钯涨超6%，铂涨超5%，焦煤、焦炭涨超4%，沪银、沪锡涨超3%，玻璃、工业硅涨超2%；跌幅方面，集运欧线跌超3%，苹果、豆二、豆一、苯乙烯（EB）跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251218113053882800",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251218110746918800",
           "source": "金十数据",
           "ranks": [
-            7
+            16,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 12时41分]"
         },
         {
           "title": "市场静待更多数据，美股期货盘前上涨，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -199,7 +214,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -213,17 +228,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251218110746918800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，原油投机者将WTI原油净空头头寸减少2,312手，至50,928手。",
