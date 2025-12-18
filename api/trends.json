@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T12:41:35.453123+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2025-12-18T13:31:27.227185+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 12时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 13时31分]"
         },
         {
           "title": "股指期货早盘开盘",
@@ -51,6 +51,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251218110746918800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            18,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 13时31分]"
         },
         {
           "title": "股指期货早盘收盘",
@@ -183,18 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时28分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251218110746918800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 12时41分]"
         },
         {
           "title": "市场静待更多数据，美股期货盘前上涨，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
