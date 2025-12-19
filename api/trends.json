@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T14:41:23.096541+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2025-12-19T15:28:51.804242+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "“四巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 14时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 15时28分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251219151609329800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "上期所原油期货2502合约夜盘收涨0.07%，报428.60元人民币/桶。 沪金夜盘收涨0.02%，沪银收跌1.42%。",
@@ -198,6 +209,17 @@
           "time_info": "10时08分"
         },
         {
+          "title": "国债期货收盘，30年期主力合约涨0.22%，10年期主力合约涨0.10%，5年期主力合约涨0.09%，2年期主力合约涨0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3023697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "恒指期货夜盘收涨0.63%，报25675点，高水177点。",
           "url": "https://flash.jin10.com/detail/20251219030046139800",
           "source": "金十数据",
@@ -248,7 +270,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -286,6 +308,17 @@
           "time_info": "12时01分"
         },
         {
+          "title": "商品期货收盘，碳酸锂、对二甲苯、集运欧线、PTA、沪镍主力合约涨超3%，不锈钢、沪锡、短纤涨超2%。塑料、氧化铝、菜籽油、玻璃跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3023674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "商品期货开盘，对二甲苯、钯、不锈钢、PTA主力合约涨超2%，沪镍、短纤、集运欧线、焦炭涨超1%。多晶硅跌3%。",
           "url": "https://wallstreetcn.com/livenews/3023439",
           "source": "华尔街见闻-快讯",
@@ -317,6 +350,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251219150121318800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌不一。碳酸锂、PX、PTA、集运欧线、沪镍涨超3%，不锈钢（SS）、短纤、沪锡涨超2%；跌幅方面，塑料、氧化铝、菜油、玻璃跌超2%，沥青、燃料油跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251219150105727800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     }
