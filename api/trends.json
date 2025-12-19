@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T20:56:16.326878+08:00",
-  "total_titles_processed": 1954,
+  "generated_at": "2025-12-19T21:38:26.152795+08:00",
+  "total_titles_processed": 2037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "“四巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时08分 ~ 20时56分]"
+          "appearance_count": 14,
+          "time_info": "[10时08分 ~ 21时38分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -38,7 +38,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -162,6 +162,30 @@
           "time_info": "[06时27分 ~ 07时27分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20251219155839599800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            16,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 21时38分]"
+        },
+        {
+          "title": "欧股下跌，纳指100期货上涨，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
+          "url": "https://wallstreetcn.com/articles/3761704",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 21时38分]"
+        },
+        {
           "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
           "url": "https://wallstreetcn.com/articles/3761635",
           "source": "华尔街见闻",
@@ -183,17 +207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时24分]"
-        },
-        {
-          "title": "欧股下跌，纳指100期货上涨，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
-          "url": "https://wallstreetcn.com/articles/3761704",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
         },
         {
           "title": "10年期日债期货价格跌至2008年6月来最低水平。",
@@ -220,6 +233,18 @@
           "time_info": "[04时28分 ~ 05时24分]"
         },
         {
+          "title": "广期所调整碳酸锂期货相关合约交易限额",
+          "url": "https://wallstreetcn.com/livenews/3023958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时38分]"
+        },
+        {
           "title": "日本10年期国债期货在日本央行加息后维持跌势。",
           "url": "https://wallstreetcn.com/livenews/3023540",
           "source": "华尔街见闻-快讯",
@@ -230,18 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时01分 ~ 12时44分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20251219155839599800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 19时25分]"
         },
         {
           "title": "股指期货早盘开盘",
@@ -294,7 +307,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -310,15 +323,15 @@
           "time_info": "10时08分"
         },
         {
-          "title": "广期所调整碳酸锂期货相关合约交易限额",
-          "url": "https://wallstreetcn.com/livenews/3023958",
+          "title": "夜盘期货开盘，沪锡、PTA、沪铝涨逾1%，国际铜、低硫燃油、沪铜等上涨；烧碱、塑料跌逾1%，棕榈油、玻璃等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3023978",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时56分"
+          "time_info": "21时38分"
         },
         {
           "title": "20年期日本国债收益率上行2个基点，至2.955%。 两年期日本国债收益率上行2个基点，至1.085%，为2007年6月以来最高。 10年期日债期货跌至2008年6月来最低水平。",
@@ -396,6 +409,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约涨多跌少，沪锡涨近2%，PX、PTA、短纤、沪铝涨超1%。跌幅方面，塑料、烧碱跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251219210002318800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "日元兑美元走低，日经225指数期货下跌，此前日本央行加息。",
