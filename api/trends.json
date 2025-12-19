@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T12:01:41.428059+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2025-12-19T12:44:12.074960+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -28,30 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 12时01分]"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20251219113117109800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少。集运欧线涨超4%，PX、PTA、沪镍、不锈钢（SS）涨超2%；跌幅方面，菜油、铂、塑料、氧化铝、燃料油、豆二跌超2%，玻璃、豆油、橡胶跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251219113106528800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 12时44分]"
         },
         {
           "title": "“三巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
@@ -100,6 +78,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时41分 ~ 04时28分]"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251219113117109800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时44分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少。集运欧线涨超4%，PX、PTA、沪镍、不锈钢（SS）涨超2%；跌幅方面，菜油、铂、塑料、氧化铝、燃料油、豆二跌超2%，玻璃、豆油、橡胶跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251219113106528800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时44分]"
         },
         {
           "title": "周四（12月18日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.45%，报85575美元，北京时间21:30发布美国CPI数据之前持续、稳扎稳打地走高，之后涨幅扩大，22：01刷新日高至89660美元，经过一段时间的高位震荡后，01:00出现一波显著的回落行情，04:00刷新日低并跌向84500美元。 CME以太币期货DCR主力合约跌0.35%，报2822美元，日内交投于3002.50-2780美元区间。 美股加密货币与加密货币关联指数涨0.84%，报58.73点，美股开盘后曾刷新日高至62.26点，之后逐步回落。 最近24小时，MarketVector数字资产100小盘指数跌3.53%，暂报3400.92点。",
@@ -161,6 +163,18 @@
           "time_info": "[04时28分 ~ 05时24分]"
         },
         {
+          "title": "日本10年期国债期货在日本央行加息后维持跌势。",
+          "url": "https://wallstreetcn.com/livenews/3023540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时44分]"
+        },
+        {
           "title": "股指期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251219093145778800",
           "source": "金十数据",
@@ -183,6 +197,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "10年期日债期货价格跌至2008年6月来最低水平。",
+          "url": "https://flash.jin10.com/detail/20251219115844706800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约跌0.14%，10年期主力合约跌0.02%，5年期主力合约跌0.01%，2年期主力合约涨0.01%。",
           "url": "https://wallstreetcn.com/livenews/3023460",
           "source": "华尔街见闻-快讯",
@@ -194,15 +219,15 @@
           "time_info": "10时08分"
         },
         {
-          "title": "日本10年期国债期货在日本央行加息后维持跌势。",
-          "url": "https://wallstreetcn.com/livenews/3023540",
+          "title": "20年期日本国债收益率上行2个基点，至2.955%。 两年期日本国债收益率上行2个基点，至1.085%，为2007年6月以来最高。 10年期日债期货跌至2008年6月来最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3023561",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时01分"
+          "time_info": "12时44分"
         },
         {
           "title": "国债期货早盘收盘，30年期主力合约跌0.27%，10年期主力合约跌0.01%，5年期主力合约涨0.03%，2年期主力合约涨0.02%。",
@@ -211,7 +236,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -244,7 +269,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -269,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20251219113120410800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         }
       ]
     }
