@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T18:27:47.240134+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2025-12-20T19:21:44.993536+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             15,
             19,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 18时27分]"
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 19时21分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，原油投机者持有的WTI净空头头寸减少38,888手，达到12,038手。",
@@ -48,11 +49,12 @@
             16,
             20,
             25,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 18时27分]"
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 19时21分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX黄金投机者将净多头头寸增加4,829手，至124,637手。COMEX白银投机者将净多头头寸增加6,724手，至27,978手。",
@@ -66,11 +68,12 @@
             17,
             21,
             26,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 18时27分]"
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 19时21分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，股票基金经理将标普500芝商所（CME）净多头仓位增加17,972手合约，至958,734手。股票基金投机者将标普500芝商所（CME）净空头头寸增加7,057手合约，至448,341手。",
@@ -83,11 +86,12 @@
             13,
             17,
             22,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时33分 ~ 18时27分]"
+          "appearance_count": 8,
+          "time_info": "[12时33分 ~ 19时21分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，日元净多头头寸为17,448份合约，欧元净多头头寸为138,788合约。",
@@ -100,11 +104,12 @@
             14,
             18,
             23,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时33分 ~ 18时27分]"
+          "appearance_count": 8,
+          "time_info": "[12时33分 ~ 19时21分]"
         },
         {
           "title": "恒指期货夜盘收涨0.46%，报25843点，高水152点。",
@@ -116,17 +121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
-        },
-        {
-          "title": "浙商期货首席策略师、投资咨询部总经理徐涛：明年商品市场最大风险点在美股，但“大坑”是较好的买入时机",
-          "url": "https://wallstreetcn.com/livenews/3024266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         },
         {
           "title": "沪银夜盘收涨3.02%，报15746元人民币/千克，一度达到15769原。 上期所原油期货2502合约夜盘收涨1.05%，报431.90元人民币/桶。 沪金夜盘收涨0.44%。",
@@ -166,6 +160,18 @@
           "time_info": "[07时26分 ~ 10时02分]"
         },
         {
+          "title": "浙商期货首席策略师、投资咨询部总经理徐涛：明年商品市场最大风险点在美股，但“大坑”是较好的买入时机",
+          "url": "https://wallstreetcn.com/livenews/3024266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时21分]"
+        },
+        {
           "title": "本周，ICE英国天然气期货累计上涨2.21%，周五（12月19日）欧市尾盘报74.860便士/千卡。 TTF基准荷兰天然气期货累涨2.56%，报28.205欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）累涨2.01%，报85.47欧元/吨。",
           "url": "https://wallstreetcn.com/livenews/3024089",
           "source": "华尔街见闻-快讯",
@@ -200,6 +206,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时26分]"
+        },
+        {
+          "title": "中信建投期货研究所联席负责人田亚雄：若AI投资泡沫破裂，商品将提前反应，白银已在抢跑",
+          "url": "https://wallstreetcn.com/livenews/3024264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时21分]"
         },
         {
           "title": "以太坊期货周五涨超7%，本周加密货币关联指数跌超6.3%",
@@ -260,17 +278,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时25分]"
-        },
-        {
-          "title": "中信建投期货研究所联席负责人田亚雄：若AI投资泡沫破裂，商品将提前反应，白银已在抢跑",
-          "url": "https://wallstreetcn.com/livenews/3024264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         },
         {
           "title": "截至23:00收盘，国内期货主力合约涨多跌少。对二甲苯（PX）、PTA涨超3%，短纤、纸浆、瓶片涨超2%；跌幅方面，聚氯乙烯（PVC）、塑料、菜油跌超1%。",
