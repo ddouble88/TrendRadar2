@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T14:39:55.206521+08:00",
-  "total_titles_processed": 1053,
+  "generated_at": "2025-12-20T15:25:06.783506+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,42 @@
             1,
             5,
             8,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 14时39分]"
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 15时25分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，原油投机者持有的WTI净空头头寸减少38,888手，达到12,038手。",
+          "url": "https://flash.jin10.com/detail/20251220113845095800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6,
+            9,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 15时25分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX黄金投机者将净多头头寸增加4,829手，至124,637手。COMEX白银投机者将净多头头寸增加6,724手，至27,978手。",
+          "url": "https://flash.jin10.com/detail/20251220113809000800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7,
+            10,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 15时25分]"
         },
         {
           "title": "恒指期货夜盘收涨0.46%，报25843点，高水152点。",
@@ -44,45 +75,32 @@
           "time_info": "03时23分"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，原油投机者持有的WTI净空头头寸减少38,888手，达到12,038手。",
-          "url": "https://flash.jin10.com/detail/20251220113845095800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            6,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 14时39分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX黄金投机者将净多头头寸增加4,829手，至124,637手。COMEX白银投机者将净多头头寸增加6,724手，至27,978手。",
-          "url": "https://flash.jin10.com/detail/20251220113809000800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            7,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 14时39分]"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，股票基金经理将标普500芝商所（CME）净多头仓位增加17,972手合约，至958,734手。股票基金投机者将标普500芝商所（CME）净空头头寸增加7,057手合约，至448,341手。",
           "url": "https://flash.jin10.com/detail/20251220114215719800",
           "source": "金十数据",
           "ranks": [
             3,
             6,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 14时39分]"
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 15时25分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，日元净多头头寸为17,448份合约，欧元净多头头寸为138,788合约。",
+          "url": "https://flash.jin10.com/detail/20251220113950211800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 15时25分]"
         },
         {
           "title": "沪银夜盘收涨3.02%，报15746元人民币/千克，一度达到15769原。 上期所原油期货2502合约夜盘收涨1.05%，报431.90元人民币/桶。 沪金夜盘收涨0.44%。",
@@ -96,19 +114,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时39分 ~ 04时31分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，日元净多头头寸为17,448份合约，欧元净多头头寸为138,788合约。",
-          "url": "https://flash.jin10.com/detail/20251220113950211800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 14时39分]"
         },
         {
           "title": "欧洲油菜籽期货累计下跌4.47%，周五（12月19日）欧市尾盘报454.25，整体持续下挫。",
