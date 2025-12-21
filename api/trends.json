@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T22:25:29.303745+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2025-12-21T23:26:30.634483+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             17,
             21,
             23,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 22时25分]"
+          "appearance_count": 8,
+          "time_info": "[16时35分 ~ 23时26分]"
         },
         {
           "title": "南华期货：境外孙公司获新加坡交易所交易及清算会员资格",
