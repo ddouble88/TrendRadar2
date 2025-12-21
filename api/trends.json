@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T19:22:49.299341+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2025-12-21T20:53:00.201505+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             1,
             7,
             12,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 19时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 20时53分]"
         },
         {
           "title": "南华期货：境外孙公司获新加坡交易所交易及清算会员资格",
@@ -42,11 +43,12 @@
             2,
             8,
             13,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 19时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 20时53分]"
         },
         {
           "title": "近24小时内加密货币共有6.6万人爆仓",
