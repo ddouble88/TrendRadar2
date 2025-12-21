@@ -1,75 +1,7 @@
 {
-  "generated_at": "2025-12-21T23:26:30.634483+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2025-12-22T00:32:42.344392+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "南华期货：全球发售超10亿股H股，所得款项净额估计为12.03亿港元",
-          "url": "https://wallstreetcn.com/livenews/3024407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            12,
-            17,
-            21,
-            23,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时35分 ~ 23时26分]"
-        },
-        {
-          "title": "南华期货：境外孙公司获新加坡交易所交易及清算会员资格",
-          "url": "https://wallstreetcn.com/livenews/3024406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            13,
-            18,
-            22,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 22时25分]"
-        },
-        {
-          "title": "美国众议院方案拟为稳定币及加密货币质押寻求税收“避风港”",
-          "url": "https://wallstreetcn.com/livenews/3024331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时23分 ~ 10时21分]"
-        },
-        {
-          "title": "近24小时内加密货币共有6.6万人爆仓",
-          "url": "https://wallstreetcn.com/livenews/3024355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时21分 ~ 13时28分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
