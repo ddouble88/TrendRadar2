@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-23T00:36:05.286729+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-23T01:26:14.341074+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "中金所：减半收取2026年股指期货和国债期货交割手续费、股指期权行权手续费",
+          "url": "https://www.cls.cn/detail/2236604",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 01时26分]"
+        },
         {
           "title": "加密货币交易所交易产品（ETPs）最近一周资金外流8.913亿美元，结束之前连续三周流入的趋势。 ETPs投资者最近一个月资金流入18.2亿美元，过去一年流入467亿美元。",
           "url": "https://wallstreetcn.com/livenews/3025037",
@@ -14,7 +25,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
         },
@@ -25,7 +36,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
         }
