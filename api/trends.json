@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T07:27:00.339837+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2025-12-23T10:09:31.612249+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "中金所：减半收取2026年股指期货和国债期货交割手续费、股指期权行权手续费",
@@ -99,9 +99,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "30年期国债期货（TL）主力合约日内涨超0.30%，现报112.18元。",
+          "url": "https://flash.jin10.com/detail/20251223095121358800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "芝加哥小麦期货涨1%，大豆油涨超1.2%",
@@ -124,6 +135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.08%，10年期主力合约涨0.05%，5年期主力合约跌0.00%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3025247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）代理主席Caroline Pham辞职。",
@@ -159,6 +181,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "广期所铂、钯期货主力合约均打开涨停板。",
+          "url": "https://wallstreetcn.com/livenews/3025245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "摩根大通考虑向机构客户提供加密货币交易服务",
           "url": "https://wallstreetcn.com/livenews/3025032",
           "source": "华尔街见闻-快讯",
@@ -168,6 +201,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "贵金属疯狂！内盘铂钯期货双双涨停",
+          "url": "https://wallstreetcn.com/livenews/3025227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     }
