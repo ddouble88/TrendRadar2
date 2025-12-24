@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T13:32:17.070434+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2025-12-24T14:43:56.368032+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
@@ -16,19 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时36分 ~ 13时32分]"
-        },
-        {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20251224131114362800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 14时43分]"
         },
         {
           "title": "周二（12月23日）纽约尾盘，彭博谷物分类指数涨0.18%，报29.3763点。 CBOT玉米期货涨0.06%，CBOT小麦期货涨0.44%。 CBOT大豆期货跌0.12%，报10.63美元/蒲式耳，豆粕期货涨0.10%，豆油期货跌0.63%。 CBOT瘦肉猪期货涨0.82%，活牛期货跌0.61%，饲牛期货跌0.51%。",
@@ -41,6 +30,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时26分]"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251224131114362800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 14时43分]"
         },
         {
           "title": "纽约天然气期货收涨约11.8%，美国原油期货较近期收盘最低位反弹约5.9%",
@@ -126,6 +127,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 04时31分]"
+        },
+        {
+          "title": "A股大金融板块午后异动，瑞达期货直线涨停，翠微股份、南华期货、永安期货、爱建集团等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3026002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 14时43分]"
         },
         {
           "title": "股指期货早盘收盘",
@@ -283,17 +296,6 @@
           "time_info": "05时26分"
         },
         {
-          "title": "A股大金融板块午后异动，瑞达期货直线涨停，翠微股份、南华期货、永安期货、爱建集团等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3026002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：截至12月16日当周，COMEX黄金投机者将净多头头寸增加9,493份合约，至134,130份合约；COMEX白银投机者将净多头头寸削减3,681份合约，至24,297份合约；COMEX铜投机者将净多头头寸增加4,904份合约，至75,987份合约。",
           "url": "https://flash.jin10.com/detail/20251224043300072800",
           "source": "金十数据",
@@ -327,6 +329,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "钯期货触及涨停，为上市以来第五次涨停",
+          "url": "https://flash.jin10.com/detail/20251224135628550800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "股指期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251224093106421800",
           "source": "金十数据",
@@ -338,6 +351,28 @@
           "time_info": "10时07分"
         },
         {
+          "title": "广期所钯期货主力合约触及涨停板，日内涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3026026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "富宝资讯：碳酸锂期货盘面继续走强，富宝电池级碳酸锂报105500元/吨",
+          "url": "https://flash.jin10.com/detail/20251224134726207800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "美国天然气期货日内暴涨9.00%，现报4.322美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20251224022815030800",
           "source": "金十数据",
@@ -347,6 +382,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "中证1000股指期货（IM）主力合约日内涨幅达2.00%，现报7337.0点。中证500股指期货（IC）主力合约现报7261.2点，日内涨1.87%。沪深300股指期货（IF）主力合约站上4600点，日内涨0.67%。",
+          "url": "https://flash.jin10.com/detail/20251224133431705800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "商品期货开盘，铂主力合约涨停、涨幅7%，钯涨超6%，沪银涨超5%，碳酸锂涨超3%。",
