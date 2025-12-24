@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T22:28:10.650185+08:00",
-  "total_titles_processed": 1819,
+  "generated_at": "2025-12-24T23:29:05.693437+08:00",
+  "total_titles_processed": 1900,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
@@ -26,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -53,15 +53,37 @@
           "time_info": "15时31分"
         },
         {
+          "title": "内盘期货夜市涨跌各异，乙二醇涨2.8%，焦煤涨则跌0.9%，焦炭跌1%",
+          "url": "https://wallstreetcn.com/livenews/3026268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "铂期货PT2610合约出现连续三个涨停板单边市，广期所采取相应措施",
           "url": "https://flash.jin10.com/detail/20251224215533296800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨跌不一。乙二醇（EG）涨超2%，丙烯、丁二烯橡胶、塑料、塑料月均价、白糖涨超1%。跌幅方面，菜粕、焦炭跌超1%，纸浆、焦煤跌近1%。",
+          "url": "https://flash.jin10.com/detail/20251224230037226800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "广期所：已充分做好铂、钯期货交割各项准备工作",
@@ -73,17 +95,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
-        },
-        {
-          "title": "纳斯达克100指数期货延续涨势，创下盘中高点。",
-          "url": "https://wallstreetcn.com/livenews/3026247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
         },
         {
           "title": "期货盯盘神器专属文章",
@@ -184,6 +195,18 @@
           "time_info": "[04时31分 ~ 05时26分]"
         },
         {
+          "title": "纳斯达克100指数期货延续涨势，创下盘中高点。",
+          "url": "https://wallstreetcn.com/livenews/3026247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时29分]"
+        },
+        {
           "title": "国债期货早盘收盘，30年期主力合约涨0.09%，10年期主力合约涨0.01%，5年期主力合约跌0.00%，2年期主力合约跌0.00%。",
           "url": "https://wallstreetcn.com/livenews/3025962",
           "source": "华尔街见闻-快讯",
@@ -233,6 +256,18 @@
           "time_info": "[13时32分 ~ 14时43分]"
         },
         {
+          "title": "广期所：12月24日结算时，铂期货PT2610合约的涨跌停板幅度保持为12%、交易保证金标准保持为14%",
+          "url": "https://wallstreetcn.com/livenews/3026246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时29分]"
+        },
+        {
           "title": "股指期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20251224113112009800",
           "source": "金十数据",
@@ -255,6 +290,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时26分]"
+        },
+        {
+          "title": "广期所调整碳酸锂期货相关合约交易指令每次最小开仓下单数量、交易限额",
+          "url": "https://wallstreetcn.com/livenews/3026245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时29分]"
         },
         {
           "title": "美国天然气期货日内暴涨12.00%，现报4.441美元/百万英热。",
@@ -339,6 +386,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时27分]"
+        },
+        {
+          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%，现货黄金、美元指数短线变动不大。",
+          "url": "https://wallstreetcn.com/livenews/3026240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时29分]"
         },
         {
           "title": "中证500股指期货（IC）主力合约日内涨幅扩大至1.00%，现报7200.8点。",
@@ -430,18 +489,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "广期所：12月24日结算时，铂期货PT2610合约的涨跌停板幅度保持为12%、交易保证金标准保持为14%",
-          "url": "https://wallstreetcn.com/livenews/3026246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -463,18 +511,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "广期所调整碳酸锂期货相关合约交易指令每次最小开仓下单数量、交易限额",
-          "url": "https://wallstreetcn.com/livenews/3026245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -534,24 +571,13 @@
           "time_info": "14时43分"
         },
         {
-          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%，现货黄金、美元指数短线变动不大。",
-          "url": "https://wallstreetcn.com/livenews/3026240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
           "title": "初请数据公布后，现货黄金、美元指数DXY短线变动不大，美国股指期货保持稳定。",
           "url": "https://flash.jin10.com/detail/20251224213209777800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
