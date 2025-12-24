@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T04:31:09.725139+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2025-12-25T05:25:59.102329+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "上期所原油期货2502合约夜盘收跌0.02%，报442.50元人民币/桶。 沪金夜盘收跌0.23%，沪银收涨1.54%。",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             4,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 04时31分]"
+          "appearance_count": 4,
+          "time_info": "[02时39分 ~ 05时25分]"
         },
         {
           "title": "WTI 2月原油期货收报58.35美元/桶。 NYMEX 1月天然气期货收报4.2420美元/百万英热单位。 NYMEX 1月汽油期货收报1.7471美元/加仑，NYMEX 1月取暖油期货收报2.1576美元/加仑。",
@@ -37,11 +38,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 05时25分]"
         },
         {
           "title": "内盘期货夜市涨跌各异，乙二醇涨2.8%，焦煤涨则跌0.9%，焦炭跌1%",
@@ -54,6 +56,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时24分]"
+        },
+        {
+          "title": "“圣诞老人行情”开启，美国股债汇走高，标普新高，贵金属涨势暂缓，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "截至23:00收盘，国内期货主力合约涨跌不一。乙二醇（EG）涨超2%，丙烯、丁二烯橡胶、塑料、塑料月均价、白糖涨超1%。跌幅方面，菜粕、焦炭跌超1%，纸浆、焦煤跌近1%。",
