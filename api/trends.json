@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T14:43:56.368032+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2025-12-24T15:31:22.759598+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
@@ -16,8 +16,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 14时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 15时31分]"
+        },
+        {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251224151620507800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约涨0.02%，10年期主力合约涨0.02%，5年期主力合约跌0.01%，2年期主力合约与昨日持平。",
+          "url": "https://wallstreetcn.com/livenews/3026064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "周二（12月23日）纽约尾盘，彭博谷物分类指数涨0.18%，报29.3763点。 CBOT玉米期货涨0.06%，CBOT小麦期货涨0.44%。 CBOT大豆期货跌0.12%，报10.63美元/蒲式耳，豆粕期货涨0.10%，豆油期货跌0.63%。 CBOT瘦肉猪期货涨0.82%，活牛期货跌0.61%，饲牛期货跌0.51%。",
@@ -201,6 +223,18 @@
           "time_info": "[06时27分 ~ 07时26分]"
         },
         {
+          "title": "广期所钯期货主力合约触及涨停板，日内涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3026026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 15时31分]"
+        },
+        {
           "title": "NYMEX天然气期货涨超10%，刷新日高至4.385美元/百万英热单位，创10月份以来最佳盘中表现。",
           "url": "https://wallstreetcn.com/livenews/3025747",
           "source": "华尔街见闻-快讯",
@@ -335,7 +369,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -351,26 +385,37 @@
           "time_info": "10时07分"
         },
         {
-          "title": "广期所钯期货主力合约触及涨停板，日内涨近7%。",
-          "url": "https://wallstreetcn.com/livenews/3026026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
           "title": "富宝资讯：碳酸锂期货盘面继续走强，富宝电池级碳酸锂报105500元/吨",
           "url": "https://flash.jin10.com/detail/20251224134726207800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "商品期货收盘，铂、钯主力合约涨停，沪银涨超8%，碳酸锂涨超5%，沪镍涨超4%，乙二醇涨超3%。集运欧线、多晶硅跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3026049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20251224150109790800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "美国天然气期货日内暴涨9.00%，现报4.322美元/百万英热。",
@@ -384,13 +429,24 @@
           "time_info": "03时23分"
         },
         {
+          "title": "午盘收盘，国内期货主力合约多数上涨。广期所铂、钯均封涨停板，沪银涨超8%，碳酸锂涨近6%，沪镍涨超4%，乙二醇（EG）涨近4%。跌幅方面，集运指数（欧线）、多晶硅跌超1%，豆粕跌近1%。",
+          "url": "https://flash.jin10.com/detail/20251224150044710800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "中证1000股指期货（IM）主力合约日内涨幅达2.00%，现报7337.0点。中证500股指期货（IC）主力合约现报7261.2点，日内涨1.87%。沪深300股指期货（IF）主力合约站上4600点，日内涨0.67%。",
           "url": "https://flash.jin10.com/detail/20251224133431705800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
