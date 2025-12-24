@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T03:22:11.782505+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2025-12-25T04:31:09.725139+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 04时31分]"
         },
         {
           "title": "WTI 2月原油期货收报58.35美元/桶。 NYMEX 1月天然气期货收报4.2420美元/百万英热单位。 NYMEX 1月汽油期货收报1.7471美元/加仑，NYMEX 1月取暖油期货收报2.1576美元/加仑。",
@@ -35,11 +36,12 @@
           "url": "https://wallstreetcn.com/livenews/3026319",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时31分]"
         },
         {
           "title": "内盘期货夜市涨跌各异，乙二醇涨2.8%，焦煤涨则跌0.9%，焦炭跌1%",
