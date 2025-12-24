@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T20:56:53.292224+08:00",
-  "total_titles_processed": 1675,
+  "generated_at": "2025-12-24T21:38:10.244330+08:00",
+  "total_titles_processed": 1756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
@@ -20,6 +20,17 @@
           "time_info": "[00时36分 ~ 16时38分]"
         },
         {
+          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3026240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "国债期货午盘收盘",
           "url": "https://flash.jin10.com/detail/20251224151620507800",
           "source": "金十数据",
@@ -29,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
-        },
-        {
-          "title": "广期所调整多晶硅期货指定交割库",
-          "url": "https://wallstreetcn.com/livenews/3026223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
         },
         {
           "title": "广期所：已充分做好铂、钯期货交割各项准备工作",
@@ -63,6 +63,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时26分]"
+        },
+        {
+          "title": "广期所调整多晶硅期货指定交割库",
+          "url": "https://wallstreetcn.com/livenews/3026223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时38分]"
         },
         {
           "title": "期货盯盘神器专属文章",
@@ -408,6 +420,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "夜盘期货开盘，沪银涨4%，乙二醇涨2%，橡胶、白糖、塑料、焦煤涨逾1%；沪锌、豆粕、菜粕等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3026231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "富宝资讯：碳酸锂期货盘面继续走强，富宝电池级碳酸锂报105500元/吨",
           "url": "https://flash.jin10.com/detail/20251224134726207800",
           "source": "金十数据",
@@ -417,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "美国天然气期货日内跌超3.00%，现报3.779美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20251224212115288800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "商品期货收盘，铂、钯主力合约涨停，沪银涨超8%，碳酸锂涨超5%，沪镍涨超4%，乙二醇涨超3%。集运欧线、多晶硅跌超1%。",
