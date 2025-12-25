@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T03:22:36.693580+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2025-12-26T04:31:32.830362+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "贵金属集体回调！黄金失守4500，钯期货跌停，国投白银LOF跌10%触及跌停",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "沪银收涨5.50%，报18131元人民币/公斤。 沪金夜盘收涨1.07%。 上期所原油期货2502合约夜盘收涨0.38%，报447.00元人民币/桶。",
@@ -37,9 +37,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时31分]"
         },
         {
           "title": "内盘期货夜市涨跌各异，菜粕、燃油至少涨超1.8%，双焦至少跌超1.7%",
@@ -52,8 +52,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时31分]"
         },
         {
           "title": "截至23:00收盘，国内期货主力合约多数上涨，燃料油、菜粕涨近2%，PX、PTA涨超1.5%。跌幅方面，焦煤、焦炭、液化石油气（LPG）、玻璃跌超1%。",
