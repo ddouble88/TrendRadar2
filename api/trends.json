@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T12:03:34.351053+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2025-12-25T13:32:28.895107+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 12时03分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 13时32分]"
         },
         {
           "title": "上期所原油期货2502合约夜盘收跌0.02%，报442.50元人民币/桶。 沪金夜盘收跌0.23%，沪银收涨1.54%。",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "中证500股指期货（IC）主力合约向上触及7300点，日内涨0.69%。中证1000股指期货（IM）主力合约向上触及7400点，日内涨0.91%。",
+          "url": "https://flash.jin10.com/detail/20251225132006394800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "股指期货早盘开盘",
@@ -143,7 +154,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -154,7 +165,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -176,7 +187,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -187,7 +198,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
