@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T17:31:18.010558+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2025-12-26T18:31:40.651914+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "贵金属集体回调！黄金失守4500，钯期货跌停，国投白银LOF跌10%触及跌停",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "郑商所：2026年元旦期间调整部分期货合约交易保证金标准和涨跌停板幅度",
+          "url": "https://wallstreetcn.com/livenews/3027264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "沪银收涨5.50%，报18131元人民币/公斤。 沪金夜盘收涨1.07%。 上期所原油期货2502合约夜盘收涨0.38%，报447.00元人民币/桶。",
