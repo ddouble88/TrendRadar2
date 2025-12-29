@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T21:00:15.821726+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2025-12-29T21:45:17.325312+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时00分]"
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 21时45分]"
         },
         {
           "title": "期货热点追踪",
@@ -42,6 +42,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时25分 ~ 13时36分]"
+        },
+        {
+          "title": "沪锡期货主力合约日内跌幅扩大至4%，现报32770元/吨。",
+          "url": "https://flash.jin10.com/detail/20251229214044614800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251229214010350800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "美股股指期货周一基本平开。",
@@ -219,6 +241,17 @@
           "time_info": "12时15分"
         },
         {
+          "title": "夜盘期货开盘，沪银跌近5%，国际铜、沪铜跌逾3%，沪锡、焦煤跌逾2%，氧化铝、焦炭、烧碱、纸浆、沪金跌逾1%；沥青涨1%，原油涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3028179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "美股三大股指期货走低，标普500指数期货下跌0.3%，纳斯达克100指数期货下跌0.5%，道琼斯指数期货下跌0.1%。",
           "url": "https://flash.jin10.com/detail/20251229170123670800",
           "source": "金十数据",
@@ -283,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约跌多涨少，沥青涨超1%，原油、双胶纸小幅上涨。跌幅方面，沪银跌超4%，国际铜、沪铜跌超3%，沪锡、焦煤跌超2%。",
+          "url": "https://flash.jin10.com/detail/20251229210003537800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         }
       ]
     }
