@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-30T02:39:57.060869+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2025-12-30T03:22:47.343578+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "恒指期货夜盘收跌0.13%，报25634点，低水1点。",
+          "url": "https://flash.jin10.com/detail/20251230030132189800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
         {
           "title": "美国天然气期货维持涨势，现涨5.2%；EIA报告显示库存降幅符合预期。",
           "url": "https://flash.jin10.com/detail/20251230010201201800",
