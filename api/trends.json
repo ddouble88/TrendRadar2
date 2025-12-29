@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T19:26:37.236616+08:00",
-  "total_titles_processed": 1479,
+  "generated_at": "2025-12-29T21:00:15.821726+08:00",
+  "total_titles_processed": 1581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 07时26分]"
+        },
+        {
+          "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时00分]"
         },
         {
           "title": "期货热点追踪",
