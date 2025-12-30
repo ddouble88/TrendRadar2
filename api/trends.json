@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-30T22:29:25.224649+08:00",
-  "total_titles_processed": 1802,
+  "generated_at": "2025-12-30T23:31:32.993194+08:00",
+  "total_titles_processed": 1888,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨多跌少，液化气、玻璃涨超2%，甲醇、纯碱涨超1%，苯乙烯、豆一、焦煤小幅上涨。跌幅方面，低硫燃料油跌超1%，铁矿石、玉米小幅下跌。",
+          "url": "https://flash.jin10.com/detail/20251230230037348800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
         {
           "title": "为什么接触了期货后，之后做什么工作都提不起精神了呢？",
           "url": "https://www.zhihu.com/question/1932709125797700257",
@@ -137,7 +148,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -305,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20251230221819582800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "内盘期货夜市涨跌各异，纸浆收跌1.4%，铁矿石涨超0.4%，沥青涨约1.2%",
