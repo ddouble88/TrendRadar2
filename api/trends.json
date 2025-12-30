@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T21:42:21.384247+08:00",
-  "total_titles_processed": 1723,
+  "generated_at": "2025-12-30T22:29:25.224649+08:00",
+  "total_titles_processed": 1802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "为什么接触了期货后，之后做什么工作都提不起精神了呢？",
@@ -96,6 +96,18 @@
           "time_info": "[04时32分 ~ 06时27分]"
         },
         {
+          "title": "夜盘期货开盘，沪银涨近4%，沪镍涨逾2%，玻璃、甲醇、焦煤、沪铜、沪锡、纯碱涨逾1%；铁矿石、低硫燃油、沥青等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3028800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时29分]"
+        },
+        {
           "title": "商品期货收盘，钯、铂主力合约跌停，跌幅13%。沪锡跌超4%，沪银跌近4%，碳酸锂、沪金跌超3%。沪镍、玻璃涨超3%，甲醇、纯碱涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3028607",
           "source": "华尔街见闻-快讯",
@@ -119,6 +131,17 @@
           "time_info": "10时10分"
         },
         {
+          "title": "静待美联储会议纪要，美股指期货持平，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "股指期货早盘开盘",
           "url": "https://flash.jin10.com/detail/20251230093121411800",
           "source": "金十数据",
@@ -128,17 +151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
-        },
-        {
-          "title": "夜盘期货开盘，沪银涨近4%，沪镍涨逾2%，玻璃、甲醇、焦煤、沪铜、沪锡、纯碱涨逾1%；铁矿石、低硫燃油、沥青等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3028800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
         },
         {
           "title": "股指期货午盘收盘",
@@ -224,7 +236,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
