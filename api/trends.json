@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T01:25:03.631908+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-01-01T02:39:15.546407+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260101010425917800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 02时39分]"
         },
         {
           "title": "WTI原油期货转跌，美国能源部披露最新EIA原油库存周报。 虽然原油库存减少超190万桶，但成品油汽油库存激增超580万桶、精炼油库存激增约500万桶，意味着圣诞节当周需求低迷。",
@@ -24,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时39分]"
         },
         {
           "title": "美国能源信息署（EIA）数据显示上周汽油库存增幅大于预期，美国汽油期货跌幅扩大。",
