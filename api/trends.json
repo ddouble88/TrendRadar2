@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T13:29:33.300995+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-01-03T14:40:58.880044+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "周五（1月2日）纽约尾盘，标普500股指期货最终涨0.13%，道指期货涨0.55%，纳斯达克100股指期货跌0.24%。 罗素2000股指期涨货0.89%。",
@@ -17,11 +17,12 @@
             10,
             12,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时28分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[06时28分 ~ 14时40分]"
         },
         {
           "title": "周五（1月2日）纽约尾盘，现货黄金涨0.20%，报4327.96美元/盎司，本周累计下跌4.51%，12月29日显著走低，后续低位持稳。 COMEX黄金期货跌0.04%，报4339.50美元/盎司，本周累跌4.67%。",
@@ -33,11 +34,12 @@
             14,
             16,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时28分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[06时28分 ~ 14时40分]"
         },
         {
           "title": "WTI 2月原油期货收报57.32美元/桶。 NYMEX 2月天然气期货收报3.6180美元/百万英热单位。 NYMEX 2月汽油期货收报1.6982美元/加仑，NYMEX 2月取暖油期货收报2.1151美元/加仑。",
@@ -78,6 +80,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时21分 ~ 07时26分]"
+        },
+        {
+          "title": "全球粮食供应过剩导致谷物期货价格下跌",
+          "url": "https://flash.jin10.com/detail/20260103134806772800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         }
       ]
     }
