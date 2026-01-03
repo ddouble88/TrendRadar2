@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T16:35:52.900967+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-01-03T17:28:50.610806+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -20,11 +20,12 @@
             14,
             16,
             21,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时28分 ~ 16时35分]"
+          "appearance_count": 10,
+          "time_info": "[06时28分 ~ 17时28分]"
         },
         {
           "title": "周五（1月2日）纽约尾盘，现货黄金涨0.20%，报4327.96美元/盎司，本周累计下跌4.51%，12月29日显著走低，后续低位持稳。 COMEX黄金期货跌0.04%，报4339.50美元/盎司，本周累跌4.67%。",
