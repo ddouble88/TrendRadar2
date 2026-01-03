@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T22:26:13.250924+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2026-01-03T23:27:08.117424+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "周五（1月2日）纽约尾盘，标普500股指期货最终涨0.13%，道指期货涨0.55%，纳斯达克100股指期货跌0.24%。 罗素2000股指期涨货0.89%。",
@@ -71,6 +71,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时21分 ~ 12时39分]"
+        },
+        {
+          "title": "金十提示：2026年FOMC票委、费城联储主席保尔森未就近期货币政策前景发表评论。",
+          "url": "https://flash.jin10.com/detail/20260103231628910800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "WTI 2月原油期货收跌0.10美元，跌幅0.17%，报57.32美元/桶。 布伦特3月原油期货收跌0.10美元，跌幅0.16%，报60.75美元/桶。 NYMEX 2月天然气期货收报3.6180美元/百万英热单位。 NYMEX 2月汽油期货收报1.6982美元/加仑，NYMEX 2月取暖油期货收报2.1151美元/加仑。",
