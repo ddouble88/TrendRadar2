@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T13:33:30.768527+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2026-01-04T14:41:52.141028+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时33分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时41分]"
         },
         {
           "title": "金十期货1月4日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格与上日持平，中间价报117250元/吨。",
