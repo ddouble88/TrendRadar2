@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-07T02:41:56.860191+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-01-07T03:23:51.947220+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "恒指期货夜盘收跌0.13%，报26685点，低水25点。",
+          "url": "https://flash.jin10.com/detail/20260107030436343800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
         {
           "title": "比特币价格上涨引发疯狂猜想：委内瑞拉是否存有隐秘的加密货币？",
           "url": "https://www.cls.cn/detail/2249336",
@@ -16,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 03时23分]"
         },
         {
           "title": "大摩申请发行加密货币ETF，加入华尔街布局行列",
@@ -26,7 +37,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         }
