@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T10:12:18.409274+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-01-06T12:05:41.273970+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "【早报】猛涨超7%！COMEX白银期货单日暴力拉升；证监会发声，打击财务造假",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 12时05分]"
         },
         {
           "title": "WTI 2月原油期货收报58.32美元/桶。 NYMEX 2月天然气期货收报3.5230美元/百万英热单位。 NYMEX 2月汽油期货收报1.72美元/加仑，NYMEX 2月取暖油期货收报2.1428美元/加仑。",
@@ -79,6 +79,17 @@
           "time_info": "[00时36分 ~ 10时12分]"
         },
         {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260106113112204800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
           "title": "周一（1月5日）纽约尾盘，现货黄金涨2.64%，报4446.50美元/盎司。 COMEX黄金期货涨2.96%，报4457.60美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3031114",
           "source": "华尔街见闻-快讯",
@@ -96,9 +107,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260106113109202800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少，碳酸锂涨超8%，沪银涨超7%，铂涨超6%，沪锡、钯涨超4%，沪镍、沪铜、国际铜涨超3%，沪铝、PVC、沪锌、甲醇、苹果、铝合金、硅铁涨超2%。跌幅方面，胶合板、焦炭、焦煤跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260106113101394800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "芝加哥玉米期货、大豆期货涨约1.6%",
@@ -132,6 +165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.22%，10年期主力合约跌0.12%，5年期主力合约跌0.10%，2年期主力合约跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3031329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月30日当周，股票基金经理将标普500芝商所（CME）净多头仓位增加6,233手合约，至942,921手。股票基金投机者将标普500芝商所（CME）净空头头寸削减7,688手合约，至364,403手。",
@@ -195,7 +239,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -228,7 +272,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -250,7 +294,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -261,7 +305,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         }
