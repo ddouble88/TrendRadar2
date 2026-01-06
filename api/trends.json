@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T19:26:14.795781+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2026-01-06T20:59:28.663273+08:00",
+  "total_titles_processed": 1794,
   "failed_sources": [],
   "trends": [
     {
@@ -72,11 +72,12 @@
           "ranks": [
             29,
             11,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 20时59分]"
         },
         {
           "title": "恒指期货夜盘收涨0.71%，报26562点，高水215点。",
