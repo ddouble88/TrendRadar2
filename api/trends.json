@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T10:11:55.676044+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-01-07T12:06:10.980075+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "恒指期货夜盘收跌0.13%，报26685点，低水25点。",
@@ -37,9 +37,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260107113111509800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "周二（1月6日）纽约尾盘，标普500股指期货最终涨0.62%，道指期货涨1.06%，纳斯达克100股指期货涨0.94%。 罗素2000股指期货涨1.32%。",
@@ -78,15 +89,70 @@
           "time_info": "[06时29分 ~ 07时28分]"
         },
         {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260107113107771800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约大面积飘红，焦煤涨停，沪镍涨超7%，焦炭涨超6%，沪锡、玻璃、纯碱涨超5%，不锈钢、沪银、碳酸锂涨超4%，氧化铝、钯、铁矿石、烧碱涨超3%。跌幅方面，SC原油跌超2%，低硫燃料油、燃料油跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260107113041451800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约跌0.31%，10年期主力合约跌0.07%，5年期主力合约跌0.04%，2年期主力合约跌0.01%。",
           "url": "https://wallstreetcn.com/livenews/3032018",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "焦煤期货主力合约触及涨停，涨幅7.98%，报1164元/吨。",
+          "url": "https://flash.jin10.com/detail/20260107111831651800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.06%，10年期主力合约与昨日持平，5年期主力合约与昨日持平，2年期主力合约与昨日持平。",
+          "url": "https://wallstreetcn.com/livenews/3032087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "焦煤期货主力合约触及涨停，涨幅7.98%。 焦炭期货主力合约涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3032080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "大摩申请发行加密货币ETF，加入华尔街布局行列",
@@ -106,7 +172,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -117,7 +183,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -139,7 +205,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -150,7 +216,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -161,7 +227,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         }
