@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T18:33:18.250498+08:00",
-  "total_titles_processed": 1657,
+  "generated_at": "2026-01-07T19:28:03.541249+08:00",
+  "total_titles_processed": 1746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "恒指期货夜盘收跌0.13%，报26685点，低水25点。",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时38分 ~ 03时23分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260107125725909800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 19时28分]"
         },
         {
           "title": "中证500股指期货（IC）主力合约日内涨超1.00%，现报7840.0点。",
@@ -64,18 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时28分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260107125725909800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 16时40分]"
         },
         {
           "title": "WTI 2月原油期货收跌1.19美元，跌幅2.04%，报57.13美元/桶。 布伦特3月原油期货收跌1.06美元，跌幅1.772%，报60.70美元/桶。 NYMEX 2月天然气期货收报3.35美元/百万英热单位。 NYMEX 2月汽油期货收报1.7006美元/加仑，NYMEX 2月取暖油期货收报2.0830美元/加仑。",
@@ -400,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "印尼关税预期推升需求 棕榈油期货震荡上行",
+          "url": "https://flash.jin10.com/detail/20260107182636883800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "富时中国A50指数期货盘初跌0.04%，上一个交易日夜盘收跌0.03%。",
