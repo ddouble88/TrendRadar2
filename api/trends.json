@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T00:39:53.152786+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-01-08T01:32:56.139156+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时32分]"
         },
         {
           "title": "美国取暖油期货走软，EIA数据显示，美国馏分油库存增幅大于预期。",
