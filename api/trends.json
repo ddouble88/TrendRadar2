@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T19:28:03.541249+08:00",
-  "total_titles_processed": 1746,
+  "generated_at": "2026-01-07T21:02:10.932420+08:00",
+  "total_titles_processed": 1863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
           "title": "恒指期货夜盘收跌0.13%，报26685点，低水25点。",
@@ -29,6 +29,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时38分 ~ 03时23分]"
+        },
+        {
+          "title": "洲际交易所伦敦可可期货下跌4%，至每公吨4,120英镑。",
+          "url": "https://flash.jin10.com/detail/20260107205852547800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "上期所调整白银等期货品种相关合约交易手续费",
+          "url": "https://wallstreetcn.com/livenews/3032466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "期货热点追踪",
@@ -171,6 +193,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "上期所：调整白银期货相关合约交易保证金比例和涨跌停板幅度，调整白银期货合约交易限额",
+          "url": "https://wallstreetcn.com/livenews/3032459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约跌0.31%，10年期主力合约跌0.07%，5年期主力合约跌0.04%，2年期主力合约跌0.01%。",
           "url": "https://wallstreetcn.com/livenews/3032018",
           "source": "华尔街见闻-快讯",
@@ -281,6 +314,17 @@
           "time_info": "16时40分"
         },
         {
+          "title": "美国天然气期货延续涨势，现涨5%，因日产量小幅下降且未来几周需求预期增加。",
+          "url": "https://flash.jin10.com/detail/20260107204214523800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "不锈钢期货主力合约触及涨停，涨幅4.99%。",
           "url": "https://wallstreetcn.com/livenews/3032163",
           "source": "华尔街见闻-快讯",
@@ -358,6 +402,17 @@
           "time_info": "10时11分"
         },
         {
+          "title": "上期所调整白银等期货品种相关合约交易手续费",
+          "url": "https://flash.jin10.com/detail/20260107203157886800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "富时中国A50指数期货午后跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3032146",
           "source": "华尔街见闻-快讯",
@@ -408,9 +463,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "上期所调整白银期货相关合约交易保证金比例和涨跌停板幅度",
+          "url": "https://flash.jin10.com/detail/20260107202403947800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "富时中国A50指数期货盘初跌0.04%，上一个交易日夜盘收跌0.03%。",
