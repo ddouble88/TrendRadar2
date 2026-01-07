@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T15:32:34.473541+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-01-07T16:40:41.144970+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "恒指期货夜盘收跌0.13%，报26685点，低水25点。",
@@ -29,17 +29,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时38分 ~ 03时23分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260107125725909800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
         },
         {
           "title": "中证500股指期货（IC）主力合约日内涨超1.00%，现报7840.0点。",
@@ -75,6 +64,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时28分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260107125725909800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 16时40分]"
         },
         {
           "title": "WTI 2月原油期货收跌1.19美元，跌幅2.04%，报57.13美元/桶。 布伦特3月原油期货收跌1.06美元，跌幅1.772%，报60.70美元/桶。 NYMEX 2月天然气期货收报3.35美元/百万英热单位。 NYMEX 2月汽油期货收报1.7006美元/加仑，NYMEX 2月取暖油期货收报2.0830美元/加仑。",
@@ -154,7 +155,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -198,7 +199,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -231,7 +232,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -253,7 +254,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -267,6 +268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "金十期货图示",
+          "url": "https://flash.jin10.com/detail/20260107153937845800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "不锈钢期货主力合约触及涨停，涨幅4.99%。",
@@ -319,7 +331,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -363,7 +375,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
