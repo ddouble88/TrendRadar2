@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T12:06:10.980075+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-01-07T13:32:58.941213+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "恒指期货夜盘收跌0.13%，报26685点，低水25点。",
@@ -31,6 +31,17 @@
           "time_info": "[00时38分 ~ 03时23分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260107125725909800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "中证500股指期货（IC）主力合约日内涨超1.00%，现报7840.0点。",
           "url": "https://flash.jin10.com/detail/20260107095301044800",
           "source": "金十数据",
@@ -40,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260107113111509800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
         },
         {
           "title": "周二（1月6日）纽约尾盘，标普500股指期货最终涨0.62%，道指期货涨1.06%，纳斯达克100股指期货涨0.94%。 罗素2000股指期货涨1.32%。",
@@ -77,6 +77,18 @@
           "time_info": "[04时32分 ~ 05时28分]"
         },
         {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260107113111509800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时32分]"
+        },
+        {
           "title": "周二（1月6日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.81%，报93815美元，北京时间02:00刷新日低至91460美元。 CME以太币期货DCR主力合约涨1.23%，报3296.50美元。 美股加密货币与加密货币关联指数收跌2.09%，报66.31点，整体呈现出V形走势——北京时间02:00刷新日低至63.68点。 最近24小时，MarketVectorTM数字资产100小盘指数涨1.11%，暂报4269.69点。 MarketVectorTM数字资产100中盘指数涨0.21%，报3964.13点。 MarketVector数字资产100指数涨0.46%，报19504.12点。",
           "url": "https://wallstreetcn.com/livenews/3031915",
           "source": "华尔街见闻-快讯",
@@ -89,13 +101,37 @@
           "time_info": "[06时29分 ~ 07时28分]"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.06%，10年期主力合约与昨日持平，5年期主力合约与昨日持平，2年期主力合约与昨日持平。",
+          "url": "https://wallstreetcn.com/livenews/3032087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时32分]"
+        },
+        {
+          "title": "焦煤期货主力合约触及涨停，涨幅7.98%。 焦炭期货主力合约涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3032080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时32分]"
+        },
+        {
           "title": "国债期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20260107113107771800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -106,7 +142,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -128,29 +164,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.06%，10年期主力合约与昨日持平，5年期主力合约与昨日持平，2年期主力合约与昨日持平。",
-          "url": "https://wallstreetcn.com/livenews/3032087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "焦煤期货主力合约触及涨停，涨幅7.98%。 焦炭期货主力合约涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3032080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
