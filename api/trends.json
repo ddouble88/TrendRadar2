@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T14:44:47.461599+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-01-08T15:31:51.401123+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260108150121328800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "上期所原油期货2502合约夜盘收跌2.19%，报415.50元人民币/桶。 沪金夜盘收跌0.31%，沪银收跌2.99%。",
@@ -78,13 +89,24 @@
           "time_info": "[06时29分 ~ 07时28分]"
         },
         {
+          "title": "午盘收盘，国内期货主力合约跌多涨少，多晶硅跌停，集运欧线跌超8%，铂、沪镍跌超6%，沪银跌超5%，工业硅跌超4%，钯、硅铁跌超3%，国际铜、沪铝、沪铜、铝合金、甲醇、SC原油、沪铅跌超2%。涨幅方面，焦煤涨超4%，玻璃、焦炭、碳酸锂涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260108150058813800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "金十期货观察",
           "url": "https://flash.jin10.com/detail/20260108143100171800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -95,7 +117,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -144,6 +166,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "国债期货收盘，30年期主力合约涨0.37%，10年期主力合约涨0.15%，5年期主力合约涨0.09%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3033055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "美国天然气期货日内大涨6.00%，现报3.551美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20260108015031736800",
           "source": "金十数据",
@@ -183,7 +216,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -208,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "商品期货收盘，多晶硅主力合约跌停，跌幅9%。集运欧线跌近9%，铂、沪镍跌超6%，沪银跌超5%，工业硅跌超4%，钯、硅铁跌超3%。焦煤涨超4%，玻璃、焦炭、碳酸锂涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3033035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "周三（1月7日）纽约尾盘，现货黄金跌0.90%，报4454.32美元/盎司，北京时间23:17刷新日低至4423.61美元。 COMEX黄金期货跌0.73%，报4463.50美元/盎司。",
