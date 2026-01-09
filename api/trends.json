@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T13:33:27.167724+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-01-09T14:45:30.149735+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "恒指期货夜盘收涨0.65%，报26312点，高水163点。",
@@ -156,6 +156,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "钯期货主力合约日内涨幅扩大至6%。",
+          "url": "https://wallstreetcn.com/livenews/3033819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "中证1000股指期货（IM）主力合约突破7900点，日内涨1.20%。",
           "url": "https://flash.jin10.com/detail/20260109094850433800",
           "source": "金十数据",
@@ -173,7 +184,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
