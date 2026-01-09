@@ -1,479 +1,55 @@
 {
-  "generated_at": "2026-01-09T23:33:02.875524+08:00",
-  "total_titles_processed": 2175,
+  "generated_at": "2026-01-10T00:38:16.076827+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 42,
+      "match_count": 4,
       "titles": [
         {
-          "title": "恒指期货夜盘收涨0.65%，报26312点，高水163点。",
-          "url": "https://flash.jin10.com/detail/20260109030104464800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "美国非农等数据公布后，美股期货短线拉升，纳指期货日内涨0.43%，标普500指数期货涨0.33%，道指期货0.28%；美国国债下跌，美元指数短线下挫。",
-          "url": "https://wallstreetcn.com/livenews/3034194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时46分"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260109113108964800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "申银万国期货回应：网传消息严重不实，已报警",
-          "url": "https://wallstreetcn.com/livenews/3034142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
-          "title": "中证1000股指期货（IM）主力合约日内涨幅达2.00%，现报7966.0点。",
-          "url": "https://flash.jin10.com/detail/20260109100156226800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260109113104237800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "金十期货1月9日讯，上海航运交易所数据显示，截至1月9日，上海出口集装箱运价指数（综合指数）报1647.39点，与上期相比下跌8.93点；中国出口集装箱运价综合指数报1194.89点，与上期相比涨4.2%。",
-          "url": "https://flash.jin10.com/detail/20260109151046214800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "国债期货收盘，30年期主力合约跌0.07%，10年期主力合约跌0.02%，5年期主力合约跌0.03%，2年期主力合约跌0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3033867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "广期所：调整铂、钯期货合约涨跌停板幅度和交易保证金标准",
-          "url": "https://wallstreetcn.com/livenews/3034075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，低硫燃料油涨超3%，SC原油涨超2%，燃料油、苹果、沪铝涨超1%。跌幅方面，多晶硅跌超7%，沪镍跌超4%，烧碱、硅铁、BR橡胶、焦炭、纯碱、沪银跌超2%，氧化铝、20号胶、橡胶跌近2%。",
-          "url": "https://flash.jin10.com/detail/20260109113055726800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260109100116888800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 22时32分]"
-        },
-        {
-          "title": "周四（1月8日）纽约尾盘，标普500股指期货最终涨0.15%，道指期货涨0.70%，纳斯达克100股指期货跌0.47%。 罗素2000股指期货涨1.37%。",
-          "url": "https://wallstreetcn.com/livenews/3033582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普称必须拥有整个格陵兰 芝商所再度上调贵金属期货保证金 | 环球市场",
-          "url": "https://www.cls.cn/detail/2252459",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 15时32分]"
-        },
-        {
-          "title": "美国总统特朗普暗示，无意赦免（被前总统拜登收监的）原加密货币交易所FTX创始人Sam Bankman-Fried（SBF）。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3033530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时30分]"
-        },
-        {
-          "title": "芝商所再出手 近期第三次上调贵金属期货保证金",
-          "url": "https://flash.jin10.com/detail/20260109052701974800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时25分]"
-        },
-        {
-          "title": "周四（1月8日）纽约尾盘，现货黄金涨0.37%，报4473.13美元/盎司，整体呈现出V形反转走势。 COMEX黄金期货涨0.48%，报4483.30美元/盎司，北京时间20:16刷新日低至4415美元。",
-          "url": "https://wallstreetcn.com/livenews/3033574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时25分]"
-        },
-        {
-          "title": "中证500股指期货（IC）主力合约日内涨超2.00%，现报7963.0点。",
-          "url": "https://flash.jin10.com/detail/20260109095901936800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "富宝资讯：碳酸锂期货盘面跌后回涨，富宝碳酸锂社会总库存10.5万吨，环增0.76%",
-          "url": "https://flash.jin10.com/detail/20260109111936377800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "金十期货·一周回顾",
-          "url": "https://flash.jin10.com/detail/20260109170546638800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "《中国金融期货交易所交易规则》（征求意见稿）：交易所对程序化交易进行监管",
-          "url": "https://flash.jin10.com/detail/20260109180128787800",
+          "title": "泛欧交易所：原定于2月2日推出的商品期货晚间交易时段将推迟至4月13日上线。",
+          "url": "https://flash.jin10.com/detail/20260110000042130800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时32分"
+          "time_info": "00时38分"
         },
         {
-          "title": "钯期货主力合约日内涨幅扩大至6%。",
-          "url": "https://wallstreetcn.com/livenews/3033819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "中证1000股指期货（IM）主力合约突破7900点，日内涨1.20%。",
-          "url": "https://flash.jin10.com/detail/20260109094850433800",
+          "title": "泛欧交易所：原定于欧洲中部时间20:30结束的商品期货晚间交易时段现改至欧洲中部时间20:15结束。",
+          "url": "https://flash.jin10.com/detail/20260109235956174800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "00时38分"
         },
         {
-          "title": "金十期货·多晶硅专题",
-          "url": "https://flash.jin10.com/detail/20260109125956166800",
+          "title": "WTI原油期货日内大涨3.00%，现报59.50美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260109235835387800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "00时38分"
         },
         {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.13%，10年期主力合约涨0.01%，5年期主力合约跌0.03%，2年期主力合约跌0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3033734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "中证500股指期货（IC）主力合约日内涨超1.00%，现报7883.8点。",
-          "url": "https://flash.jin10.com/detail/20260109094540216800",
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20260109235411508800",
           "source": "金十数据",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "股指期货午盘收盘",
-          "url": "https://flash.jin10.com/detail/20260109150127131800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "WTI 2月原油期货收涨1.77美元，涨幅3.16%，报57.76美元/桶。 布伦特3月原油期货收报61.99美元/桶。 NYMEX 2月天然气期货收报3.4070美元/百万英热单位。 NYMEX 2月汽油期货收报1.7603美元/加仑，NYMEX 2月取暖油期货收报2.1195美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3033524",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨跌不一，钯涨超6%，低硫燃料油、SC原油涨超3%，燃料油涨超2%，苹果、沪铝、甲醇、铂涨超1%。跌幅方面，多晶硅跌超8%，沪镍、BR橡胶跌超2%，硅铁、焦炭、菜粕、纯碱跌近2%。",
-          "url": "https://flash.jin10.com/detail/20260109150036730800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "美国芝商所再出手 近期第三次上调贵金属期货保证金",
-          "url": "https://wallstreetcn.com/livenews/3033572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "商品期货收盘，多晶硅主力合约跌超8%，沪镍、BR橡胶跌超2%。钯涨6%，LU燃油、原油涨超3%，燃料油涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3033847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "证监会公布金融行业推荐性标准《证券期货业信息系统密码技术应用指引》（JR/T 0347—2026）、《证券期货业信息系统分类与代码》（JR/T 0348—2026），自公布之日起施行。",
-          "url": "https://wallstreetcn.com/livenews/3034117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约涨0.03%，10年期主力合约涨0.01%，5年期主力合约跌0.05%，2年期主力合约跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3033664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "上期所原油期货2502合约夜盘收涨1.58%，报424.60元人民币/桶。 沪金夜盘收涨0.21%，沪银收跌2.82%。",
-          "url": "https://wallstreetcn.com/livenews/3033501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "证监会较大幅度提高证券期货违法行为“吹哨人”奖励 最高奖励100万元",
-          "url": "https://wallstreetcn.com/livenews/3034110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
-          "title": "美国非农等数据公布后，美股期货短线拉升，纳指期货日内涨0.43%，标普500指数期货涨0.33%，道指期货涨0.28%；美国国债下跌，美元指数短线下挫。现货黄金短线拉升，向上触及4490美元/盎司，日内涨0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3034194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
-          "title": "美国天然气期货日内走低3.00%，现报3.304美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260109230405415800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时33分"
-        },
-        {
-          "title": "美国天然气期货维持跌势，现跌2.1%，EIA报告显示天然气库存降幅略高于预期。",
-          "url": "https://flash.jin10.com/detail/20260108233227120800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "金十期货1月9日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨500元/吨，中间价报139100元/吨。",
-          "url": "https://flash.jin10.com/detail/20260109103210347800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "商品期货开盘，多晶硅主力合约跌超9%，沪镍跌超4%，氧化铝、焦炭、纯碱、沪银、工业硅、烧碱跌超2%。LU燃油涨超3%，原油涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3033646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "内盘期货夜市多数收跌，焦炭跌2.8%，焦煤跌2.2%，铁矿石跌1.1%",
-          "url": "https://wallstreetcn.com/livenews/3033418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "富时中国A50指数期货盘初涨0.24%，上一个交易日夜盘收涨0.29%。",
-          "url": "https://wallstreetcn.com/livenews/3033644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "美国短期利率期货在12月非农就业报告发布后下跌。",
-          "url": "https://flash.jin10.com/detail/20260109213152549800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时46分"
+          "time_info": "00时38分"
         }
       ]
     }
