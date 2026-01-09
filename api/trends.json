@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T19:27:08.918149+08:00",
-  "total_titles_processed": 1780,
+  "generated_at": "2026-01-09T21:01:34.488175+08:00",
+  "total_titles_processed": 1889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "恒指期货夜盘收涨0.65%，报26312点，高水163点。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "申银万国期货回应：网传消息严重不实，已报警",
+          "url": "https://wallstreetcn.com/livenews/3034142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "中证1000股指期货（IM）主力合约日内涨幅达2.00%，现报7966.0点。",
@@ -80,7 +91,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -321,6 +332,17 @@
           "time_info": "15时32分"
         },
         {
+          "title": "证监会公布金融行业推荐性标准《证券期货业信息系统密码技术应用指引》（JR/T 0347—2026）、《证券期货业信息系统分类与代码》（JR/T 0348—2026），自公布之日起施行。",
+          "url": "https://wallstreetcn.com/livenews/3034117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约涨0.03%，10年期主力合约涨0.01%，5年期主力合约跌0.05%，2年期主力合约跌0.01%。",
           "url": "https://wallstreetcn.com/livenews/3033664",
           "source": "华尔街见闻-快讯",
@@ -341,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "证监会较大幅度提高证券期货违法行为“吹哨人”奖励 最高奖励100万元",
+          "url": "https://wallstreetcn.com/livenews/3034110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "美国天然气期货维持跌势，现跌2.1%，EIA报告显示天然气库存降幅略高于预期。",
