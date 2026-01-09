@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T17:35:56.730528+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2026-01-09T18:32:10.364377+08:00",
+  "total_titles_processed": 1674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "恒指期货夜盘收涨0.65%，报26312点，高水163点。",
@@ -184,9 +184,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "《中国金融期货交易所交易规则》（征求意见稿）：交易所对程序化交易进行监管",
+          "url": "https://flash.jin10.com/detail/20260109180128787800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "钯期货主力合约日内涨幅扩大至6%。",
