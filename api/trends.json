@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T19:23:08.637356+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-01-10T20:54:33.734316+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "WTI 2月原油期货收报59.12美元/桶。 NYMEX 2月天然气期货收报3.1690美元/百万英热单位。 NYMEX 2月汽油期货收报1.7806美元/加仑，NYMEX 2月取暖油期货收报2.1350美元/加仑。",
@@ -184,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "奖金最高100万元！证监会大幅提高证券期货违法行为“吹哨人”奖励",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32354606",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：1月6日当周，投机者所持COMEX黄金净多头头寸减少2,617手合约，至124,256手合约。",
