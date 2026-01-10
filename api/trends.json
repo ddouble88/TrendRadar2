@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T22:26:57.256982+08:00",
-  "total_titles_processed": 1596,
+  "generated_at": "2026-01-10T23:27:23.537110+08:00",
+  "total_titles_processed": 1646,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "奖金最高100万元！证监会大幅提高证券期货违法行为“吹哨人”奖励",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32354606",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 23时27分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：1月6日当周，瑞士法郎的净空头头寸为-40,266手合约。英镑净空头头寸为-30,538份合约。日元净多头头寸为8,815手合约。",
@@ -39,18 +51,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时28分 ~ 07时28分]"
-        },
-        {
-          "title": "奖金最高100万元！证监会大幅提高证券期货违法行为“吹哨人”奖励",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32354606",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 22时26分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：在截至1月6日的一周内，四大主要纽约商品交易所和洲际交易所天然气投机者的净多头头寸减少44,472手合约，至79,516手合约。",
