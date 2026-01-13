@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T13:33:17.988196+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-01-13T14:45:13.572265+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "期货热点追踪",
@@ -187,6 +187,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "富宝资讯：碳酸锂期货盘面继续走强，富宝电池级碳酸锂报160900元/吨",
+          "url": "https://flash.jin10.com/detail/20260113135329203800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "美国天然气期货日内下跌3.00%，现报3.299美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260113134320916800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "芝加哥玉米期货跌约5.4%，大豆跌1.2%",
