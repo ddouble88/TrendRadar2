@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-14T17:37:10.155018+08:00",
-  "total_titles_processed": 1563,
+  "generated_at": "2026-01-14T18:34:24.726984+08:00",
+  "total_titles_processed": 1650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "美国股指期货继续下跌，纳斯达克100指数期货下跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20260114182439390800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
         {
           "title": "中证1000股指期货（IM）主力合约日内涨超2.00%，现报8316.0点。中证500股指期货（IC）主力合约站上8300点，日内涨2.20%。",
           "url": "https://flash.jin10.com/detail/20260114100125712800",
