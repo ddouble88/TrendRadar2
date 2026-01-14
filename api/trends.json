@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T12:13:49.063032+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-01-14T13:33:22.479902+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "中证1000股指期货（IM）主力合约日内涨超2.00%，现报8316.0点。中证500股指期货（IC）主力合约站上8300点，日内涨2.20%。",
@@ -54,15 +54,37 @@
           "time_info": "[06时31分 ~ 07时26分]"
         },
         {
+          "title": "金十期货·贵金属专题",
+          "url": "https://flash.jin10.com/detail/20260114130849381800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
           "title": "国债期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20260114113136063800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "中国30年期国债期货主力合约拉升翻红。30年期特别国债2500006收益率持续回落至日内低位附近。",
+          "url": "https://wallstreetcn.com/livenews/3036670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         },
         {
           "title": "股指期货早盘收盘",
@@ -71,7 +93,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -82,9 +104,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "股指期货主力合约短线下挫，沪深300股指期货（IF）涨幅缩窄至0.54%；上证50股指期货（IH）涨幅缩窄至0.34%；中证500股指期货（IC）涨幅缩窄至1.62%，此前一度涨超3%；中证1000股指期货（IM）涨幅缩窄至1.50%，此前一度涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260114130439088800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         },
         {
           "title": "美国参议院农业委员会将于1月27日“起草”加密货币立法草案。",
@@ -181,9 +214,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "金十期货·沪锡专题",
+          "url": "https://flash.jin10.com/detail/20260114125114494800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         },
         {
           "title": "再下一城！沪锡期货突破41万大关",
@@ -195,6 +239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20260114124109734800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         },
         {
           "title": "国债期货开盘，30年期主力合约跌0.05%，10年期主力合约跌0.02%，5年期主力合约涨0.01%，2年期主力合约跌0.00%。",
