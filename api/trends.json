@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T10:23:35.788997+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-01-14T12:13:49.063032+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "中证1000股指期货（IM）主力合约日内涨超2.00%，现报8316.0点。中证500股指期货（IC）主力合约站上8300点，日内涨2.20%。",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -54,6 +54,39 @@
           "time_info": "[06时31分 ~ 07时26分]"
         },
         {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260114113136063800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260114113133152800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少。沪锡涨8%，沪银涨超7%，燃料油、铂涨超5%，钯、低硫燃料油（LU）涨超3%，纯苯涨近3%；跌幅方面，集运欧线跌近3%，多晶硅、玻璃跌超2%，烧碱跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260114113054070800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "美国参议院农业委员会将于1月27日“起草”加密货币立法草案。",
           "url": "https://wallstreetcn.com/livenews/3036442",
           "source": "华尔街见闻-快讯",
@@ -71,7 +104,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -82,7 +115,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -104,7 +137,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -115,7 +148,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -137,9 +170,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.40%，10年期主力合约跌0.01%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3036627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "再下一城！沪锡期货突破41万大关",
@@ -148,7 +192,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -159,7 +203,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -170,7 +214,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -181,7 +225,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         }
