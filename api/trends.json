@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T22:32:15.893848+08:00",
-  "total_titles_processed": 1988,
+  "generated_at": "2026-01-16T23:32:27.653977+08:00",
+  "total_titles_processed": 2068,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "金十期货·碳酸锂专题",
@@ -178,6 +178,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨跌互现，苯乙烯、低硫燃料油（LU）、焦炭、纯苯涨超1%。跌幅方面，菜粕跌超2%，丁二烯橡胶、烧碱跌近2%。",
+          "url": "https://flash.jin10.com/detail/20260116230048370800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "国债期货早盘收盘，30年期主力合约跌0.04%，10年期主力合约涨0.03%，5年期主力合约涨0.07%，2年期主力合约涨0.04%。",
