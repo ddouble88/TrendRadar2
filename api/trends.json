@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T04:30:27.485064+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-01-17T05:28:54.932310+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 3,
+      "match_count": 15,
       "titles": [
         {
           "title": "欧洲天然气期货本周涨超30%，异常严寒季节的“完美风暴”提振市场需求",
@@ -37,11 +37,144 @@
           "url": "https://wallstreetcn.com/livenews/3038986",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时28分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，COMEX铜投机客将净多头头寸减少了4,721手，至62,175手。",
+          "url": "https://flash.jin10.com/detail/20260117043341189800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时30分"
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，COMEX黄金投机客将净多头头寸增加了12,292手，达到136,548手，COMEX白银投机客将净多头头寸减少了2,613手，至15,045手。",
+          "url": "https://flash.jin10.com/detail/20260117043333956800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，CBOT大豆投机客转而持有16,388手净空头头寸，当周减少了38,287手。",
+          "url": "https://flash.jin10.com/detail/20260117043312725800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，CBOT玉米投机客的净空头头寸增加了75,221手，至201,335手。",
+          "url": "https://flash.jin10.com/detail/20260117043307264800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，CBOT小麦投机客的净空头头寸减少了4,073手，至105,576手。",
+          "url": "https://flash.jin10.com/detail/20260117043301812800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：1月13日当周，投机者所持COMEX黄金净多头头寸增加12,292手合约，至136,548手合约，创三周新高。 所持COMEX白银净多头头寸降低至15,045手合约，创逾22个月新低。 所持COMEX铜净多头头寸减少至62,175手合约，创七周新低。 所持NYMEX铂金净多头头寸增至7,536手合约，所持NYMEX钯金净多头头寸降低至198手合约。",
+          "url": "https://wallstreetcn.com/livenews/3038996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，ICE棉花投机客的净空头头寸减少了454手，至50,638手。",
+          "url": "https://flash.jin10.com/detail/20260117043256435800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：1月13日当周，投机者所持NYMEX WTI原油净多头头寸增加19,927手合约，至42,507手合约，创五个月新高。 所持布伦特和WTI原油净多头头寸增至235,199手合约，创17周新高。",
+          "url": "https://wallstreetcn.com/livenews/3038995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，ICE糖投机客的净空头头寸增加了10,433手，达到181,188手。",
+          "url": "https://flash.jin10.com/detail/20260117043249308800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "芝加哥玉米期货本周跌超4.6%，大豆跌0.6%，大豆油涨约5.7%",
+          "url": "https://wallstreetcn.com/livenews/3038992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，原油投机客转而持有8,689手WTI净多头头寸，当周增加了20,670手。",
+          "url": "https://flash.jin10.com/detail/20260117043057733800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，NYMEX和ICE四大主要市场的天然气投机客将净多头持仓增加了11,475手，至90,991手。",
+          "url": "https://flash.jin10.com/detail/20260117043005131800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         }
       ]
     }
