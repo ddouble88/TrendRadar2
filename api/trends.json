@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T19:27:51.281798+08:00",
-  "total_titles_processed": 1679,
+  "generated_at": "2026-01-16T21:01:27.987142+08:00",
+  "total_titles_processed": 1802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "金十期货·碳酸锂专题",
@@ -229,9 +229,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
+        },
+        {
+          "title": "美国天然气期货日内涨幅达3.00%，现报3.222美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260116200830498800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "芝加哥大豆期货涨超0.9%，大豆油涨3.8%",
@@ -262,7 +273,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
