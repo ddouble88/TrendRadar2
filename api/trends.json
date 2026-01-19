@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T16:43:18.972970+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-01-19T17:43:18.345734+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时50分 ~ 16时43分]"
+          "appearance_count": 6,
+          "time_info": "[14时50分 ~ 17时43分]"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
