@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T17:41:01.069423+08:00",
-  "total_titles_processed": 1569,
+  "generated_at": "2026-01-21T18:38:29.590220+08:00",
+  "total_titles_processed": 1661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时31分 ~ 17时41分]"
+          "appearance_count": 11,
+          "time_info": "[07时31分 ~ 18时38分]"
         },
         {
           "title": "超长期国债期现货持续走高，30年期国债期货主力合约涨0.80%报112.30元，30年期国债“25超长特别国债06”收益率下行2.40bp报2.2530%。",
@@ -147,6 +147,17 @@
           "time_info": "13时36分"
         },
         {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "美国天然气期货大涨逾10%，至4.33美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20260121142501421800",
           "source": "金十数据",
@@ -189,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
+        },
+        {
+          "title": "WTI原油期货失守60美元/桶，日内跌幅0.61%。",
+          "url": "https://flash.jin10.com/detail/20260121181733959800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "国债期货早盘收盘",
