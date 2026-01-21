@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-22T03:34:55.631060+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-01-22T04:40:43.034693+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
           "url": "https://wallstreetcn.com/articles/3763668",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时34分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时40分]"
         },
         {
           "title": "上期所原油期货2503合约夜盘收涨1.22%，报446.50元人民币/桶。 沪金夜盘收涨1.09%，沪银收跌0.52%。",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 03时34分]"
+        },
+        {
+          "title": "芝加哥大豆期货涨超1.1%，大豆油涨超2.8%，纽约可可跌超4.2%",
+          "url": "https://wallstreetcn.com/livenews/3041495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         }
       ]
     }
