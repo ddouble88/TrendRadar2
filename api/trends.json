@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T07:31:41.813689+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-01-21T10:22:53.026129+08:00",
+  "total_titles_processed": 875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -14,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 10时22分]"
         },
         {
           "title": "WTI 2月原油期货收涨0.90美元，涨幅1.51%，报60.34美元/桶，逼近1月14日收盘位62.02美元。 NYMEX 2月天然气期货收报3.9070美元/百万英热单位。 NYMEX 2月汽油期货收报1.8238美元/加仑，NYMEX 2月取暖油期货收报2.3385美元/加仑。",
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -75,6 +75,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时31分]"
+        },
+        {
+          "title": "中证1000股指期货（IM）主力合约突破8200点，日内涨1.41%。",
+          "url": "https://flash.jin10.com/detail/20260121100259730800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "期货热点追踪",
