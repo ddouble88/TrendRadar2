@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T06:34:27.119697+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-01-22T07:33:44.220874+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,18 @@
           "time_info": "[05时35分 ~ 06时34分]"
         },
         {
+          "title": "周三（1月21日）纽约尾盘，标普500股指期货最终涨1.25%，道指期货涨1.26%，纳斯达克100股指期货涨1.50%。 罗素2000股指期货涨1.99%。",
+          "url": "https://wallstreetcn.com/livenews/3041540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时33分]"
+        },
+        {
           "title": "NYMEX天然气期货涨至5美元，为12月份以来首次。",
           "url": "https://wallstreetcn.com/livenews/3041514",
           "source": "华尔街见闻-快讯",
@@ -66,17 +78,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时35分]"
-        },
-        {
-          "title": "周三（1月21日）纽约尾盘，标普500股指期货最终涨1.25%，道指期货涨1.26%，纳斯达克100股指期货涨1.50%。 罗素2000股指期货涨1.99%。",
-          "url": "https://wallstreetcn.com/livenews/3041540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
         }
       ]
     }
