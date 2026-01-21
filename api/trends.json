@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T15:37:24.093839+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-01-21T16:41:38.914093+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时31分 ~ 15时37分]"
+          "appearance_count": 8,
+          "time_info": "[07时31分 ~ 16时41分]"
         },
         {
           "title": "超长期国债期现货持续走高，30年期国债期货主力合约涨0.80%报112.30元，30年期国债“25超长特别国债06”收益率下行2.40bp报2.2530%。",
@@ -186,7 +186,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -208,7 +208,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -252,7 +252,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
