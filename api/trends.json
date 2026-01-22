@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T18:37:23.164347+08:00",
-  "total_titles_processed": 1562,
+  "generated_at": "2026-01-22T19:29:55.774497+08:00",
+  "total_titles_processed": 1650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -26,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -243,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
+        },
+        {
+          "title": "市场消息：迪拜已将4月份官方原油价格对阿曼期货的贴水设定为每桶30美分。",
+          "url": "https://flash.jin10.com/detail/20260122184341616800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "富时中国A50指数期货盘初涨0.31%，上一个交易日夜盘收涨0.29%。",
