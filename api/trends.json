@@ -1,323 +1,44 @@
 {
-  "generated_at": "2026-01-26T23:37:43.427851+08:00",
-  "total_titles_processed": 1827,
+  "generated_at": "2026-01-27T00:43:34.064175+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 28,
+      "match_count": 3,
       "titles": [
         {
-          "title": "美日干预叠加政府关门预期，美元走低日元急升，黄金突破5000美元，纳指期货跌1%，美天然气期货涨16%",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 10时30分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260126114828592800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 22时37分]"
-        },
-        {
-          "title": "上期所调整白银、锡期货相关合约交易限额",
-          "url": "https://flash.jin10.com/detail/20260126173952688800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "夜盘期货开盘，沪银涨逾3%，沪锌涨逾2%，液化石油气、玻璃、沪金、烧碱涨逾1%；沪锡跌逾1%，铁矿石、沪镍等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3044016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "NYMEX天然气期货涨超21%，现报6.41美元/百万英热单位，1月份迄今已经累计上涨72%。",
-          "url": "https://wallstreetcn.com/livenews/3044093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时37分"
-        },
-        {
-          "title": "富时中国A50指数期货涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3043595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "上期能源：调整国际铜期货相关合约涨跌停板幅度和交易保证金比例",
-          "url": "https://wallstreetcn.com/livenews/3043898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时28分]"
-        },
-        {
-          "title": "上期所调整铜等期货相关合约涨跌停板幅度和交易保证金比例",
-          "url": "https://wallstreetcn.com/livenews/3043889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "WTI原油期货日内涨超1.00%，现报61.69美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260126142855194800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "股指期货午盘收盘",
-          "url": "https://flash.jin10.com/detail/20260126150143014800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "上期所调整白银、锡期货相关合约交易限额",
-          "url": "https://wallstreetcn.com/livenews/3043887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨多跌少，沪银涨近13%，铂涨超9%，钯涨超7%，燃油涨近7%，集运欧线涨超5%，液化石油气（LPG）、菜油、SC原油涨超4%，沪金涨近4%，低硫燃料油（LU）、甲醇涨超3%。跌幅方面，碳酸锂跌超6%，生猪、铁矿跌近1%。",
-          "url": "https://flash.jin10.com/detail/20260126150129566800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "碳酸锂期货冲高回落，产业企业：等到心仪价格再加大采购力度",
-          "url": "https://wallstreetcn.com/livenews/3043944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "小麦期货触及六周高点 美国多地遭遇霜冻",
-          "url": "https://wallstreetcn.com/livenews/3044010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "中证1000股指期货（IM）主力合约失守8400点，日内跌幅0.95%。中证500股指期货（IC）主力合约跌破8600点，日内跌0.26%。",
-          "url": "https://flash.jin10.com/detail/20260126094613411800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "金十期货图示",
-          "url": "https://flash.jin10.com/detail/20260126155016641800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时43分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260126113140579800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "内盘期货夜市多数收跌，PTA跌约1.8%，铁矿石跌约0.4%，棕榈油涨超1.8%",
-          "url": "https://wallstreetcn.com/livenews/3044083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时37分"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260126113136689800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约大面积飘红，沪银涨超14%，铂涨超9%，钯涨超7%，集运欧线涨超5%，沪锡涨近5%，合成橡胶、燃油涨超4%，液化石油气（LPG）、沪金涨近4%，沪镍涨超3%。跌幅方面，碳酸锂跌超2%，纸浆跌1%，生猪、苹果跌近1%。",
-          "url": "https://flash.jin10.com/detail/20260126113119340800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.07%，10年期主力合约跌0.03%，5年期主力合约跌0.02%，2年期主力合约跌0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3043640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "金十期货独家策划",
-          "url": "https://flash.jin10.com/detail/20260126202220493800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "李家超：将在港推出离岸国债期货、拓展“沪深港通”下的利率衍生品业务",
-          "url": "https://wallstreetcn.com/livenews/3043720",
+          "title": "莲华资产洪灏：黄金成为全球资产估值锚，中国有色金属板块仍有机会",
+          "url": "https://wallstreetcn.com/livenews/3044100",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时50分"
+          "time_info": "00时43分"
         },
         {
-          "title": "受极端寒冷天气影响，美国天然气期货延续涨势，价格一度飙升17%，创下自2022年12月以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20260126201722843800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "截至23:00收盘，国内期货主力合约涨跌不一，棕榈油、BR橡胶涨超1%，菜油、沥青、液化气小幅上涨。跌幅方面，PTA、双胶纸、对二甲苯、瓶片、焦煤跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260126230043921800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时37分"
-        },
-        {
-          "title": "上期能源调整国际铜期货相关合约涨跌停板幅度和交易保证金比例",
-          "url": "https://flash.jin10.com/detail/20260126175250187800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "泰国期货交易所宣布暂停美元/日元期货以及白银在线期货交易。",
-          "url": "https://wallstreetcn.com/livenews/3043617",
+          "title": "NYMEX天然气期货涨超21%，现报6.41美元/百万英热单位，1月份迄今已经累计上涨72%。",
+          "url": "https://wallstreetcn.com/livenews/3044093",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时21分"
+          "time_info": "00时43分"
         },
         {
-          "title": "商品期货收盘，沪银主力合约涨超12%，铂涨超9%，钯涨超7%，燃料油涨超6%，集运欧线涨超5%，液化气、菜籽油、原油涨超4%，沪金、BR橡胶、LU燃油、甲醇涨超3%。碳酸锂跌超6%。",
-          "url": "https://wallstreetcn.com/livenews/3043750",
+          "title": "内盘期货夜市多数收跌，PTA跌约1.8%，铁矿石跌约0.4%，棕榈油涨超1.8%",
+          "url": "https://wallstreetcn.com/livenews/3044083",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时35分"
+          "time_info": "00时43分"
         }
       ]
     }
