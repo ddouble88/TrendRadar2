@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T18:35:56.128938+08:00",
-  "total_titles_processed": 1387,
+  "generated_at": "2026-01-26T19:28:31.675267+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，美元走低日元急升，黄金突破5000美元，纳指期货跌1%，美天然气期货涨16%",
@@ -43,17 +43,6 @@
           "time_info": "[12时21分 ~ 16时43分]"
         },
         {
-          "title": "上期能源：调整国际铜期货相关合约涨跌停板幅度和交易保证金比例",
-          "url": "https://wallstreetcn.com/livenews/3043898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
           "title": "富时中国A50指数期货涨幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3043595",
           "source": "华尔街见闻-快讯",
@@ -65,13 +54,25 @@
           "time_info": "10时30分"
         },
         {
+          "title": "上期能源：调整国际铜期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3043898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时28分]"
+        },
+        {
           "title": "上期所调整铜等期货相关合约涨跌停板幅度和交易保证金比例",
           "url": "https://wallstreetcn.com/livenews/3043889",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -104,7 +105,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -118,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
+        },
+        {
+          "title": "碳酸锂期货冲高回落，产业企业：等到心仪价格再加大采购力度",
+          "url": "https://wallstreetcn.com/livenews/3043944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "中证1000股指期货（IM）主力合约失守8400点，日内跌幅0.95%。中证500股指期货（IC）主力合约跌破8600点，日内跌0.26%。",
@@ -203,7 +215,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
