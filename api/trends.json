@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T17:42:42.125640+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2026-01-26T18:35:56.128938+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，美元走低日元急升，黄金突破5000美元，纳指期货跌1%，美天然气期货涨16%",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -43,6 +43,17 @@
           "time_info": "[12时21分 ~ 16时43分]"
         },
         {
+          "title": "上期能源：调整国际铜期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3043898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "富时中国A50指数期货涨幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3043595",
           "source": "华尔街见闻-快讯",
@@ -52,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
+        },
+        {
+          "title": "上期所调整铜等期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3043889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "WTI原油期货日内涨超1.00%，现报61.69美元/桶。",
@@ -74,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
+        },
+        {
+          "title": "上期所调整白银、锡期货相关合约交易限额",
+          "url": "https://wallstreetcn.com/livenews/3043887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "午盘收盘，国内期货主力合约涨多跌少，沪银涨近13%，铂涨超9%，钯涨超7%，燃油涨近7%，集运欧线涨超5%，液化石油气（LPG）、菜油、SC原油涨超4%，沪金涨近4%，低硫燃料油（LU）、甲醇涨超3%。跌幅方面，碳酸锂跌超6%，生猪、铁矿跌近1%。",
@@ -162,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "上期能源调整国际铜期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://flash.jin10.com/detail/20260126175250187800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "泰国期货交易所宣布暂停美元/日元期货以及白银在线期货交易。",
