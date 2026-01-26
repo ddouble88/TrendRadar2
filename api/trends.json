@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T15:35:30.772228+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-01-26T16:43:03.026463+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，美元走低日元急升，黄金突破5000美元，纳指期货跌1%，美天然气期货涨16%",
@@ -19,6 +19,19 @@
           "time_info": "[10时29分 ~ 10时30分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260126114828592800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 16时43分]"
+        },
+        {
           "title": "富时中国A50指数期货涨幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3043595",
           "source": "华尔街见闻-快讯",
@@ -28,18 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260126114828592800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时38分]"
         },
         {
           "title": "WTI原油期货日内涨超1.00%，现报61.69美元/桶。",
@@ -59,7 +60,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -70,7 +71,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -84,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
+        },
+        {
+          "title": "金十期货图示",
+          "url": "https://flash.jin10.com/detail/20260126155016641800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "国债期货早盘收盘",
@@ -158,7 +170,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         }
