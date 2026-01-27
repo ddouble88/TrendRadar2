@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T19:31:43.577881+08:00",
-  "total_titles_processed": 1728,
+  "generated_at": "2026-01-27T21:06:31.492054+08:00",
+  "total_titles_processed": 1846,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时35分 ~ 19时31分]"
+          "appearance_count": 7,
+          "time_info": "[15时35分 ~ 21时06分]"
         },
         {
           "title": "期货热点追踪",
@@ -147,7 +147,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
