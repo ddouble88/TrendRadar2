@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T22:38:41.486130+08:00",
-  "total_titles_processed": 1966,
+  "generated_at": "2026-01-27T23:38:10.132830+08:00",
+  "total_titles_processed": 2060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "上期所出手：收紧白银期货、锡期货交易限额",
@@ -81,6 +81,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时48分 ~ 04时37分]"
+        },
+        {
+          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时37分 ~ 23时38分]"
         },
         {
           "title": "周一（1月26日）纽约尾盘，标普500股指期货最终涨0.47%，道指期货涨0.28%，纳斯达克100股指期货涨0.49%。 罗素2000股指期货跌0.36%。",
@@ -183,6 +194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨跌不一，沥青涨超1%，棕榈油、豆油、聚丙烯、丙烯小幅上涨。跌幅方面，BR橡胶跌超2%，焦炭、焦煤、短纤液化气跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260127230040182800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "印度金银期货大涨并创下历史新高",
@@ -312,7 +334,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
