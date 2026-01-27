@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T17:41:41.503276+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-01-27T18:37:07.598613+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时26分 ~ 13时35分]"
+        },
+        {
+          "title": "上期所出手：收紧白银期货、锡期货交易限额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32467553",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时35分 ~ 18时37分]"
         },
         {
           "title": "国债期货持续走弱，30年期主力合约盘中跌0.20%，10年期主力合约跌0.03%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
@@ -67,19 +81,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时48分 ~ 04时37分]"
-        },
-        {
-          "title": "上期所出手：收紧白银期货、锡期货交易限额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32467553",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时35分 ~ 17时41分]"
         },
         {
           "title": "周一（1月26日）纽约尾盘，标普500股指期货最终涨0.47%，道指期货涨0.28%，纳斯达克100股指期货涨0.49%。 罗素2000股指期货跌0.36%。",
