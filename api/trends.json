@@ -1,419 +1,44 @@
 {
-  "generated_at": "2026-01-27T23:38:10.132830+08:00",
-  "total_titles_processed": 2060,
+  "generated_at": "2026-01-28T00:40:04.249850+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 36,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "上期所出手：收紧白银期货、锡期货交易限额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32467553",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时35分 ~ 22时38分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260127095629579800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 13时35分]"
-        },
-        {
-          "title": "国债期货持续走弱，30年期主力合约盘中跌0.20%，10年期主力合约跌0.03%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3044470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时35分 ~ 14时48分]"
-        },
-        {
-          "title": "美国原油期货收跌超0.7%，纽约天然气收涨28.9%",
-          "url": "https://wallstreetcn.com/livenews/3044172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时31分]"
-        },
-        {
-          "title": "恒指期货夜盘收涨0.5%，报26883点，高水117点。",
-          "url": "https://flash.jin10.com/detail/20260127030036912800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 04时37分]"
-        },
-        {
-          "title": "NYMEX天然气期货涨超33%，突破7美元/百万英热单位，创2022年12月以来盘中最高水平，因气温骤降导致油井冻结，产量降至两年来最低水平。 周一（1月26日）欧市尾盘，ICE英国天然气期货跌0.83%，TTF基准荷兰天然气期货涨1.40%，ICE欧盟碳排放交易许可（期货价格）跌1.44%。",
-          "url": "https://wallstreetcn.com/livenews/3044140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时37分]"
-        },
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
           "url": "https://wallstreetcn.com/articles/3764253",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时37分 ~ 23时38分]"
-        },
-        {
-          "title": "周一（1月26日）纽约尾盘，标普500股指期货最终涨0.47%，道指期货涨0.28%，纳斯达克100股指期货涨0.49%。 罗素2000股指期货跌0.36%。",
-          "url": "https://wallstreetcn.com/livenews/3044217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时31分]"
-        },
-        {
-          "title": "美国天然气期货飙升逾25%，续创三年新高。",
-          "url": "https://flash.jin10.com/detail/20260127010019362800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时48分]"
-        },
-        {
-          "title": "莲华资产洪灏：黄金成为全球资产估值锚，中国有色金属板块仍有机会",
-          "url": "https://wallstreetcn.com/livenews/3044100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时37分]"
-        },
-        {
-          "title": "中证1000股指期货（IM）主力合约日内跌超2.00%，现报8145.2点。",
-          "url": "https://flash.jin10.com/detail/20260127095527372800",
-          "source": "金十数据",
-          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 00时40分]"
         },
         {
-          "title": "国债期货午盘收盘",
-          "url": "https://flash.jin10.com/detail/20260127151610966800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "美国天然气期货跌近8%，至6.241美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260127190254112800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "现货、期货白银双双突破117美元",
-          "url": "https://flash.jin10.com/detail/20260127015919893800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "双焦期货短线下挫，焦煤主力合约日内跌幅扩大至2.78%，现报1119.5元/吨。焦炭主力合约日内跌幅达2%，现报1681元/吨。",
-          "url": "https://flash.jin10.com/detail/20260127094738513800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "印度白银期货大涨6%，创下每公斤354,780卢比的历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3044423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "截至23:00收盘，国内期货主力合约涨跌不一，沥青涨超1%，棕榈油、豆油、聚丙烯、丙烯小幅上涨。跌幅方面，BR橡胶跌超2%，焦炭、焦煤、短纤液化气跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260127230040182800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
-        },
-        {
-          "title": "印度金银期货大涨并创下历史新高",
-          "url": "https://flash.jin10.com/detail/20260127113211928800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "富宝资讯：碳酸锂期货盘面低开高走，富宝电池级碳酸锂报167900元/吨",
-          "url": "https://flash.jin10.com/detail/20260127161442067800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "中证500股指期货（IC）主力合约回落至8400点下方，日内跌1.12%。中证1000股指期货（IM）主力合约回落至8200点下方，日内跌1.35%。",
-          "url": "https://flash.jin10.com/detail/20260127094104256800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "美国天然气期货突破7美元/百万英热",
-          "url": "https://flash.jin10.com/detail/20260127013347479800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260127113117058800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "芝加哥小麦期货跌超1.3%，豆粕跌约2%，纽约可可反弹超2.9%",
-          "url": "https://wallstreetcn.com/livenews/3044177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.17%，10年期主力合约跌0.03%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3044416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "商品期货收盘，沪银主力合约涨超7%，棕榈油涨超2%，沪锡、菜籽油、沪金、碳酸锂涨超1%。铂跌超4%，PTA跌超3%，焦煤跌3%，焦炭、对二甲苯、瓶片、钯跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3044523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260127113112728800",
+          "title": "美国天然气期货延续跌势，价格下跌15%，因产量正缓慢回升，且风暴最严重阶段已转向东北地区，美国中部地区的天然气需求正在下降。",
+          "url": "https://flash.jin10.com/detail/20260127232346666800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时13分"
+          "time_info": "00时40分"
         },
         {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，铂跌近7%，钯跌超4%，PTA、PX、焦煤、焦炭跌超3%，瓶片、合成橡胶、燃油、沪锡、碳酸锂跌近3%，沪镍、集运欧线跌超2%。涨幅方面，沪银涨超6%，棕榈油涨超2%，菜油涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260127113101377800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "NYMEX天然气期货涨超21%，现报6.41美元/百万英热单位，1月份迄今已经累计上涨72%。",
-          "url": "https://wallstreetcn.com/livenews/3044093",
+          "title": "内盘期货夜市涨跌各异，沥青收涨约1.5%，铁矿石跌超0.7%，双焦至少跌1.2%",
+          "url": "https://wallstreetcn.com/livenews/3044855",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "夜盘期货开盘，沪锡涨逾2%，棕榈油涨逾1%，沪银、氧化铝、沪镍等上涨；焦炭、焦煤、国际铜跌逾1%；沪铜、液化石油气、玻璃等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3044798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "中证500股指期货（IC）主力合约站上8600点，日内涨1.27%。",
-          "url": "https://flash.jin10.com/detail/20260127140136670800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约跌0.04%，10年期主力合约跌0.01%，5年期主力合约与昨日持平，2年期主力合约跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3044316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "股指期货午盘收盘",
-          "url": "https://flash.jin10.com/detail/20260127150140374800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约跌多涨少，铂跌超4%，PTA跌超3%，焦煤跌3%，PX、焦炭跌近3%，钯、瓶片跌超2%，沪镍、短纤、合成橡胶跌近2%。涨幅方面，沪银涨超7%，棕榈油涨超2%，沪锡、菜油涨近2%。",
-          "url": "https://flash.jin10.com/detail/20260127150124694800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "中证500股指期货（IC）主力合约日内涨幅达1.00%，现报8579.6点。",
-          "url": "https://flash.jin10.com/detail/20260127135126326800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
-          "title": "美股期货走高，纳斯达克100指数期货涨0.5%，标普500指数期货涨0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3044396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "内盘期货夜市多数收跌，PTA跌约1.8%，铁矿石跌约0.4%，棕榈油涨超1.8%",
-          "url": "https://wallstreetcn.com/livenews/3044083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "00时40分"
         }
       ]
     }
