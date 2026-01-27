@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-28T01:35:57.399980+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-01-28T02:51:38.041027+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "上期所原油期货2503合约夜盘收涨1.54%，报456元人民币/桶。 沪金夜盘收跌0.28%，沪银收跌2.42%。",
+          "url": "https://wallstreetcn.com/livenews/3044936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
           "url": "https://wallstreetcn.com/articles/3764253",
@@ -15,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时51分]"
         },
         {
           "title": "加密货币市场走高，得益于美元走软",
@@ -25,7 +36,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
         },
@@ -52,13 +63,24 @@
           "time_info": "00时40分"
         },
         {
+          "title": "芝商所金属期货及期权交易创下新的单日纪录",
+          "url": "https://flash.jin10.com/detail/20260128012259296800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
           "title": "美国芝加哥商业交易所（CME）在金属期货及期权交易方面创下新纪录。",
           "url": "https://wallstreetcn.com/livenews/3044881",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
         },
@@ -69,7 +91,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
         }
