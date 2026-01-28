@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T07:32:02.732019+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-01-28T10:22:16.599684+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -25,9 +25,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260128100532474800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "上期所原油期货2503合约夜盘收涨1.54%，报456元人民币/桶。 沪金夜盘收跌0.28%，沪银收跌2.42%。",
@@ -107,7 +118,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -143,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约跌0.04%，10年期主力合约涨0.03%，5年期主力合约涨0.03%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3045107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时22分"
         },
         {
           "title": "芝商所（CME）在金属期货及期权交易方面创下新纪录。",
