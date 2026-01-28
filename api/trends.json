@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T17:42:00.703354+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-01-28T18:37:44.163697+08:00",
+  "total_titles_processed": 1649,
   "failed_sources": [],
   "trends": [
     {
@@ -102,6 +102,30 @@
           "time_info": "[03时34分 ~ 04时32分]"
         },
         {
+          "title": "上期所：调整白银、黄金、镍等期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3045473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时37分]"
+        },
+        {
+          "title": "2025年12月全国期货公司代理交易额90.73万亿元",
+          "url": "https://wallstreetcn.com/livenews/3045470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时37分]"
+        },
+        {
           "title": "日本拍卖40年期国债，认购倍数为2.72，过去12个月均值为2.53。 日本国债期货在拍卖结果出炉后走高，40年期国债收益率日内下行3.5个基点至3.900%。",
           "url": "https://wallstreetcn.com/livenews/3045235",
           "source": "华尔街见闻-快讯",
@@ -190,17 +214,6 @@
           "time_info": "16时42分"
         },
         {
-          "title": "上期所：调整白银、黄金、镍等期货相关合约涨跌停板幅度和交易保证金比例",
-          "url": "https://wallstreetcn.com/livenews/3045473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
           "title": "美国天然气期货延续跌势，价格下跌15%，因产量正缓慢回升，且风暴最严重阶段已转向东北地区，美国中部地区的天然气需求正在下降。",
           "url": "https://flash.jin10.com/detail/20260127232346666800",
           "source": "金十数据",
@@ -232,17 +245,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "2025年12月全国期货公司代理交易额90.73万亿元",
-          "url": "https://wallstreetcn.com/livenews/3045470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
         },
         {
           "title": "国债期货早盘收盘",
