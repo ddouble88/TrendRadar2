@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T10:39:04.168793+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-01-30T12:47:00.870088+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "芝商所将COMEX铜期货保证金上调20%，至1.2万美元。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -139,15 +139,37 @@
           "time_info": "[06时36分 ~ 07时34分]"
         },
         {
+          "title": "日本大阪交易所对铂金期货启动了“熔断机制”",
+          "url": "https://wallstreetcn.com/livenews/3046978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "伦敦金属期货实时报价",
           "url": "https://flash.jin10.com/detail/20260130101204297800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "日本国内铂金期货触发熔断机制",
+          "url": "https://flash.jin10.com/detail/20260130121609311800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "加密货币市场在美股开盘前后加速下跌",
@@ -167,7 +189,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -178,7 +200,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -189,9 +211,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.11%，10年期主力合约涨0.03%，5年期主力合约涨0.01%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3046961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "周四（1月29日））纽约尾盘，现货白银跌0.61%，报116.0075美元/盎司，日内交投区间为121.6540-106.8954美元。 COMEX白银期货涨2.87%，报116.790美元/盎司。 COMEX铜期货涨.78%，报6.2855美元/磅，北京时间22:31曾涨至6.5830美元。 现货铂金跌2.65%，现货钯金跌2.34%。",
@@ -211,7 +244,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -225,6 +258,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260130113126747800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260130113123158800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     }
