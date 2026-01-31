@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T07:34:02.991072+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-01-31T10:34:33.648400+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://flash.jin10.com/detail/20260131034010278800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时39分 ~ 07时34分]"
+          "appearance_count": 5,
+          "time_info": "[04时39分 ~ 10时34分]"
         },
         {
           "title": "COMEX白银期货本月收涨11%，但周线大跌22%",
           "url": "https://flash.jin10.com/detail/20260131033921702800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时39分 ~ 07时34分]"
+          "appearance_count": 5,
+          "time_info": "[04时39分 ~ 10时34分]"
         },
         {
           "title": "WTI 3月原油期货收报65.21美元/桶。 NYMEX 3月天然气期货收报4.3540美元/百万英热单位。 NYMEX 2月汽油期货收报1.9228美元/加仑，NYMEX 2月取暖油期货收报2.7356美元/加仑。",
@@ -41,27 +43,29 @@
           "time_info": "04时39分"
         },
         {
+          "title": "恒指期货夜盘收跌0.62%，报27330点，低水57点。",
+          "url": "https://flash.jin10.com/detail/20260131033122493800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时39分 ~ 10时34分]"
+        },
+        {
           "title": "周五（1月30日）纽约尾盘，标普500股指期货最终跌0.48%，道指期货跌0.44%，纳斯达克100股指期货跌1.39%。 罗素2000股指期货跌1.43%。",
           "url": "https://wallstreetcn.com/livenews/3047602",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 07时34分]"
-        },
-        {
-          "title": "恒指期货夜盘收跌0.62%，报27330点，低水57点。",
-          "url": "https://flash.jin10.com/detail/20260131033122493800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时39分 ~ 07时34分]"
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 10时34分]"
         },
         {
           "title": "周五（1月30日）纽约尾盘，现货黄金重挫9%，报4891.43美元/盎司，全天持续走低，北京时间02:39逼近4690美元，1月份累涨12.95%，1月29日亚太午盘曾涨至5595.47美元。 COMEX黄金期货下跌8.88%，报4846.20美元/盎司，1月份累涨11.93%，29日也曾达到5586.29美元。",
