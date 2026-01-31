@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T15:35:34.080966+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-01-31T16:39:53.954435+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国天然气期货日内暴涨12.00%，现报4.389美元/百万英热。",
@@ -128,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "再度提保扩板！上期所调整白银期货部分合约涨跌停板和交易保证金比例",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32500767",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：1月27日当周，投机者所持NYMEX WTI原油净多头头寸增加9,557手合约，至62,991手合约，创六个月新高。",
