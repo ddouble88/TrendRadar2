@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T10:34:33.648400+08:00",
-  "total_titles_processed": 768,
+  "generated_at": "2026-01-31T12:40:29.350130+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时39分 ~ 10时34分]"
+          "appearance_count": 6,
+          "time_info": "[04时39分 ~ 12时40分]"
         },
         {
           "title": "COMEX白银期货本月收涨11%，但周线大跌22%",
@@ -25,11 +26,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时39分 ~ 10时34分]"
+          "appearance_count": 6,
+          "time_info": "[04时39分 ~ 12时40分]"
         },
         {
           "title": "WTI 3月原油期货收报65.21美元/桶。 NYMEX 3月天然气期货收报4.3540美元/百万英热单位。 NYMEX 2月汽油期货收报1.9228美元/加仑，NYMEX 2月取暖油期货收报2.7356美元/加仑。",
