@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T18:33:37.205462+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-01-31T19:28:05.913139+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
@@ -70,6 +70,18 @@
           "time_info": "[06时34分 ~ 10时34分]"
         },
         {
+          "title": "再度提保扩板！上期所调整白银期货部分合约涨跌停板和交易保证金比例",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32500767",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 19时28分]"
+        },
+        {
           "title": "CME上调黄金、白银期货保证金比例",
           "url": "https://flash.jin10.com/detail/20260131115841121800",
           "source": "金十数据",
@@ -105,18 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时40分]"
-        },
-        {
-          "title": "再度提保扩板！上期所调整白银期货部分合约涨跌停板和交易保证金比例",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32500767",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 18时33分]"
         },
         {
           "title": "上期所原油期货2603合约夜盘收跌2.67%，报470元人民币/桶。 沪金夜盘收跌9.83%，沪银收跌17%。",
