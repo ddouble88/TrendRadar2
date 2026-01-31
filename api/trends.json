@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T21:03:48.861290+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-01-31T22:32:14.642702+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
+          "url": "https://www.zhihu.com/question/2000597877295174051",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时03分 ~ 22时32分]"
         },
         {
           "title": "恒指期货夜盘收跌0.62%，报27330点，低水57点。",
@@ -129,17 +141,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时39分]"
-        },
-        {
-          "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
-          "url": "https://www.zhihu.com/question/2000597877295174051",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
         },
         {
           "title": "上期所调整白银期货合约保证金比例",
