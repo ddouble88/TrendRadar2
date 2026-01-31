@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T22:32:14.642702+08:00",
-  "total_titles_processed": 1456,
+  "generated_at": "2026-01-31T23:32:52.114716+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,19 @@
           "time_info": "[04时39分 ~ 12时40分]"
         },
         {
+          "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
+          "url": "https://www.zhihu.com/question/2000597877295174051",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 23时32分]"
+        },
+        {
           "title": "WTI 3月原油期货收报65.21美元/桶。 NYMEX 3月天然气期货收报4.3540美元/百万英热单位。 NYMEX 2月汽油期货收报1.9228美元/加仑，NYMEX 2月取暖油期货收报2.7356美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3047558",
           "source": "华尔街见闻-快讯",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
-        },
-        {
-          "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
-          "url": "https://www.zhihu.com/question/2000597877295174051",
-          "source": "知乎",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时03分 ~ 22时32分]"
         },
         {
           "title": "恒指期货夜盘收跌0.62%，报27330点，低水57点。",
