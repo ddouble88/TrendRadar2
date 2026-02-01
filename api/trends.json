@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T03:31:47.580054+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-02-02T04:36:04.989328+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 04时36分]"
         },
         {
           "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 04时36分]"
         },
         {
           "title": "金银之后加密货币也崩了",
@@ -41,8 +41,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 04时36分]"
         }
       ]
     }
