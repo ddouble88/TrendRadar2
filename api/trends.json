@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T13:25:31.115972+08:00",
-  "total_titles_processed": 695,
+  "generated_at": "2026-02-01T15:01:32.585075+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 15时01分]"
         },
         {
           "title": "加密货币24小时超40万人爆仓",
