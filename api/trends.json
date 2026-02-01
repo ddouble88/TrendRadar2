@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T15:01:32.585075+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-02-01T15:44:54.945033+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 15时44分]"
         },
         {
           "title": "加密货币24小时超40万人爆仓",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "印度预算案：将上调期货证券交易税至0.05%。",
+          "url": "https://flash.jin10.com/detail/20260201144222135800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         }
       ]
     }
