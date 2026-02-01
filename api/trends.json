@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T22:34:39.587015+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-02-01T23:33:38.631909+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时15分 ~ 22时34分]"
+          "appearance_count": 13,
+          "time_info": "[11时15分 ~ 23时33分]"
         },
         {
           "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
@@ -44,8 +45,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时41分 ~ 22时34分]"
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 23时33分]"
         },
         {
           "title": "金银之后加密货币也崩了",
@@ -54,11 +55,12 @@
           "ranks": [
             2,
             12,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 22时34分]"
+          "appearance_count": 4,
+          "time_info": "[19时29分 ~ 23时33分]"
         },
         {
           "title": "印度税务局长：提高对期货与期权的交易税旨在抑制投机交易；提高结算保证金是为了应对衍生品市场的系统性风险。",
