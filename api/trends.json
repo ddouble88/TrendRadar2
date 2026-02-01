@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T07:31:19.741572+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-02-01T11:16:10.521797+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时39分 ~ 07时31分]"
+        },
+        {
+          "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
+          "url": "https://www.cls.cn/detail/2276655",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "加密货币24小时超40万人爆仓",
+          "url": "https://www.toutiao.com/trending/7601368037836619782/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
         }
       ]
     }
