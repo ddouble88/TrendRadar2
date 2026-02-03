@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-02-03T07:36:45.716916+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-02-03T10:46:06.153465+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
           "url": "https://wallstreetcn.com/articles/3764699",
           "source": "华尔街见闻",
           "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 10时46分]"
+        },
+        {
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 07时36分]"
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260203102453356800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "周二亚太盘初，标普股指期货涨约0.2%，纳指期货涨超0.2%。",
@@ -25,9 +48,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "富时中国A50指数期货跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3048749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "美国天然气期货日内暴跌24.00%，现报3.309美元/百万英热。",
@@ -64,13 +98,35 @@
           "time_info": "01时46分"
         },
         {
+          "title": "印度GIFT Nifty指数期货上涨 2%，延续隔夜4.1%的涨幅。此前美印达成贸易协议，美国对印度对等关税从25%降至18%。",
+          "url": "https://wallstreetcn.com/livenews/3048732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "富时中国A50指数期货转跌。",
+          "url": "https://wallstreetcn.com/livenews/3048727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
           "title": "周一（2月2日）纽约尾盘，标普500股指期货最终涨0.57%，道指期货涨1.00%，纳斯达克100股指期货涨0.83%。 罗素2000股指期货涨0.81%。",
           "url": "https://wallstreetcn.com/livenews/3048565",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -92,7 +148,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -103,7 +159,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
