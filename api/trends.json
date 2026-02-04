@@ -1,249 +1,33 @@
 {
-  "generated_at": "2026-02-04T23:52:57.693480+08:00",
-  "total_titles_processed": 1970,
+  "generated_at": "2026-02-05T00:59:48.786242+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 21,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时38分]"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，纳指期货跌0.3%，欧股诺和诺德下挫18%，现货黄金一度触及5080美元，现货白银接近90美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 22时50分]"
-        },
-        {
-          "title": "沪银期货主力合约日内涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3049635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260204132440596800",
+          "title": "恒指期货夜盘跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260205004156269800",
           "source": "金十数据",
           "ranks": [
-            3
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "00时59分"
         },
         {
-          "title": "国投白银期货A单日上涨8.05%",
-          "url": "https://wallstreetcn.com/livenews/3049960",
+          "title": "芝加哥大豆期货短线飙升，日内整体涨1.6%，带动农产品走高",
+          "url": "https://wallstreetcn.com/livenews/3050000",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 23时52分]"
-        },
-        {
-          "title": "芝加哥玉米期货涨0.7%，大豆油涨2.5%，阿拉比卡咖啡跌超5%",
-          "url": "https://wallstreetcn.com/livenews/3049310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时43分]"
-        },
-        {
-          "title": "纳指期货周二跌约1.7%",
-          "url": "https://wallstreetcn.com/livenews/3049356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时36分]"
-        },
-        {
-          "title": "周二（2月3日）纽约尾盘，现货白银涨7.36%，报85.0929美元/盎司，北京时间21:46刷新日高至89.1655美元。 COMEX白银期货涨11.05%，报85.505美元/盎司，21:46刷新日高至89.100美元。 COMEX铜期货涨4.47%，报6.0960美元/磅，14:00出现一波显著的拉升行情——之前持续低位震荡、之后持续高位震荡。 现货铂金涨4.08%，现货钯金涨1.82%。",
-          "url": "https://wallstreetcn.com/livenews/3049349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时36分]"
-        },
-        {
-          "title": "周二（2月3日）纽约尾盘，现货黄金涨5.96%，报4939.38美元/盎司，亚太盘初以来持续走高，北京时间14:00过后持续高位窄幅震荡，00:39达到4993.63美元。 COMEX黄金期货涨6.94%，报4975.30美元/盎司，00:39刷新日高至5018.10美元。",
-          "url": "https://wallstreetcn.com/livenews/3049348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时36分]"
-        },
-        {
-          "title": "中证500股指期货（IC）主力合约日内跌超1.00%，现报8189.0点。",
-          "url": "https://flash.jin10.com/detail/20260204094716467800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "美国天然气期货日内大涨6.00%，现报3.510美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260204222447784800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "布油、WTI原油期货日内涨超1%。据AXIOS，美国同意伊朗的要求，将周五的会谈移至阿曼举行。",
-          "url": "https://wallstreetcn.com/livenews/3049479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260204113120776800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "富时中国A50指数期货涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3049612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260204113117200800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "WTI 3月原油期货收涨1.07美元，涨幅1.72%，报63.21美元/桶。 布伦特4月原油期货收报67.33美元/桶。 NYMEX 3月天然气期货收报3.3110美元/百万英热单位。 NYMEX 3月汽油期货收报1.8979美元/加仑，NYMEX 3月取暖油期货收报2.4093美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3049301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨多跌少，沪银涨超7%，沪金涨超6%，焦煤涨超5%，燃料油涨超4%，沪锡、低硫燃料油、玻璃、钯、焦炭、铂涨超3%，沪镍、国际铜、SC原油、沪铜、碳酸锂、苯乙烯、纯碱、BR橡胶、纯苯涨超2%。跌幅方面，集运欧线跌超1%，菜粕、菜籽小幅下跌。",
-          "url": "https://flash.jin10.com/detail/20260204113107604800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.06%，10年期主力合约涨0.01%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3049535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20260204220306860800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "纽约银日内涨幅达10.0%，报91.66美元/盎司。 现货白银日内涨近8%，报91.70美元/盎司。 上期所沪银期货主力合约大涨7%。",
-          "url": "https://wallstreetcn.com/livenews/3049932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约涨0.04%，10年期主力合约与昨日持平，5年期主力合约跌0.01%，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3049443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "00时59分"
         }
       ]
     }
