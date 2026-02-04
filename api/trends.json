@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T19:39:49.589072+08:00",
-  "total_titles_processed": 1615,
+  "generated_at": "2026-02-04T21:16:55.049294+08:00",
+  "total_titles_processed": 1741,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 06时38分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，纳指期货跌0.3%，欧股诺和诺德下挫18%，现货黄金一度触及5080美元，现货白银接近90美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 21时16分]"
         },
         {
           "title": "沪银期货主力合约日内涨超10%。",
@@ -39,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，纳指期货跌0.3%，欧股诺和诺德下挫18%，现货黄金一度触及5080美元，现货白银接近90美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
         },
         {
           "title": "芝加哥玉米期货涨0.7%，大豆油涨2.5%，阿拉比卡咖啡跌超5%",
