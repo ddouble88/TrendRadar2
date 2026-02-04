@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-05T00:59:48.786242+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-05T01:56:38.381537+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "报道称，中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
+          "url": "https://wallstreetcn.com/articles/3764985",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
         {
           "title": "恒指期货夜盘跌超1%。",
           "url": "https://flash.jin10.com/detail/20260205004156269800",
