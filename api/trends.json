@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T14:02:22.507462+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-02-05T15:53:58.855721+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时35分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 15时53分]"
         },
         {
           "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时40分 ~ 14时02分]"
+          "appearance_count": 10,
+          "time_info": "[05时40分 ~ 15时53分]"
         },
         {
           "title": "富时中国A50指数期货转涨。",
@@ -39,7 +39,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -179,7 +179,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -217,6 +217,17 @@
           "time_info": "12时55分"
         },
         {
+          "title": "商品期货收盘，沪银、碳酸锂主力合约跌超10%，铂、沪锡跌超7%，沪铜、国际铜、BR橡胶跌超3%。集运欧线涨超3%，LU燃油、燃料油、原油涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3050431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
           "title": "芝加哥农产品期货普遍上涨，大豆期货涨超2.4%",
           "url": "https://wallstreetcn.com/livenews/3050092",
           "source": "华尔街见闻-快讯",
@@ -226,6 +237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260205151611489800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "芝加哥大豆期货短线飙升，日内整体涨1.6%，带动农产品走高",
