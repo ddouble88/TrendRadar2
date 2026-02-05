@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T00:59:54.680625+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-06T01:57:57.578490+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 01时57分]"
         },
         {
           "title": "美国财长贝森特：针对已经获得批准的加密货币法案提供透明度具有重要意义。",
           "url": "https://wallstreetcn.com/livenews/3050792",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 01时57分]"
         },
         {
           "title": "恒指期货夜盘下跌1%。",
@@ -39,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "加密货币市场普遍走低",
+          "url": "https://wallstreetcn.com/livenews/3050804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         }
       ]
     }
