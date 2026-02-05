@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T22:52:55.549084+08:00",
-  "total_titles_processed": 1888,
+  "generated_at": "2026-02-05T23:50:49.699734+08:00",
+  "total_titles_processed": 1982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时35分 ~ 22时52分]"
+          "appearance_count": 15,
+          "time_info": "[07时35分 ~ 23时50分]"
         },
         {
           "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
@@ -451,13 +451,24 @@
           "time_info": "10时42分"
         },
         {
+          "title": "截至23:00收盘，国内期货主力合约跌多涨少。燃料油、白糖、低硫燃料油（LU）小幅上涨；跌幅方面，烧碱跌超3%，聚氯乙烯（PVC）、玻璃、焦煤、甲醇、纯碱、聚丙烯（PP）跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260205230056494800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "“做空白银豪赚”小作文引关注，中财期货回应来了！",
           "url": "https://wallstreetcn.com/livenews/3050721",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         }
