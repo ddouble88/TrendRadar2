@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T06:37:04.335241+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-02-06T07:31:52.573760+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -17,6 +17,30 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时59分 ~ 06时37分]"
+        },
+        {
+          "title": "纳指期货亚太盘初跌0.8%，亚马逊跌超10%，美光、甲骨文、Palantir跌超2%，Roblox涨超18%",
+          "url": "https://wallstreetcn.com/livenews/3050917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "芝商所上调黄金、白银期货保证金比例",
+          "url": "https://flash.jin10.com/detail/20260206052709197800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时31分]"
         },
         {
           "title": "上期所原油期货2603合约夜盘收跌0.73%，报460.30元人民币/桶。 沪金夜盘收跌1.48%，沪银收跌9.96%。",
@@ -45,18 +69,6 @@
           "time_info": "[03时46分 ~ 05时38分]"
         },
         {
-          "title": "芝商所上调黄金、白银期货保证金比例",
-          "url": "https://flash.jin10.com/detail/20260206052709197800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时37分]"
-        },
-        {
           "title": "美国财长贝森特：针对已经获得批准的加密货币法案提供透明度具有重要意义。",
           "url": "https://wallstreetcn.com/livenews/3050792",
           "source": "华尔街见闻-快讯",
@@ -81,6 +93,18 @@
           "time_info": "[05时38分 ~ 06时37分]"
         },
         {
+          "title": "美国芝商所上调黄金、白银期货保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3050891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时31分]"
+        },
+        {
           "title": "机构：资金从金属流向估值偏低的农产品期货",
           "url": "https://flash.jin10.com/detail/20260206044800775800",
           "source": "金十数据",
@@ -91,6 +115,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时37分]"
+        },
+        {
+          "title": "“做空白银豪赚”小作文引关注，中财期货回应来了！",
+          "url": "https://wallstreetcn.com/articles/3765090",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "恒指期货夜盘下跌1%。",
@@ -104,15 +139,15 @@
           "time_info": "00时59分"
         },
         {
-          "title": "美国芝商所上调黄金、白银期货保证金比例",
-          "url": "https://wallstreetcn.com/livenews/3050891",
+          "title": "纳指期货周四跌约2.3%",
+          "url": "https://wallstreetcn.com/livenews/3050909",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时37分"
+          "time_info": "07时31分"
         },
         {
           "title": "加密货币市场普遍走低",
@@ -124,6 +159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "贵金属价格剧烈波动，上期所再度对黄金、白银等期货提保扩板",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32543462",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "恒指期货夜盘收跌1.38%，报26510点，低水375点。",
