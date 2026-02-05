@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T10:42:37.186209+08:00",
-  "total_titles_processed": 849,
+  "generated_at": "2026-02-05T12:55:01.696220+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 10时42分]"
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 12时55分]"
         },
         {
           "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时40分 ~ 10时42分]"
+          "appearance_count": 8,
+          "time_info": "[05时40分 ~ 12时55分]"
         },
         {
           "title": "标普500指数期货、纳斯达克100指数期货回吐涨幅，转为持平。",
@@ -39,7 +39,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -104,6 +104,18 @@
           "time_info": "[03时48分 ~ 04时43分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260205101906555800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 12时55分]"
+        },
+        {
           "title": "周三（2月4日）纽约尾盘，现货白银涨3.62%，报88.2660美元/盎司，北京时间22:05刷新日高至92.2043美元，随后回吐涨幅，逼近07:08刷新的日低83.2961美元。 COMEX白银期货涨5.11%，报87.555美元/盎司，22:06刷新日高至92.015美元。 COMEX铜期货跌2.77%，报5.9420美元/磅，22:00-02:00持续扩大跌幅。 现货铂金涨0.60%，现货钯金涨1.05%。",
           "url": "https://wallstreetcn.com/livenews/3050121",
           "source": "华尔街见闻-快讯",
@@ -116,24 +128,13 @@
           "time_info": "[06时37分 ~ 07时36分]"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260205101906555800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
           "title": "现货白银跌破81美元关口，日内跌超8%。 沪银期货主力合约跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3050273",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -144,7 +145,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -182,6 +183,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.05%，10年期主力合约涨0.03%，5年期主力合约涨0.03%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3050327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "芝加哥农产品期货普遍上涨，大豆期货涨超2.4%",
           "url": "https://wallstreetcn.com/livenews/3050092",
           "source": "华尔街见闻-快讯",
@@ -204,13 +216,46 @@
           "time_info": "00时59分"
         },
         {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260205113112731800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260205113105408800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，沪银跌近12%，碳酸锂跌近11%，铂跌超9%，沪锡跌超7%，钯跌超5%，BR橡胶、菜籽跌超4%，国际铜、沪铜跌超3%，焦煤、沪金、铁矿石跌超2%。涨幅方面，集运欧线涨超4%，燃料油、低硫燃料油、SC原油涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260205113057642800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约与昨日持平，10年期主力合约涨0.01%，5年期主力合约涨0.03%，2年期主力合约跌0.00%。",
           "url": "https://wallstreetcn.com/livenews/3050234",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         }
