@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T15:09:35.008055+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-02-06T16:55:05.061462+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,24 @@
           "source": "财联社热门",
           "ranks": [
             8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时42分 ~ 16时55分]"
+        },
+        {
+          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
+          "url": "https://www.zhihu.com/question/2002848288005718086",
+          "source": "知乎",
+          "ranks": [
+            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时42分 ~ 15时09分]"
+          "appearance_count": 7,
+          "time_info": "[12时53分 ~ 16时55分]"
         },
         {
           "title": "纳指期货亚太盘初跌0.8%，亚马逊跌超10%，美光、甲骨文、Palantir跌超2%，Roblox涨超18%",
@@ -40,18 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
-          "url": "https://www.zhihu.com/question/2002848288005718086",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时53分 ~ 15时09分]"
         },
         {
           "title": "金十期货2月6日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌850元/吨，中间价报138400元/吨。",
@@ -291,7 +292,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         }
