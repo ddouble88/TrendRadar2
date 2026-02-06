@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T12:54:00.593050+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-02-06T14:01:32.031200+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
@@ -28,6 +28,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "中财期货边锡明被指精准做空三天赚36亿，如何看公司回应？",
+          "url": "https://www.cls.cn/detail/2282362",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时42分 ~ 14时01分]"
         },
         {
           "title": "金十期货2月6日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌850元/吨，中间价报138400元/吨。",
@@ -80,18 +92,6 @@
           "time_info": "[03时46分 ~ 05时38分]"
         },
         {
-          "title": "中财期货边锡明被指精准做空三天赚36亿，如何看公司回应？",
-          "url": "https://www.cls.cn/detail/2282362",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 12时54分]"
-        },
-        {
           "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
           "url": "https://www.zhihu.com/question/2002848288005718086",
           "source": "知乎",
@@ -99,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 14时01分]"
         },
         {
           "title": "美国财长贝森特：针对已经获得批准的加密货币法案提供透明度具有重要意义。",
@@ -125,6 +125,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时37分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260206100527065800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 14时01分]"
         },
         {
           "title": "美国芝商所上调黄金、白银期货保证金比例",
@@ -212,7 +224,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -267,20 +279,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260206100527065800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "12时54分"
         }
       ]
     }
