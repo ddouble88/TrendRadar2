@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T18:51:26.459533+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2026-02-06T19:40:43.013986+08:00",
+  "total_titles_processed": 1669,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时53分 ~ 18时51分]"
+          "appearance_count": 11,
+          "time_info": "[12时53分 ~ 19时40分]"
         },
         {
           "title": "中财期货边锡明被指精准做空三天赚36亿，如何看公司回应？",
@@ -64,6 +64,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260206100527065800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 19时40分]"
         },
         {
           "title": "芝商所上调黄金、白银期货保证金比例",
@@ -141,16 +154,15 @@
           "time_info": "[05时38分 ~ 06时37分]"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260206100527065800",
-          "source": "金十数据",
+          "title": "“做空白银豪赚”小作文引关注，中财期货回应来了！",
+          "url": "https://wallstreetcn.com/articles/3765090",
+          "source": "华尔街见闻",
           "ranks": [
-            25,
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时42分 ~ 14时01分]"
+          "time_info": "[07时31分 ~ 19时40分]"
         },
         {
           "title": "美国芝商所上调黄金、白银期货保证金比例",
@@ -197,17 +209,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
-        },
-        {
-          "title": "“做空白银豪赚”小作文引关注，中财期货回应来了！",
-          "url": "https://wallstreetcn.com/articles/3765090",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
         },
         {
           "title": "恒指期货夜盘下跌1%。",
