@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T15:01:36.679706+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-02-08T15:45:51.338718+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,24 @@
           "ranks": [
             9,
             17,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 15时01分]"
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 15时45分]"
         },
         {
           "title": "韩国加密货币交易所 Bithumb 误发 62 万枚比特币，如何评价这一乌龙事件？为何会造成比特币价格闪崩？",
           "url": "https://www.zhihu.com/question/2003781811025700367",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时45分]"
         }
       ]
     }
