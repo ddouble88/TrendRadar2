@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T00:06:27.664827+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-10T01:56:06.861442+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "内盘期货夜市涨跌各异，烧碱涨超2.4%，焦煤跌1%",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "在美方建议悬挂美国国旗的船只尽可能远离伊朗后，布伦特原油期货上涨逾1美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260210003843105800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         }
       ]
     }
