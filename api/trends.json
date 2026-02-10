@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-10T21:41:30.801164+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2026-02-10T23:07:33.043432+08:00",
+  "total_titles_processed": 1741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨跌互现，丙烯涨超2%，橡胶、20号胶、液化石油气、低硫燃料油涨超1%。跌幅方面，玻璃跌超1%，棕榈油跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260210230024732800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
         {
           "title": "股指期货午盘收盘",
           "url": "https://flash.jin10.com/detail/20260210150119864800",
@@ -241,7 +252,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
