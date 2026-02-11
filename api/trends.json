@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T15:13:17.893697+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-02-11T16:59:31.018168+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -25,9 +25,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260211102731377800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 16时59分]"
         },
         {
           "title": "周二（2月10日）纽约尾盘，标普500股指期货最终跌0.20%，道指期货涨0.23%，纳斯达克100股指期货跌0.41%。 罗素2000股指期货跌0.15%。",
@@ -40,17 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时51分 ~ 07时46分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260211102731377800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 13时09分]"
         },
         {
           "title": "恒指期货夜盘收涨0.31%，报27260点，高水77点。",
@@ -129,7 +130,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -151,7 +152,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -173,7 +174,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
