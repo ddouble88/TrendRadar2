@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T16:59:31.018168+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-02-11T18:04:22.155697+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "股指期货午盘收盘",
@@ -122,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "金十期货热图",
+          "url": "https://flash.jin10.com/detail/20260211174629417800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "商品期货收盘，碳酸锂主力合约涨超9%，沪镍涨4%，沪锡涨超3%，LU燃油、红枣、菜籽粕、不锈钢涨超2%。集运欧线跌超1%。",
