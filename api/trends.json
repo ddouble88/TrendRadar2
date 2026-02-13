@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T10:52:27.798721+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-02-13T12:59:53.030896+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "周四（2月12日）纽约尾盘，标普500股指期货最终跌1.42%，道指期货跌1.28%，纳斯达克100股指期货跌1.83%。 罗素2000股指期货跌2.13%。",
@@ -97,7 +97,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -113,13 +113,24 @@
           "time_info": "00时01分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.35%，10年期主力合约跌0.18%，5年期主力合约跌0.12%，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3054877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "商品期货开盘，沪银跌超8%，原油跌超4%，沪锡跌超4%，沪镍跌超3%，碳酸锂跌超3%，沪铜跌超2%，沪金跌超2%；烧碱涨超2%，豆一涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3054817",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         }
