@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-02-17T01:44:05.525671+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2026-02-17T02:55:56.933675+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "布伦特4月原油期货收报68.65美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3055824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "加密货币市场周一冲高回落",
+          "url": "https://wallstreetcn.com/livenews/3055807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时55分]"
+        },
         {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
           "url": "https://flash.jin10.com/detail/20260216235622274800",
@@ -20,15 +43,15 @@
           "time_info": "[00时55分 ~ 01时44分]"
         },
         {
-          "title": "加密货币市场周一冲高回落",
-          "url": "https://wallstreetcn.com/livenews/3055807",
+          "title": "周一（2月16日）纽约尾盘，标普500股指期货最终涨0.03%，道指期货涨0.08%，纳斯达克100股指期货跌0.24%。 罗素2000股指期货跌0.36%。",
+          "url": "https://wallstreetcn.com/livenews/3055820",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "02时55分"
         }
       ]
     }
