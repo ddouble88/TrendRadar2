@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T10:45:16.660108+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-02-17T12:59:57.392547+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "布伦特4月原油期货收报68.65美元/桶。",
@@ -92,9 +92,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "WTI原油期货日内涨幅扩大至1.00%，现报63.52美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260217113320191800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     }
