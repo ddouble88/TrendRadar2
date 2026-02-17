@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T19:50:13.166919+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-02-17T21:24:04.384576+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "布伦特4月原油期货收报68.65美元/桶。",
@@ -39,7 +39,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -94,6 +94,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时38分 ~ 10时45分]"
+        },
+        {
+          "title": "美国三大股指期货盘前普跌，日元反弹，黄金一度跌破4900，白银暴跌5%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
         },
         {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
