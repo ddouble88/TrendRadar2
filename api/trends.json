@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T00:01:22.533968+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-18T01:11:30.369604+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260217233843568800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时11分]"
         },
         {
           "title": "美国天然气期货跌近5%，现报2.966美元/百万英热。",
