@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T07:37:18.120275+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-02-17T10:45:16.660108+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "布伦特4月原油期货收报68.65美元/桶。",
@@ -66,11 +66,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时37分]"
+          "appearance_count": 3,
+          "time_info": "[06时38分 ~ 10时45分]"
         },
         {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
@@ -83,6 +84,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时44分]"
+        },
+        {
+          "title": "金十数据整理：每日期货市场要闻速递（2026-02-17）",
+          "url": "https://flash.jin10.com/detail/20260217100327181800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     }
