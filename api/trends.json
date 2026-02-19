@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T21:23:57.751563+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2026-02-19T22:56:18.811779+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "WTI 3月原油期货收报65.19美元/桶。 NYMEX 3月天然气期货收报3.0110美元/百万英热单位。 NYMEX 3月汽油期货收报1.9680美元/加仑，NYMEX 3月取暖油期货收报2.5187美元/加仑。",
@@ -114,6 +114,17 @@
           "time_info": "10时48分"
         },
         {
+          "title": "市场消息：美国民主党参议员沃伦敦促美联储主席鲍威尔坚决拒绝提供加密货币救助。",
+          "url": "https://flash.jin10.com/detail/20260219223412747800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260219130441412800",
           "source": "金十数据",
@@ -123,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "美联储卡什卡利：加密货币“完全无用”。",
+          "url": "https://flash.jin10.com/detail/20260219222631221800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "芝加哥小麦期货涨超2.2%，大豆油涨约2.2%，纽约可可跌约3.9%",
