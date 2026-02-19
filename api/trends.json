@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T18:57:50.254985+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-02-19T19:46:24.268148+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 18时57分]"
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时46分]"
         },
         {
           "title": "周三（2月18日）纽约尾盘，标普500股指期货最终涨0.49%，道指期货涨0.23%，纳斯达克100股指期货涨0.68%。 罗素2000股指期货涨0.34%。",
