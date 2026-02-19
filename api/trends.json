@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-19T17:58:26.241149+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-02-19T18:57:50.254985+08:00",
+  "total_titles_processed": 1480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
       "match_count": 12,
       "titles": [
-        {
-          "title": "欧洲斯托克600指数跌幅扩大至0.5%；美国股指期货触及盘中低点，纳斯达克100指数期货下跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3056615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
         {
           "title": "WTI 3月原油期货收报65.19美元/桶。 NYMEX 3月天然气期货收报3.0110美元/百万英热单位。 NYMEX 3月汽油期货收报1.9680美元/加仑，NYMEX 3月取暖油期货收报2.5187美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3056461",
@@ -39,6 +28,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "欧洲斯托克600指数跌幅扩大至0.5%；美国股指期货触及盘中低点，纳斯达克100指数期货下跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3056615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 18时57分]"
         },
         {
           "title": "周三（2月18日）纽约尾盘，标普500股指期货最终涨0.49%，道指期货涨0.23%，纳斯达克100股指期货涨0.68%。 罗素2000股指期货涨0.34%。",
