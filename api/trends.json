@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-20T01:05:24.410694+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-20T03:01:52.568254+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国能源信息署数据显示，美国汽油库存降幅大于预期，美国汽油期货延续涨势。",
+          "url": "https://flash.jin10.com/detail/20260220011442553800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
