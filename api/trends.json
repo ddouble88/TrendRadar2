@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T14:01:14.218007+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-02-20T15:11:17.702064+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "富时中国A50指数期货下跌1%。",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             10,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 14时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 15时11分]"
         },
         {
           "title": "周四（2月19日）纽约尾盘，标普500股指期货最终跌0.37%，道指期货跌0.61%，纳斯达克100股指期货跌0.53%。 罗素2000股指期货涨0.01%。",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "WTI原油期货突破67美元/桶，日内涨0.90%。",
+          "url": "https://flash.jin10.com/detail/20260220142937438800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "芝加哥小麦期货涨3%，大豆油涨1.9%，纽约可可跌约7.1%",
