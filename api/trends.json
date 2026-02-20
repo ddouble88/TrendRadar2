@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T12:53:52.038773+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-02-20T14:01:14.218007+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 12时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 14时01分]"
         },
         {
           "title": "周四（2月19日）纽约尾盘，标普500股指期货最终跌0.37%，道指期货跌0.61%，纳斯达克100股指期货跌0.53%。 罗素2000股指期货涨0.01%。",
