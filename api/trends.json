@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T10:35:59.937002+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-02-21T12:43:16.685182+08:00",
+  "total_titles_processed": 869,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             10,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时35分 ~ 10时35分]"
+          "appearance_count": 4,
+          "time_info": "[06时35分 ~ 12时43分]"
         },
         {
           "title": "芝加哥小麦期货周五涨超2.6%，本周涨6%",
