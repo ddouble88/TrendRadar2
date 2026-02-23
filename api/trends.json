@@ -1,128 +1,22 @@
 {
-  "generated_at": "2026-02-23T23:55:31.416594+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2026-02-24T01:08:36.321290+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
         {
-          "title": "关税政策不确定性笼罩市场，美元与美股期货走低，现货黄金站上5170美元，油价走低",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时10分 ~ 22时57分]"
-        },
-        {
-          "title": "周一亚市盘初，美国三大股指期货波动不大。",
-          "url": "https://wallstreetcn.com/livenews/3057298",
+          "title": "COMEX黄金期货涨3%，欧美主权债价格涨幅扩大，特朗普重燃贸易不确定性，投资者寻求避险",
+          "url": "https://wallstreetcn.com/livenews/3057571",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "纳指期货跌幅扩大至1%、标普500指数期货现跌0.75%、道指期货跌0.6%。",
-          "url": "https://flash.jin10.com/detail/20260223101328794800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "国投资本： 国投瑞银白银期货证券投资基金估值调整预计对公司2026年度归母净利润产生一定负面影响",
-          "url": "https://wallstreetcn.com/livenews/3057406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 18时10分]"
-        },
-        {
-          "title": "纳斯达克100指数期货跌幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3057336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 13时05分]"
-        },
-        {
-          "title": "加密货币集体大跌，超13万人爆仓，比特币跌破65000美元",
-          "url": "https://wallstreetcn.com/livenews/3057352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 15时16分]"
-        },
-        {
-          "title": "美股加密货币概念股盘前走低，艾斯欧艾斯跌近5%，MARA Holdings跌超2%，Coinbase Global跌近2%。",
-          "url": "https://wallstreetcn.com/livenews/3057423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 19时44分]"
-        },
-        {
-          "title": "金十数据整理：每日期货市场要闻速递（2026-02-23）",
-          "url": "https://flash.jin10.com/detail/20260223090542409800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "富时中国A50指数期货涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3057324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "富时中国A50指数期货盘初涨0.88%，上一个交易日夜盘收涨1.09%。",
-          "url": "https://wallstreetcn.com/livenews/3057319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "01时08分"
         }
       ]
     }
