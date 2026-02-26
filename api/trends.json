@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T06:41:44.459394+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-02-27T07:38:23.260108+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -84,7 +84,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -98,6 +98,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "周五亚太盘初，标普股指期货跌0.48%，纳指期货跌0.44%，罗素2000股指期货跌0.88%，道指期货跌0.58%。",
+          "url": "https://wallstreetcn.com/livenews/3059820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "WTI原油期货跌幅收窄，重返65美元上方。 据伊朗国家电视台：“与美国的部分磋商是直接进行的，伊朗不会允许铀浓缩离开本国”。",
