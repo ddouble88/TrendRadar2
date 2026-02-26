@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T18:01:58.555775+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-02-26T19:44:59.031092+08:00",
+  "total_titles_processed": 1580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -16,19 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时37分 ~ 18时01分]"
+          "appearance_count": 9,
+          "time_info": "[07时37分 ~ 19时44分]"
         },
         {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260225235746229800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 19时44分]"
         },
         {
           "title": "周四亚太盘初，美国三大股指期货与罗素2000股指期货大致持平。",
@@ -185,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "美国天然气期货日内下跌3.00%，现报2.781美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260226192846118800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "金十期货2月26日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨8650元/吨，中间价报173050元/吨。",
