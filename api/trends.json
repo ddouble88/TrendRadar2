@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T22:48:02.009782+08:00",
-  "total_titles_processed": 1914,
+  "generated_at": "2026-02-27T23:44:05.354214+08:00",
+  "total_titles_processed": 2011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -245,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨多跌少。燃油涨近5%，低硫燃料油（LU）涨近4%，沥青、甲醇、淀粉涨超1%；跌幅方面，20号胶、橡胶跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260227230035159800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "罗素2000指数期货下跌1.1%。",
