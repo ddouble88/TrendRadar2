@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-28T01:42:31.560578+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-02-28T02:56:15.945915+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "上期所原油期货2604合约夜盘收涨3.74%，报502.4元人民币/桶。 沪金夜盘收涨1.31%，沪银收涨6.95%。",
+          "url": "https://wallstreetcn.com/livenews/3060470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
         {
           "title": "内盘期货夜市多数收涨，燃油涨约4.7%，低硫燃油涨约4%",
           "url": "https://wallstreetcn.com/livenews/3060390",
