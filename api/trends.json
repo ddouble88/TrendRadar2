@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T19:39:26.814720+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2026-02-27T21:15:19.344486+08:00",
+  "total_titles_processed": 1780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -18,6 +18,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时01分 ~ 06时41分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260226234331182800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            1,
+            21,
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 21时15分]"
         },
         {
           "title": "WTI原油期货和布伦特原油期货在阿曼外长发文称美伊谈判取得“重大进展”后转跌。",
@@ -73,20 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260226234331182800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            1,
-            21,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 19时39分]"
         },
         {
           "title": "上期所原油期货2604合约夜盘收涨0.74%，报489.80元人民币/桶。 沪金夜盘收跌0.25%，沪银收跌2.93%。",
@@ -147,6 +148,17 @@
           "time_info": "06时41分"
         },
         {
+          "title": "夜盘期货开盘，沪锡涨逾5%，燃油、低硫燃油、沪银涨逾3%，原油涨逾2%，沪镍、玻璃、国际铜、沪铜、沥青、焦煤、甲醇、纯碱等涨逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3060319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "中证500股指期货（IC）主力合约日内涨幅扩大至1.00%，现报8619.0点。",
           "url": "https://flash.jin10.com/detail/20260227132907878800",
           "source": "金十数据",
@@ -156,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "WTI原油期货日内大涨3.00%，现报67.17美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260227210133564800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "WTI原油期货日内涨幅达1.00%，现报66.08美元/桶。",
@@ -180,6 +203,17 @@
           "time_info": "07时38分"
         },
         {
+          "title": "夜盘开盘，国内期货主力合约涨多跌少，沪锡涨超5%，燃油、低硫燃料油（LU）、沪银涨超3%，SC原油涨近3%，PTA、沪镍涨超1%。跌幅方面，菜粕跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260227210003322800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "WTI原油期货跌幅收窄，重返65美元上方。 据伊朗国家电视台：“与美国的部分磋商是直接进行的，伊朗不会允许铀浓缩离开本国”。",
           "url": "https://wallstreetcn.com/livenews/3059661",
           "source": "华尔街见闻-快讯",
@@ -202,6 +236,17 @@
           "time_info": "12时51分"
         },
         {
+          "title": "罗素2000指数期货下跌1.1%。",
+          "url": "https://flash.jin10.com/detail/20260227205220393800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约涨0.02%，10年期主力合约涨0.03%，5年期主力合约涨0.00%，2年期主力合约涨0.00%。",
           "url": "https://wallstreetcn.com/livenews/3059908",
           "source": "华尔街见闻-快讯",
@@ -211,6 +256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "WTI原油期货突破67美元/桶，日内涨2.74%。",
+          "url": "https://flash.jin10.com/detail/20260227204952234800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     }
