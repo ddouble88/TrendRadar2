@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T17:53:15.755702+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2026-02-27T18:49:24.462009+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -122,6 +122,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时41分]"
+        },
+        {
+          "title": "WTI原油期货日内涨幅扩大至2.00%，现报66.52美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260227181336011800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "周四（2月26日）纽约尾盘，标普500股指期货最终跌0.75%，道指期货跌0.31%，纳斯达克100股指期货跌1.36%。 罗素2000股指期货涨0.10%。",
