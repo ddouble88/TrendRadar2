@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T21:01:59.151671+08:00",
-  "total_titles_processed": 1870,
+  "generated_at": "2026-02-28T21:44:07.065025+08:00",
+  "total_titles_processed": 1958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "上期所原油期货2604合约夜盘收涨3.74%，报502.4元人民币/桶。 沪金夜盘收涨1.31%，沪银收涨6.95%。",
@@ -163,6 +163,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时32分]"
+        },
+        {
+          "title": "加密货币市场惨遭“血洗”",
+          "url": "https://www.toutiao.com/trending/7611831016231452713/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
         },
         {
           "title": "周五（2月27日）纽约尾盘，标普500股指期货最终跌0.63%，道指期货跌1.26%，纳斯达克100股指期货跌0.49%。 罗素2000股指期货跌1.87%。",
