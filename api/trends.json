@@ -1,7 +1,58 @@
 {
-  "generated_at": "2026-03-02T06:32:55.802531+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-03-02T07:32:13.567245+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国联邦基金期货下跌，12月合约下跌3个基点。",
+          "url": "https://flash.jin10.com/detail/20260302071640195800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "美股期货低开，纳指期货跌超1%，原油大幅走高，黄金、美债期货上涨",
+          "url": "https://wallstreetcn.com/livenews/3061313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "美债期货走高，美国10年期国债期货上涨9点，30年期国债期货上涨12点。",
+          "url": "https://flash.jin10.com/detail/20260302070505362800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "美股股指期货低开1%",
+          "url": "https://flash.jin10.com/detail/20260302070422516800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
