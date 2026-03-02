@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-02T18:57:24.378543+08:00",
-  "total_titles_processed": 1569,
+  "generated_at": "2026-03-02T19:37:00.174210+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
       "match_count": 20,
       "titles": [
+        {
+          "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 19时37分]"
+        },
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
           "url": "https://wallstreetcn.com/articles/3766477",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时55分 ~ 13时59分]"
-        },
-        {
-          "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 18时57分]"
         },
         {
           "title": "美国联邦基金期货下跌，12月合约下跌3个基点。",
