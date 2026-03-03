@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-04T03:02:19.044796+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-03-04T04:40:58.213092+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "芝加哥大豆期货涨超0.6%",
+          "url": "https://wallstreetcn.com/livenews/3062992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
         {
           "title": "周二（3月3日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货涨0.71%，报213欧元/吨，一度在北京时间19:21涨至215.25欧元，逼近2025年9月5日顶部216.50欧元。 油菜籽期货涨0.66%，报497.25欧元/吨，18:56曾涨至502.50欧元，逼近2025年6月20日顶部517欧元。",
           "url": "https://wallstreetcn.com/livenews/3062911",
@@ -26,9 +37,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "美国原油期货短线跳水超2美元，特朗普将为途经海湾地区的贸易提供保险",
+          "url": "https://wallstreetcn.com/livenews/3062985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "美国原油期货收涨约4.7%，纽约柴油期货收涨将近9.9%",
+          "url": "https://wallstreetcn.com/livenews/3062982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         }
       ]
     }
