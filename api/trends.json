@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T10:46:26.100839+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-03-03T12:53:51.516263+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "WTI 4月原油期货收报71.23美元/桶。 NYMEX 3月天然气期货收报2.96美元/百万英热单位。 NYMEX 3月汽油期货收报2.3706美元/加仑，NYMEX 3月取暖油期货收报2.9004美元/加仑。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "阿联酋外交部驳斥彭博社关于阿联酋防御能力的虚假和误导性说法，强调该国拥有先进的多层防空系统，能够高效应对空中威胁。",
+          "url": "https://flash.jin10.com/detail/20260303122505089800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "上期所原油期货夜盘收涨将近11%",
@@ -49,11 +60,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时35分 ~ 10时46分]"
+          "appearance_count": 4,
+          "time_info": "[06时35分 ~ 12时53分]"
         },
         {
           "title": "国际油价在收盘之后走高，WTI原油期货涨穿72美元/桶。",
@@ -115,6 +127,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.10%，10年期主力合约跌0.02%，5年期主力合约跌0.01%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3062387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "恒指期货夜盘收涨0.86%，报26109点，高水49点。",
           "url": "https://flash.jin10.com/detail/20260303030421311800",
           "source": "金十数据",
@@ -132,9 +155,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "韩国KOSPI 200指数期货下跌5%，程序化交易暂停5分钟。",
+          "url": "https://wallstreetcn.com/livenews/3062378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "美股期货跌幅扩大，标普500指数期货日内跌0.5%。",
@@ -143,9 +177,53 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260303113133634800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260303113130374800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现，集运欧线、燃油、SC原油封涨停，低硫燃料油（LU）涨超11%，甲醇涨近11%，液化石油气（LPG）涨超8%，丙烯涨超7%，聚丙烯、乙二醇（EG）、纯苯、塑料涨近6%。跌幅方面，碳酸锂跌超11%，沪锡跌超7%，铂跌超4%，沪银跌超3%，钯跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260303113116299800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "富时中国A50指数期货涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3062368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         }
       ]
     }
