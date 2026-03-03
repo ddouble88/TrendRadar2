@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T19:40:07.134829+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2026-03-03T21:14:18.019961+08:00",
+  "total_titles_processed": 1833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "国内商品期货迎涨停潮，三大期货交易所齐发风险提示",
@@ -22,8 +22,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时35分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[06时35分 ~ 21时14分]"
         },
         {
           "title": "WTI 4月原油期货收报71.23美元/桶。 NYMEX 3月天然气期货收报2.96美元/百万英热单位。 NYMEX 3月汽油期货收报2.3706美元/加仑，NYMEX 3月取暖油期货收报2.9004美元/加仑。",
@@ -43,9 +43,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "夜盘期货开盘，原油、燃油涨逾11%，低硫燃油涨逾7%，甲醇涨逾5%，沥青涨逾4%；沪锡跌逾8%，沪银跌逾6%，沪金跌逾2%。",
+          "url": "https://wallstreetcn.com/livenews/3062809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "阿联酋外交部驳斥彭博社关于阿联酋防御能力的虚假和误导性说法，强调该国拥有先进的多层防空系统，能够高效应对空中威胁。",
@@ -87,7 +98,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -194,7 +205,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -216,7 +227,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -243,6 +254,17 @@
           "time_info": "12时53分"
         },
         {
+          "title": "上期所调整燃料油期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3062781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "恒指期货夜盘收涨0.86%，报26109点，高水49点。",
           "url": "https://flash.jin10.com/detail/20260303030421311800",
           "source": "金十数据",
@@ -263,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约涨多跌少，SC原油、燃料油涨超11%，低硫燃料油（LU）涨超7%，甲醇涨超5%，沥青、聚丙烯涨超4%。跌幅方面，沪锡跌超8%，沪银跌超6%，沪金跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260303210005945800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "韩国KOSPI 200指数期货下跌5%，程序化交易暂停5分钟。",
@@ -296,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "上期能源所调整原油等期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3062773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "股指期货早盘收盘",
