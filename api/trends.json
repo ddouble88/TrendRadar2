@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-04T19:38:53.183614+08:00",
-  "total_titles_processed": 1786,
+  "generated_at": "2026-03-04T21:13:39.124434+08:00",
+  "total_titles_processed": 1898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "纳斯达克100指数期货涨0.66%，标普500指数期货涨0.4%，道指期货涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3063670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
         {
           "title": "周三亚太盘初，美国三大股指期货、罗素2000股指期货至多跌0.21%。 WTI原油期货纽约开盘持稳，交易员评估美国为霍尔木兹海峡提供护航的计划。",
           "url": "https://wallstreetcn.com/livenews/3063049",
@@ -57,11 +68,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 13时52分]"
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 21时13分]"
         },
         {
           "title": "芝加哥大豆期货涨超0.6%",
@@ -156,6 +168,17 @@
           "time_info": "16时51分"
         },
         {
+          "title": "夜盘期货开盘，沪锡、沪铝、沪银涨逾2%，沪镍涨逾1%；低硫燃油跌逾3%，甲醇、液化石油气跌逾2%，沥青、焦煤、烧碱跌逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3063659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "上期能源调整原油等期货相关合约涨跌停板幅度和交易保证金比例",
           "url": "https://flash.jin10.com/detail/20260304162436345800",
           "source": "金十数据",
@@ -178,6 +201,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "纳斯达克100指数期货回吐早盘涨幅转为下跌。",
+          "url": "https://flash.jin10.com/detail/20260304202950576800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "上期所：调整燃料油期货相关合约涨跌停板幅度和交易保证金比例",
           "url": "https://wallstreetcn.com/livenews/3063491",
           "source": "华尔街见闻-快讯",
@@ -187,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "纳斯达克100指数期货抹去早前涨幅，转为下跌。",
+          "url": "https://wallstreetcn.com/livenews/3063648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "特朗普表示：不会让银行“破坏”加密货币议程",
