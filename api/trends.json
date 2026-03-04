@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T15:47:34.134416+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-03-04T16:51:37.379262+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "周三亚太盘初，美国三大股指期货、罗素2000股指期货至多跌0.21%。 WTI原油期货纽约开盘持稳，交易员评估美国为霍尔木兹海峡提供护航的计划。",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -145,6 +145,28 @@
           "time_info": "03时02分"
         },
         {
+          "title": "上期能源：自2026年3月4日（星期三）收盘结算时起，低硫燃料油期货lu2605合约的涨跌停板幅度为14%，套保持仓交易保证金比例为15%，一般持仓交易保证金比例为16%。低硫燃料油期货lu2607合约的涨跌停板幅度为12%，套保持仓交易保证金比例为13%，一般持仓交易保证金比例为14%。集运指数（欧线）期货ec2604、ec2605、ec2606、ec2607、ec2608、ec2609、ec2612合约的涨跌停板幅度为20%，套保持仓交易保证金比例为22%，一般持仓交易保证金比例为22%。集运指数（欧线）期货ec2610合约的涨跌停板幅度为18%，套保持仓交易保证金比例为20%，一般持仓交易保证金比例为20%。",
+          "url": "https://flash.jin10.com/detail/20260304162534100800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "上期能源调整原油等期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://flash.jin10.com/detail/20260304162436345800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "周二（3月3日）纽约尾盘，标普500股指期货最终跌1.11%，道指期货跌0.95%，纳斯达克100股指期货跌1.27%。 罗素2000股指期货跌1.95%。",
           "url": "https://wallstreetcn.com/livenews/3063038",
           "source": "华尔街见闻-快讯",
@@ -154,6 +176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "上期所：调整燃料油期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3063491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         },
         {
           "title": "特朗普表示：不会让银行“破坏”加密货币议程",
@@ -178,13 +211,35 @@
           "time_info": "10时38分"
         },
         {
+          "title": "上期所调整燃料油期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://flash.jin10.com/detail/20260304161659095800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "燃料油期货fu2604合约出现连续三个涨停板！上期所：继续交易",
+          "url": "https://flash.jin10.com/detail/20260304161621142800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "商品期货收盘，集运欧线、原油、燃料油主力合约涨停，LU燃油涨超10%，聚丙烯、液化气涨超5%。沪锡跌超5%，铂、多晶硅、沪银跌超4%，沪金跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3063429",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -195,7 +250,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -206,7 +261,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
