@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T21:17:05.592354+08:00",
-  "total_titles_processed": 1740,
+  "generated_at": "2026-03-05T22:55:17.082339+08:00",
+  "total_titles_processed": 1864,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时37分 ~ 21时17分]"
+          "appearance_count": 14,
+          "time_info": "[07时37分 ~ 22时55分]"
         },
         {
           "title": "伊朗称未封锁霍尔木兹海峡，美股期指集体拉升，纳指期货涨0.16%，油价再度跳水，白银跌3%",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 21时17分]"
+          "appearance_count": 5,
+          "time_info": "[18时51分 ~ 22时55分]"
         },
         {
           "title": "周三（3月4日）纽约尾盘，现货黄金涨0.84%，报5131.75美元/盎司。 COMEX黄金期货涨0.50%，报5149.20美元/盎司。",
@@ -71,7 +71,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -131,7 +131,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -219,7 +219,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -241,7 +241,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
