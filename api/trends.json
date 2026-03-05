@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T10:42:06.506039+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-03-05T12:51:34.486904+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时37分 ~ 10时42分]"
+          "appearance_count": 5,
+          "time_info": "[07时37分 ~ 12时51分]"
         },
         {
           "title": "周三（3月4日）纽约尾盘，现货黄金涨0.84%，报5131.75美元/盎司。 COMEX黄金期货涨0.50%，报5149.20美元/盎司。",
@@ -95,7 +95,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
