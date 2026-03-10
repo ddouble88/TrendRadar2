@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-11T04:43:45.560414+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-03-11T05:45:05.153557+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "周二（3月10日）纽约尾盘，标普500股指期货最终跌0.06%，道指期货跌0.01%，纳斯达克100股指期货涨0.07%。 罗素2000股指期货跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3067578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
         {
           "title": "WTI 4月原油期货收跌11.32美元，跌幅11.94%，报83.45美元/桶。 中东Abu Dhabi Murban原油期货跌13.68%，报95.10美元/桶。 NYMEX 4月天然气期货收报3.02美元/百万英热单位。 NYMEX 4月汽油期货收报2.6403美元/加仑，NYMEX 3月取暖油期货收报3.3466美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3067518",
@@ -44,6 +55,18 @@
           "time_info": "[03时01分 ~ 03时47分]"
         },
         {
+          "title": "芝加哥小麦期货跌1.7%，大豆跌约0.6%，纽约可可涨超4.1%",
+          "url": "https://wallstreetcn.com/livenews/3067543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时45分]"
+        },
+        {
           "title": "美国原油期货结算价为每桶83.45美元，下跌11.32美元，跌幅11.94%。",
           "url": "https://flash.jin10.com/detail/20260311023216736800",
           "source": "金十数据",
@@ -64,17 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
-        },
-        {
-          "title": "芝加哥小麦期货跌1.7%，大豆跌约0.6%，纽约可可涨超4.1%",
-          "url": "https://wallstreetcn.com/livenews/3067543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
         },
         {
           "title": "WTI原油期货失守78美元/桶，日内跌幅17.74%。",
