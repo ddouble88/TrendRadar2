@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T10:37:23.972225+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-03-11T12:50:08.225400+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "金十期货3月11日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌400元/吨，中间价报159000元/吨。",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260311120917898800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "周二（3月10日）纽约尾盘，标普500股指期货最终跌0.06%，道指期货跌0.01%，纳斯达克100股指期货涨0.07%。 罗素2000股指期货跌0.15%。",
@@ -92,6 +103,17 @@
           "time_info": "[04时43分 ~ 05时45分]"
         },
         {
+          "title": "标普500指数期货涨幅扩大至0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3067765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
           "title": "美国原油期货结算价为每桶83.45美元，下跌11.32美元，跌幅11.94%。",
           "url": "https://flash.jin10.com/detail/20260311023216736800",
           "source": "金十数据",
@@ -131,7 +153,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -145,6 +167,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.13%，10年期主力合约跌0.03%，5年期主力合约跌0.02%，2年期主力合约跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3067746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "股指期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260311113138478800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260311113129614800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。集运欧线涨超6%，烧碱、瓶片涨超4%，丁二烯橡胶、乙二醇涨超3%。跌幅方面，SC原油跌超10%，燃料油跌超5%，碳酸锂、低硫燃料油（LU）跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260311113034635800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "WTI原油期货回落至81美元/桶下方，日内跌14.54%。",
