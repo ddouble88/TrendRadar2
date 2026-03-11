@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T13:56:16.215960+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-03-11T15:04:59.447304+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "金十期货3月11日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌400元/吨，中间价报159000元/吨。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌互现。烧碱、集运欧线涨超7%，瓶片涨超6%，PVC、丁二烯橡胶、对二甲苯涨超5%。跌幅方面，SC原油跌超9%，碳酸锂跌超5%，燃料油跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260311150120782800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         },
         {
           "title": "周二（3月10日）纽约尾盘，标普500股指期货最终跌0.06%，道指期货跌0.01%，纳斯达克100股指期货涨0.07%。 罗素2000股指期货跌0.15%。",
@@ -37,11 +48,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 15时04分]"
         },
         {
           "title": "WTI 4月原油期货收跌11.32美元，跌幅11.94%，报83.45美元/桶。 中东Abu Dhabi Murban原油期货跌13.68%，报95.10美元/桶。 NYMEX 4月天然气期货收报3.02美元/百万英热单位。 NYMEX 4月汽油期货收报2.6403美元/加仑，NYMEX 3月取暖油期货收报3.3466美元/加仑。",
