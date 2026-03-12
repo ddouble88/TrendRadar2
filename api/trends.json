@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T04:43:59.276516+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-03-13T05:41:23.875941+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "WTI 4月原油期货收涨8.48美元，涨幅9.72%，报95.73美元/桶。 NYMEX 4月天然气期货收报3.2330美元/百万英热单位。 NYMEX 4月汽油期货收报2.9646美元/加仑，NYMEX 3月取暖油期货收报3.8989美元/加仑。",
@@ -42,6 +42,18 @@
           "time_info": "[00时08分 ~ 02时05分]"
         },
         {
+          "title": "CME警告：若美国政府介入石油期货市场将引发史诗级灾难",
+          "url": "https://flash.jin10.com/detail/20260313041402618800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时41分]"
+        },
+        {
           "title": "WTI原油期货涨幅收窄至8.4%，逼近93.30美元。",
           "url": "https://wallstreetcn.com/livenews/3069049",
           "source": "华尔街见闻-快讯",
@@ -53,15 +65,15 @@
           "time_info": "00时08分"
         },
         {
-          "title": "CME警告：若美国政府介入石油期货市场将引发史诗级灾难",
-          "url": "https://flash.jin10.com/detail/20260313041402618800",
-          "source": "金十数据",
+          "title": "美股小盘股指期货周四跌超1.9%",
+          "url": "https://wallstreetcn.com/livenews/3069164",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时43分"
+          "time_info": "05时41分"
         },
         {
           "title": "美国原油期货收报每桶95.73美元，上涨8.48美元，涨幅9.72%。",
@@ -81,7 +93,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         },
