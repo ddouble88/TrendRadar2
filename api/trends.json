@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T15:09:05.651518+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-03-12T16:55:21.079042+08:00",
+  "total_titles_processed": 1310,
   "failed_sources": [],
   "trends": [
     {
@@ -110,6 +110,18 @@
           "time_info": "[06时35分 ~ 07时34分]"
         },
         {
+          "title": "3月12日投资避雷针：国际油价再度大幅上涨 布伦特原油期货逼近100美元关口",
+          "url": "https://www.cls.cn/detail/2310317",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时08分 ~ 16时55分]"
+        },
+        {
           "title": "周三（3月11日）纽约尾盘，现货白银跌2.87%，报85.7923美元/盎司。 COMEX白银期货跌4.09%，报85.925美元/盎司。 COMEX铜期货跌0.74%，报5.9080美元/磅。 现货铂金跌1.46%，现货钯金跌1.48%。",
           "url": "https://wallstreetcn.com/livenews/3068345",
           "source": "华尔街见闻-快讯",
@@ -134,24 +146,13 @@
           "time_info": "[05时41分 ~ 06时35分]"
         },
         {
-          "title": "3月12日投资避雷针：国际油价再度大幅上涨 布伦特原油期货逼近100美元关口",
-          "url": "https://www.cls.cn/detail/2310317",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 15时09分]"
-        },
-        {
           "title": "股指期货午盘收盘",
           "url": "https://flash.jin10.com/detail/20260312150109290800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -162,7 +163,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -173,7 +174,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -217,7 +218,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
