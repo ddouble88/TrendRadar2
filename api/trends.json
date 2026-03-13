@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-13T07:36:14.107410+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-03-13T10:41:31.913668+08:00",
+  "total_titles_processed": 826,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "金十期货3月13日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨800元/吨，中间价报158350元/吨。",
+          "url": "https://flash.jin10.com/detail/20260313103312013800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
         {
           "title": "WTI 4月原油期货收涨8.48美元，涨幅9.72%，报95.73美元/桶。 NYMEX 4月天然气期货收报3.2330美元/百万英热单位。 NYMEX 4月汽油期货收报2.9646美元/加仑，NYMEX 3月取暖油期货收报3.8989美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3069105",
@@ -77,13 +88,24 @@
           "time_info": "00时08分"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260313101238699800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
           "title": "周五亚太盘初，标普500股指期货、道指期货涨超0.2%，纳指期货涨超0.1%。",
           "url": "https://wallstreetcn.com/livenews/3069190",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -121,6 +143,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "国债期货开盘，30年期主力合约涨0.04%，10年期主力合约跌0.02%，5年期主力合约与昨日持平，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3069274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
           "title": "内盘期货夜市多数收涨，菜粕、燃油涨约3.3%，铁矿石涨2%",
           "url": "https://wallstreetcn.com/livenews/3069022",
           "source": "华尔街见闻-快讯",
@@ -130,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "欧洲Stoxx 50指数期货上涨0.4%，德国DAX指数期货上涨0.3%，英国富时指数期货上涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3069261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         }
       ]
     }
