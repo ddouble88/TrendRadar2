@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T18:47:56.003432+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2026-03-13T19:38:09.160050+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
@@ -53,6 +53,17 @@
           "time_info": "[00时08分 ~ 02时05分]"
         },
         {
+          "title": "市场猜测美国财政部已出手！芝商所总裁：如果美国干预原油期货，这会酿成“灾难性后果”",
+          "url": "https://wallstreetcn.com/articles/3767389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时05分 ~ 19时38分]"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260313101238699800",
           "source": "金十数据",
@@ -76,17 +87,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时34分]"
-        },
-        {
-          "title": "市场猜测美国财政部已出手！芝商所总裁：如果美国干预原油期货，这会酿成“灾难性后果”",
-          "url": "https://wallstreetcn.com/articles/3767389",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 18时47分]"
         },
         {
           "title": "CME警告：若美国政府介入石油期货市场将引发史诗级灾难",
