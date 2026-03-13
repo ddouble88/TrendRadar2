@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-13T21:16:04.206379+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2026-03-13T22:52:42.056442+08:00",
+  "total_titles_processed": 1881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
       "match_count": 24,
       "titles": [
+        {
+          "title": "市场猜测美国财政部已出手！芝商所总裁：如果美国干预原油期货，这会酿成“灾难性后果”",
+          "url": "https://wallstreetcn.com/articles/3767389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时05分 ~ 22时52分]"
+        },
         {
           "title": "金十期货3月13日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨800元/吨，中间价报158350元/吨。",
           "url": "https://flash.jin10.com/detail/20260313103312013800",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
-        },
-        {
-          "title": "市场猜测美国财政部已出手！芝商所总裁：如果美国干预原油期货，这会酿成“灾难性后果”",
-          "url": "https://wallstreetcn.com/articles/3767389",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时05分 ~ 21时16分]"
         },
         {
           "title": "WTI 4月原油期货收涨8.48美元，涨幅9.72%，报95.73美元/桶。 NYMEX 4月天然气期货收报3.2330美元/百万英热单位。 NYMEX 4月汽油期货收报2.9646美元/加仑，NYMEX 3月取暖油期货收报3.8989美元/加仑。",
@@ -119,7 +119,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -130,7 +130,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -174,7 +174,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -196,7 +196,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -229,7 +229,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
