@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T06:35:47.744159+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-03-14T07:36:51.769034+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             20,
             3,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 07时36分]"
         },
         {
           "title": "市场猜测美国财政部已出手！芝商所总裁：如果美国干预原油期货，这会酿成“灾难性后果”",
@@ -27,11 +28,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 07时36分]"
         },
         {
           "title": "WTI 4月原油期货收报98.71美元/桶。 NYMEX 4月天然气期货收报3.1310美元/百万英热单位。 NYMEX 4月汽油期货收报3.0414美元/加仑，NYMEX 3月取暖油期货收报4.0147美元/加仑。",
@@ -53,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时44分 ~ 06时35分]"
+          "appearance_count": 4,
+          "time_info": "[04时44分 ~ 07时36分]"
         },
         {
           "title": "上期所原油期货2604合约夜盘收涨4.47%，报786.80元人民币/桶。 沪金夜盘收跌1.31%，沪银收跌4.59%。",
@@ -68,6 +70,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时54分 ~ 04时44分]"
+        },
+        {
+          "title": "周五（3月13日）纽约尾盘，标普500股指期货最终跌0.75%，道指期货跌0.38%，纳斯达克100股指期货跌0.85%。 罗素2000股指期货跌0.58%。",
+          "url": "https://wallstreetcn.com/livenews/3070017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时41分 ~ 07时36分]"
         },
         {
           "title": "CBOT豆油期货处于连续连续第六周上涨之中，有望创2025年4月份以来最长连涨周数。",
@@ -104,18 +119,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时41分]"
-        },
-        {
-          "title": "周五（3月13日）纽约尾盘，标普500股指期货最终跌0.75%，道指期货跌0.38%，纳斯达克100股指期货跌0.85%。 罗素2000股指期货跌0.58%。",
-          "url": "https://wallstreetcn.com/livenews/3070017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时35分]"
         },
         {
           "title": "恒指期货夜盘收涨0.47%，报25481点，高水15点。",
