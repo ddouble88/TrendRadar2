@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T19:51:11.926189+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2026-03-17T21:28:19.179212+08:00",
+  "total_titles_processed": 1708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "金十期货3月17日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨850元/吨，中间价报155350元/吨。",
@@ -94,9 +94,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
+        },
+        {
+          "title": "哈塞特安抚市场，美股指期货转涨、航空股盘前走高，布油站上102美元，现货黄金涨0.2%",
+          "url": "https://wallstreetcn.com/articles/3767701",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "期货盯盘神器专属文章",
@@ -108,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "夜盘期货开盘，氧化铝、低硫燃油、菜粕涨逾1%，豆粕、苯乙烯、沪铅等收涨；沪锡、纸浆跌逾1%，沪铜、沪锌、塑料等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3071696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "美国原油期货收跌约5.3%，布油连续三天收于100美元整数位心理关口上方",
@@ -143,6 +165,17 @@
           "time_info": "10时43分"
         },
         {
+          "title": "夜盘开盘，国内期货主力合约涨跌不一，氧化铝、低硫燃料油（LU）、菜粕涨超1%。下跌方面，沪锡、纸浆跌超1%，沪铜、沪锌跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260317210003105800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "国债期货收盘，30年期主力合约涨0.13%，10年期主力合约涨0.05%，5年期主力合约涨0.04%，2年期主力合约涨0.03%。",
           "url": "https://wallstreetcn.com/livenews/3071467",
           "source": "华尔街见闻-快讯",
@@ -152,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "美股三大股指期货集体走高，纳指期货日内转涨，标普500指数期货涨0.08%，道指期货涨0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3071677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "国债期货开盘，30年期主力合约涨0.15%，10年期主力合约涨0.04%，5年期主力合约涨0.03%，2年期主力合约涨0.00%。",
@@ -185,6 +229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "金十期货热图",
+          "url": "https://flash.jin10.com/detail/20260317204801066800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         }
       ]
     }
