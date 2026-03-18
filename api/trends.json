@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T19:52:32.852542+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2026-03-18T21:42:53.157364+08:00",
+  "total_titles_processed": 1596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "周二（3月17日）纽约尾盘，现货黄金跌0.02%，报5005.01美元/盎司，日内交投于5044.56-4973.81美元。 COMEX黄金期货涨0.12%，报5008.30美元/盎司。",
@@ -104,9 +104,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "夜盘期货开盘，甲醇涨逾12%，燃油涨逾5%，原油涨逾4%，沥青、液化石油气、低硫燃油、乙二醇、聚丙烯涨逾3%；沪银跌逾3%，沪金跌逾2%，沪锡、沪锌跌逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3072466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "国际原油期货跌幅扩大",
@@ -184,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时00分"
+        },
+        {
+          "title": "美国2月PPI数据公布后，美股三大股指期货跌幅扩大，均跌至日内低点；美元指数短线拉升，日内涨0.2%。现货黄金回落至4890美元/盎司下方，日内跌2.36%。美国国债走低，10年期国债收益率快速拉升，现报4.206%。",
+          "url": "https://wallstreetcn.com/livenews/3072449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "WTI原油期货日内大跌3.00%，现报92.66美元/桶。",
