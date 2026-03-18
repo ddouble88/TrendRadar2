@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T18:07:00.431916+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-03-18T19:52:32.852542+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "周二（3月17日）纽约尾盘，现货黄金跌0.02%，报5005.01美元/盎司，日内交投于5044.56-4973.81美元。 COMEX黄金期货涨0.12%，报5008.30美元/盎司。",
@@ -96,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "金十期货热图",
+          "url": "https://flash.jin10.com/detail/20260318192854337800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "国际原油期货跌幅扩大",
