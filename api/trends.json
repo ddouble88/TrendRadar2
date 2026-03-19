@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T05:43:31.484071+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-03-20T06:37:29.760466+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "WTI原油期货价格涨幅扩大，突破100美元/桶。 据Politico报道，一名美国官员在会见石油行业高管们时宣称，美国不会实施原油出口禁令。",
@@ -17,17 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "周四（3月19日）纽约尾盘，标普500股指期货最终跌0.08%，道指期货跌0.27%，纳斯达克100股指期货跌0.11%。 罗素2000股指期货涨0.89%。",
-          "url": "https://wallstreetcn.com/livenews/3073577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
         },
         {
           "title": "WTI 4月原油期货收报96.14美元/桶。 NYMEX 4月天然气期货收报3.1660美元/百万英热单位。 NYMEX 4月汽油期货收报3.1271美元/加仑，NYMEX 3月取暖油期货收报4.3420美元/加仑。",
@@ -52,6 +41,18 @@
           "time_info": "03时09分"
         },
         {
+          "title": "周四（3月19日）纽约尾盘，标普500股指期货最终跌0.08%，道指期货跌0.27%，纳斯达克100股指期货跌0.11%。 罗素2000股指期货涨0.89%。",
+          "url": "https://wallstreetcn.com/livenews/3073577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时37分]"
+        },
+        {
           "title": "上期所原油期货2604合约夜盘收跌5.76%，报757.10元人民币/桶。 沪金夜盘收跌4.99%，沪银收跌6.07%。",
           "url": "https://wallstreetcn.com/livenews/3073530",
           "source": "华尔街见闻-快讯",
@@ -74,6 +75,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时43分]"
+        },
+        {
+          "title": "周五亚太盘初，纽约银日内涨幅达2.5%，报73.01美元/盎司。 纽约金日内涨幅达1.0%，报4656.6美元/盎司。 美国三大股指期货涨超0.2%，罗素2000股指期货涨超0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3073592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         },
         {
           "title": "周四（3月19日）欧市尾盘，ICE英国天然气期货涨10.72%，报154.400便士/千卡，北京时间15:07涨至180.000便士刷新日高，随后逐步回吐涨幅。 TTF基准荷兰天然气期货涨11.66%，报60.904欧元/兆瓦时，15:01曾刷新日高至72欧元。 ICE欧盟碳排放交易许可（期货价格）跌3.50%，报62.32欧元/吨。",
