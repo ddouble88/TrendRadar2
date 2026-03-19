@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T13:02:18.943421+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2026-03-19T14:08:46.505408+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "冲突升级叠加美联储鹰派，美股、美债、黄金“三杀”！美元涨回100关口，加密货币跳水",
@@ -19,6 +19,17 @@
           "time_info": "[06时40分 ~ 06时41分]"
         },
         {
+          "title": "A股多元金融板块短线拉升，中油资本直线涨停，中粮资本、瑞达期货、弘业期货、爱建集团、江苏金租跟涨。",
+          "url": "https://flash.jin10.com/detail/20260319135444449800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
           "url": "https://wallstreetcn.com/articles/3767807",
           "source": "华尔街见闻",
@@ -30,6 +41,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时12分 ~ 05时42分]"
+        },
+        {
+          "title": "欧洲斯托克50指数期货跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3072965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "WTI原油期货在电子交易盘涨至100美元/桶整数位心理关口，涨幅在纽约收盘之后超过4%。",
@@ -106,6 +128,17 @@
           "time_info": "[10时51分 ~ 13时02分]"
         },
         {
+          "title": "A股大金融股异动拉升，中油资本直线涨停，中粮资本、瑞达期货、弘业期货、爱建集团、江苏金租跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3072963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
           "title": "美光科技美股盘后跌幅扩大至6%，该公司工厂开支庞大，掩盖了存储芯片销售的强劲表现。 周四亚太盘初，美国三大股指期货与罗素2000股指期货跌约0.3%。",
           "url": "https://wallstreetcn.com/livenews/3072726",
           "source": "华尔街见闻-快讯",
@@ -139,6 +172,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "沪银期货主力合约日内跌超7%，现报18637元/千克。",
+          "url": "https://wallstreetcn.com/livenews/3072955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
           "title": "金十期货3月19日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌2050元/吨，中间价报152150元/吨。",
           "url": "https://flash.jin10.com/detail/20260319103228131800",
           "source": "金十数据",
@@ -161,13 +205,24 @@
           "time_info": "03时13分"
         },
         {
+          "title": "30年期国债期货（TL）主力合约日内涨超0.30%，现报111.30元。",
+          "url": "https://flash.jin10.com/detail/20260319134225655800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
           "title": "国债期货早盘收盘，30年期主力合约涨0.19%，10年期主力合约涨0.11%，5年期主力合约涨0.07%，2年期主力合约涨0.02%。",
           "url": "https://wallstreetcn.com/livenews/3072903",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -181,6 +236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "美国天然气期货涨超3%，报3.157美元/百万英热。",
+          "url": "https://wallstreetcn.com/livenews/3072933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "WTI原油期货朝着96美元回落。",
