@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T21:15:51.772992+08:00",
-  "total_titles_processed": 1780,
+  "generated_at": "2026-03-20T22:52:35.637633+08:00",
+  "total_titles_processed": 1893,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "WTI原油期货价格涨幅扩大，突破100美元/桶。 据Politico报道，一名美国官员在会见石油行业高管们时宣称，美国不会实施原油出口禁令。",
@@ -25,9 +25,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
+        },
+        {
+          "title": "WTI原油期货日内涨幅扩大至1.00%，现报96.51美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260320224026335800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "WTI 4月原油期货收报96.14美元/桶。 NYMEX 4月天然气期货收报3.1660美元/百万英热单位。 NYMEX 4月汽油期货收报3.1271美元/加仑，NYMEX 3月取暖油期货收报4.3420美元/加仑。",
@@ -63,17 +74,6 @@
           "time_info": "15时09分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260320102512248800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
           "title": "午盘收盘，国内期货主力合约涨跌不一。液化石油气（LPG）涨超8%，锰硅涨超3%，苹果、烧碱、纸浆、淀粉、乙二醇（EG）涨超2%；跌幅方面，低硫燃料油（LU）跌超8%，沪银、瓶片跌超6%，PTA、PX、燃料油跌超4%，沥青、沪金跌近4%。",
           "url": "https://flash.jin10.com/detail/20260320150050918800",
           "source": "金十数据",
@@ -107,6 +107,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时09分 ~ 04时50分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260320102512248800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 22时52分]"
+        },
+        {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 22时52分]"
         },
         {
           "title": "上期所就镍期货和期权国际化相关问题答记者问",
@@ -150,7 +174,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -186,17 +210,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
-        },
-        {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
         },
         {
           "title": "周四（3月19日）欧市尾盘，ICE英国天然气期货涨10.72%，报154.400便士/千卡，北京时间15:07涨至180.000便士刷新日高，随后逐步回吐涨幅。 TTF基准荷兰天然气期货涨11.66%，报60.904欧元/兆瓦时，15:01曾刷新日高至72欧元。 ICE欧盟碳排放交易许可（期货价格）跌3.50%，报62.32欧元/吨。",
@@ -260,7 +273,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
