@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T14:56:37.053311+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-03-21T15:39:13.179503+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时54分 ~ 14时56分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 15时39分]"
         },
         {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
@@ -29,11 +29,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 14时56分]"
+          "appearance_count": 6,
+          "time_info": "[12时43分 ~ 15时39分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至3月17日的一周内，NYMEX和ICE四大主要市场的天然气投机者将净多头头寸增加了12,244手，达到105,017手。",
