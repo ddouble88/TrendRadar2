@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T07:36:59.810656+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-03-21T10:35:45.690473+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             8,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 10时35分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至3月17日的一周内，NYMEX和ICE四大主要市场的天然气投机者将净多头头寸增加了12,244手，达到105,017手。",
