@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T13:13:39.555089+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2026-03-24T14:10:38.786873+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "WTI 5月原油期货收跌10.10美元，跌幅超过10.28%，报88.13美元/桶。 中东Abu Dhabi Murban原油期货跌5.79%，报137.92美元/桶。 NYMEX 4月天然气期货收报2.8910元/百万英热单位。 NYMEX 4月汽油期货收报2.9749美元/加仑，NYMEX 3月取暖油期货收报4.0560美元/加仑。",
@@ -39,8 +39,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时43分 ~ 13时13分]"
+          "appearance_count": 4,
+          "time_info": "[10时43分 ~ 14时10分]"
+        },
+        {
+          "title": "特朗普TACO效果有限，亚太股市高开低走，美股期货转跌令反弹蒙阴，原油大跌后反弹",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 14时10分]"
+        },
+        {
+          "title": "不光期货异动？预测市场也暗示有“内鬼”知道特朗普要发贴……",
+          "url": "https://www.cls.cn/detail/2322532",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 14时10分]"
         },
         {
           "title": "现货白银涨2%，纽约铜期货也涨2%",
@@ -66,26 +90,15 @@
           "time_info": "03时05分"
         },
         {
-          "title": "特朗普TACO效果有限，亚太股市高开低走，美股期货转跌令反弹蒙阴，原油大跌后反弹",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
+          "title": "特朗普发帖前15分钟，“600万桶原油期货”合约遭抛售",
+          "url": "https://flash.jin10.com/detail/20260324134949950800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "不光期货异动？预测市场也暗示有“内鬼”知道特朗普要发贴……",
-          "url": "https://www.cls.cn/detail/2322532",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "14时10分"
         },
         {
           "title": "欧洲Stoxx 50指数期货跌1%。",
@@ -97,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "纳指期货延续跌势，下跌0.8%，标普500指数期货下跌0.72%。",
+          "url": "https://flash.jin10.com/detail/20260324133621946800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "芝加哥玉米、小麦期货跌超1%，纽约可可跌超2.5%",
@@ -119,6 +143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260324133131294800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时10分"
         },
         {
           "title": "国债期货开盘，30年期主力合约涨0.19%，10年期主力合约涨0.05%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。",
