@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T15:59:05.580893+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-03-24T17:04:21.850821+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时43分 ~ 15时59分]"
+          "appearance_count": 7,
+          "time_info": "[10时43分 ~ 17时04分]"
+        },
+        {
+          "title": "不光期货异动？预测市场也暗示有“内鬼”知道特朗普要发贴……",
+          "url": "https://www.cls.cn/detail/2322532",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 17时04分]"
         },
         {
           "title": "WTI 5月原油期货收跌10.10美元，跌幅超过10.28%，报88.13美元/桶。 中东Abu Dhabi Murban原油期货跌5.79%，报137.92美元/桶。 NYMEX 4月天然气期货收报2.8910元/百万英热单位。 NYMEX 4月汽油期货收报2.9749美元/加仑，NYMEX 3月取暖油期货收报4.0560美元/加仑。",
@@ -29,19 +43,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
-        },
-        {
-          "title": "不光期货异动？预测市场也暗示有“内鬼”知道特朗普要发贴……",
-          "url": "https://www.cls.cn/detail/2322532",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 15时59分]"
         },
         {
           "title": "周一（3月23日）纽约尾盘，标普500股指期货最终涨1.18%，道指期货涨1.42%，纳斯达克100股指期货涨1.23%。 罗素2000股指期货涨2.27%。",
@@ -108,7 +109,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -119,7 +120,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -141,7 +142,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -207,7 +208,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         }
