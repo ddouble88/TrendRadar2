@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T21:28:28.786814+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2026-03-24T23:08:06.689478+08:00",
+  "total_titles_processed": 1811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "不光期货异动？预测市场也暗示有“内鬼”知道特朗普要发贴……",
@@ -146,7 +146,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -195,6 +195,17 @@
           "time_info": "10时44分"
         },
         {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20260324222554312800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "国债期货收盘，30年期主力合约涨0.52%，10年期主力合约涨0.02%，5年期主力合约与昨日持平，2年期主力合约跌0.02%。",
           "url": "https://wallstreetcn.com/livenews/3075738",
           "source": "华尔街见闻-快讯",
@@ -204,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "内盘期货夜市跌幅扩大，LPG目前跌超8.7%，丙烯、对二甲苯跌超4%，纯苯、苯乙烯跌超3%，燃油跌2.6%，低硫燃油、焦炭、焦煤跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3076036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "纳指期货延续跌势，下跌0.8%，标普500指数期货下跌0.72%。",
@@ -245,7 +267,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
