@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T14:12:03.690887+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-03-25T15:58:37.779339+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "周二（3月24日）欧市尾盘，ICE英国天然气期货跌6.36%，报134.160便士/千卡。 TTF基准荷兰天然气期货跌5.78%，报52.793欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）涨3.28%，报70.12欧元/吨。",
@@ -120,6 +120,17 @@
           "time_info": "04时51分"
         },
         {
+          "title": "国债期货收盘，30年期主力合约涨0.01%，10年期主力合约与昨日持平，5年期主力合约涨0.00%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3076507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "阿拉比卡咖啡期货涨超3.9%，白糖期货涨超3.3%",
           "url": "https://wallstreetcn.com/livenews/3076166",
           "source": "华尔街见闻-快讯",
@@ -142,6 +153,17 @@
           "time_info": "10时48分"
         },
         {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260325151629299800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "国债期货早盘收盘，30年期主力合约涨0.07%，10年期主力合约涨0.02%，5年期主力合约与昨日持平，2年期主力合约涨0.01%。",
           "url": "https://wallstreetcn.com/livenews/3076378",
           "source": "华尔街见闻-快讯",
@@ -162,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "内盘期货收盘走势分化，液化石油气收跌8%，燃油、集运欧线跌逾6%，乙二醇、丙烯、PVC、塑料跌逾4%；沪银涨7%，铂、钯涨逾5%，碳酸锂涨逾4%，沪金涨逾3%。",
+          "url": "https://wallstreetcn.com/livenews/3076499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         }
       ]
     }
