@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T13:14:00.386686+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-03-26T15:20:45.544242+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "MSCI亚太指数日内下跌1%。 标普500指数期货、纳斯达克100指数期货下跌0.4%。",
@@ -65,13 +65,35 @@
           "time_info": "[10时55分 ~ 13时14分]"
         },
         {
+          "title": "3月26日股指期货套利监测日报",
+          "url": "https://flash.jin10.com/detail/20260326150547282800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "商品期货收盘，钯主力合约跌超5%，铂跌超4%，多晶硅、玻璃跌超2%。甲醇、BR橡胶、沥青涨超4%，PTA、对二甲苯、鸡蛋涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3077203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "WTI原油期货日内涨超2.00%，现报92.13美元/桶。",
           "url": "https://flash.jin10.com/detail/20260326125945432800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -93,7 +115,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -107,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260326150113315800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "布伦特原油期货维持2.44%的跌幅，暂报97.78美元。 据华尔街日报，美国和以色列暂时将两名伊朗官员从目标名单中移除。",
@@ -126,9 +159,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "A股多元金融板块持续走低，瑞达期货触及跌停，中油资本、拉卡拉、爱建集团、新力金融、弘业期货等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3077187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌不一。 甲醇、合成橡胶、沥青涨超4%，PTA、PX、鸡蛋涨超3%，聚丙烯、短纤涨超2%，跌幅方面，钯跌超5%，铂跌超4%，多晶硅、玻璃跌超2%，生猪跌近2%。",
+          "url": "https://flash.jin10.com/detail/20260326150048447800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "芝加哥大豆期货涨约1.6%，大豆油涨约2.1%",
@@ -170,9 +225,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "富时中国A50指数期货跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3077174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "国债期货开盘，30年期主力合约涨0.01%，10年期主力合约涨0.02%，5年期主力合约涨0.04%，2年期主力合约涨0.01%。",
