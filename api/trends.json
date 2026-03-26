@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T15:20:45.544242+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-03-26T17:07:20.257324+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "MSCI亚太指数日内下跌1%。 标普500指数期货、纳斯达克100指数期货下跌0.4%。",
@@ -71,9 +71,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "WTI原油日内大涨3.00%，现报94.46美元/桶。WTI原油期货突破94美元/桶，日内涨4.07%。",
+          "url": "https://flash.jin10.com/detail/20260326163922883800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
         },
         {
           "title": "商品期货收盘，钯主力合约跌超5%，铂跌超4%，多晶硅、玻璃跌超2%。甲醇、BR橡胶、沥青涨超4%，PTA、对二甲苯、鸡蛋涨超3%。",
@@ -82,7 +93,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -137,7 +148,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -170,7 +181,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -181,7 +192,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -236,7 +247,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
