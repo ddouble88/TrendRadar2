@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T19:48:37.599587+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2026-03-27T21:22:57.592788+08:00",
+  "total_titles_processed": 1693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "恒指期货夜盘收跌0.03%，报24782点，低水74点。",
@@ -75,6 +75,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "夜盘开盘，国内期货主力合约涨多跌少，塑料涨超5%，液化石油气（LPG）、苯乙烯（EB）涨超4%，聚丙烯（PP）涨近4%。跌幅方面，沪银跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260327210006082800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "商品期货收盘，纯苯、碳酸锂主力合约涨超6%，苯乙烯、乙二醇涨超5%，甲醇涨超4%，对二甲苯、PTA、短纤、瓶片涨超3%。集运欧线跌超3%，烧碱、沪银跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3077997",
           "source": "华尔街见闻-快讯",
@@ -114,9 +125,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "夜盘期货开盘，塑料涨5%，液化石油气、苯乙烯涨逾4%，低硫燃油、纯苯、乙二醇、燃油、甲醇、瓶片涨逾3%；沪银、国际铜、沪铜等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3078274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "午盘收盘，国内期货主力合约互有涨跌。纯苯、碳酸锂涨超6%，苯乙烯（EB）、乙二醇（EG）涨超5%，甲醇涨超4%，PX、PTA、短纤、瓶片涨超3%。跌幅方面，集运欧线跌超3%，烧碱、沪银跌超2%。",
@@ -136,7 +158,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
