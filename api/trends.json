@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T18:56:40.535297+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2026-03-27T19:48:37.599587+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "恒指期货夜盘收跌0.03%，报24782点，低水74点。",
@@ -108,6 +108,17 @@
           "time_info": "15时19分"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260327192725166800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "午盘收盘，国内期货主力合约互有涨跌。纯苯、碳酸锂涨超6%，苯乙烯（EB）、乙二醇（EG）涨超5%，甲醇涨超4%，PX、PTA、短纤、瓶片涨超3%。跌幅方面，集运欧线跌超3%，烧碱、沪银跌超2%。",
           "url": "https://flash.jin10.com/detail/20260327150059893800",
           "source": "金十数据",
@@ -117,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "美股期货走低，纳斯达克100指数期货跌0.7%，标普500指数期货跌0.5%，道指期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3078195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "周五亚太盘初，美国三大股指期货涨0.3%，罗素2000股指期货涨约0.5%。",
