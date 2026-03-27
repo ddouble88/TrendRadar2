@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T04:49:57.370720+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-03-28T05:43:44.861545+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "WTI原油期货涨3.29%，暂报97.59美元。 据伊朗IRNA报道，伊朗称Khondab核设施不存在放射性物质泄漏风险。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "周五（3月27日）纽约尾盘，标普500股指期货最终跌1.93%，道指期货跌1.99%，纳斯达克100股指期货跌2.15%。 罗素2000股指期货跌2.01%。",
+          "url": "https://wallstreetcn.com/livenews/3078495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "WTI 5月原油期货收涨5.16美元，涨幅5.46%，报99.64美元/桶，本周累计上涨超过1.43%。 中东Abu Dhabi Murban原油期货涨5.54%，报118.00美元/桶，本周累跌19.40%，整体呈现出长尾L形走势。 NYMEX 4月天然气期货收报3.0950美元/百万英热单位。 NYMEX 4月汽油期货收报3.2501美元/加仑，NYMEX 3月取暖油期货收报4.4955美元/加仑。",
@@ -41,6 +52,18 @@
           "time_info": "03时05分"
         },
         {
+          "title": "WTI原油期货涨5.69%，暂报99.86美元。 美国总统特使Witkoff预计，本周将与伊朗举行会议。",
+          "url": "https://wallstreetcn.com/livenews/3078473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时43分]"
+        },
+        {
           "title": "WTI原油期货价格在临近收盘时突破100美元整数位心理关口。",
           "url": "https://wallstreetcn.com/livenews/3078440",
           "source": "华尔街见闻-快讯",
@@ -50,17 +73,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
-        },
-        {
-          "title": "WTI原油期货涨5.69%，暂报99.86美元。 美国总统特使Witkoff预计，本周将与伊朗举行会议。",
-          "url": "https://wallstreetcn.com/livenews/3078473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
         },
         {
           "title": "WTI原油期货涨幅收窄至不足3.3%，一度逼近97美元。",
@@ -85,13 +97,24 @@
           "time_info": "00时02分"
         },
         {
+          "title": "周五（3月27日）纽约尾盘，现货黄金涨2.91%，报4502.93美元/盎司，本周累涨0.10%。 COMEX黄金期货涨2.88%，报4535.80美元/盎司，本周累跌1.50%，整体呈现出W形走势。 本周，现货白银累涨2.64%，报69.7470美元/盎司。 COMEX白银期货累涨0.60%，报70.080美元/盎司。 COMEX铜期货累涨3.08%，报5.4710美元/磅。 现货铂金累跌3.27%，报1865.44美元/盎司；现货钯金累跌2.17%，报1383.94美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3078485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：3月24日当周，投机者所持NYMEX WTI原油净多头头寸增加1,124手合约，至148,985手合约，创约九个月新高。 减少所持布伦特与WTI原油净多头头寸。 所持NYMEX汽油净多头头寸创七周新低。 所持NYMEX取暖油净多头头寸创五周新低。 所持NYMEX天然气净多头头寸创三周新低。",
           "url": "https://wallstreetcn.com/livenews/3078460",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -102,7 +125,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -113,7 +136,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -124,7 +147,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -135,7 +158,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -146,7 +169,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -157,7 +180,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -168,7 +191,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -179,7 +202,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -190,7 +213,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         }
