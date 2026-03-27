@@ -1,210 +1,44 @@
 {
-  "generated_at": "2026-03-27T22:59:07.637143+08:00",
-  "total_titles_processed": 1828,
+  "generated_at": "2026-03-28T00:02:48.344130+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 18,
+      "match_count": 3,
       "titles": [
         {
-          "title": "恒指期货夜盘收跌0.03%，报24782点，低水74点。",
-          "url": "https://flash.jin10.com/detail/20260327030656495800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "3月27日股指期货套利监测日报",
-          "url": "https://flash.jin10.com/detail/20260327150525581800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "国债期货收盘，30年期主力合约跌0.29%，10年期主力合约跌0.01%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3078010",
+          "title": "WTI原油期货涨3.29%，暂报97.59美元。 据伊朗IRNA报道，伊朗称Khondab核设施不存在放射性物质泄漏风险。",
+          "url": "https://wallstreetcn.com/livenews/3078376",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时19分"
+          "time_info": "00时02分"
         },
         {
-          "title": "周四（3月26日）纽约尾盘，标普500股指期货最终跌1.58%，道指期货跌0.83%，纳斯达克100股指期货跌2.25%。 罗素2000股指期货跌1.23%。",
-          "url": "https://wallstreetcn.com/livenews/3077696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时44分]"
-        },
-        {
-          "title": "WTI 5月原油期货收涨4.16美元，涨幅超过4.60%，报94.48美元/桶，整体持续走高。 中东Abu Dhabi Murban原油期货涨3.77%，报109.33美元/桶。 NYMEX 4月天然气期货收报2.9990美元/百万英热单位。 NYMEX 4月汽油期货收报3.1302美元/加仑，NYMEX 3月取暖油期货收报4.2734美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3077643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "上期所原油期货2605合约夜盘收涨2.22%，报744.60元人民币/桶。 沪金夜盘收跌2.83%，沪银收跌5.66%。",
-          "url": "https://wallstreetcn.com/livenews/3077642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "夜盘开盘，国内期货主力合约涨多跌少，塑料涨超5%，液化石油气（LPG）、苯乙烯（EB）涨超4%，聚丙烯（PP）涨近4%。跌幅方面，沪银跌近1%。",
-          "url": "https://flash.jin10.com/detail/20260327210006082800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "商品期货收盘，纯苯、碳酸锂主力合约涨超6%，苯乙烯、乙二醇涨超5%，甲醇涨超4%，对二甲苯、PTA、短纤、瓶片涨超3%。集运欧线跌超3%，烧碱、沪银跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3077997",
+          "title": "WTI原油期货涨幅收窄至不足3.3%，一度逼近97美元。",
+          "url": "https://wallstreetcn.com/livenews/3078367",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时19分"
+          "time_info": "00时02分"
         },
         {
-          "title": "上期能源进一步扩大合格境外投资者参与商品期货、期权交易范围",
-          "url": "https://flash.jin10.com/detail/20260327164159218800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "股指期货午盘收盘",
-          "url": "https://flash.jin10.com/detail/20260327150127650800",
-          "source": "金十数据",
+          "title": "WTI原油期货维持3.5%的涨幅，目前交投于97.80美元附近。 据伊朗媒体Fars News，伊朗官方表示，伊朗孔达卜重水研究反应堆遭到空袭。官员表示，袭击未造成人员伤亡，周边居民未面临安全威胁。",
+          "url": "https://wallstreetcn.com/livenews/3078365",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260327192725166800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
-          "title": "夜盘期货开盘，塑料涨5%，液化石油气、苯乙烯涨逾4%，低硫燃油、纯苯、乙二醇、燃油、甲醇、瓶片涨逾3%；沪银、国际铜、沪铜等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3078274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约互有涨跌。纯苯、碳酸锂涨超6%，苯乙烯（EB）、乙二醇（EG）涨超5%，甲醇涨超4%，PX、PTA、短纤、瓶片涨超3%。跌幅方面，集运欧线跌超3%，烧碱、沪银跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260327150059893800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "美股期货走低，纳斯达克100指数期货跌0.7%，标普500指数期货跌0.5%，道指期货跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3078195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
-          "title": "周五亚太盘初，美国三大股指期货涨0.3%，罗素2000股指期货涨约0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3077711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
-        },
-        {
-          "title": "上海国际能源交易中心发布关于20号胶和阴极铜期货期权合约",
-          "url": "https://flash.jin10.com/detail/20260327163829421800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "金十期货3月27日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨850元/吨，中间价报157500元/吨。",
-          "url": "https://flash.jin10.com/detail/20260327103236773800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "富时中国A50指数期货涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3077914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "00时02分"
         }
       ]
     }
