@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T15:27:58.407428+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-03-31T17:11:25.382905+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "WTI 5月原油期货收涨3.24美元，涨幅3.25%，报102.88美元/桶，为2022年7月份以来首次收于100美元整数位心理关口上方。 NYMEX 4月天然气期货收报2.8870美元/百万英热单位。 NYMEX 4月汽油期货收报3.3515美元/加仑，NYMEX 3月取暖油期货收报4.3643美元/加仑。",
@@ -130,7 +130,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -163,7 +163,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -174,7 +174,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -196,9 +196,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "阿曼原油官方售价5月期货价格涨至每桶124.05美元，较4月的每桶68.15美元上涨55.90美元。",
+          "url": "https://flash.jin10.com/detail/20260331163741404800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "美国原油期货自2022年以来首次收于100美元整数位关口上方，布油有望创历史最大单月涨幅",
