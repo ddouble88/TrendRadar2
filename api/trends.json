@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T03:13:09.201811+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-04-01T04:52:35.906046+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "上期所原油期货夜盘跌幅扩大至9%",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -36,9 +36,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "布油5月期货逆势收涨",
+          "url": "https://flash.jin10.com/detail/20260401041636494800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         },
         {
           "title": "欧洲柴油期货有望在3月份累涨81%，单月涨幅创纪录，因中东战争扰乱了供应。",
@@ -61,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "恒指期货夜盘收涨1.76%，报25191点，高水403点。",
+          "url": "https://flash.jin10.com/detail/20260401030232755800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         }
       ]
     }
