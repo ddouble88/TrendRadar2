@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T17:17:01.468935+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2026-04-01T19:06:08.297483+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "金十期货图示",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "上海国际能源交易中心：开展部分期货、期权品种做市商招募工作",
+          "url": "https://wallstreetcn.com/livenews/3080862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "布油5月期货逆势收涨",
