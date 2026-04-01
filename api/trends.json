@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T21:53:11.797058+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2026-04-01T23:14:13.102446+08:00",
+  "total_titles_processed": 1753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "金十期货图示",
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约大面积飘绿，乙二醇、低硫燃料油（LU）跌超4%，BR橡胶、苯乙烯、纯苯、燃料油跌超3%，对二甲苯、沥青、烧碱、液化气、棕榈油、铁矿石、甲醇跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260401230104066800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "布油5月期货逆势收涨",
@@ -204,7 +215,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -237,7 +248,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         }
