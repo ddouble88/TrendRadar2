@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T07:41:38.462247+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-04-01T11:28:46.679210+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "上期所原油期货夜盘跌幅扩大至9%",
@@ -97,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "金十期货·能化专题",
+          "url": "https://flash.jin10.com/detail/20260401105518371800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "WTI原油、现货黄金周三小幅高开，美股股指期货微跌。",
