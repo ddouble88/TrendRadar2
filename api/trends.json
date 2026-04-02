@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T07:43:24.534664+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-04-02T10:53:33.853834+08:00",
+  "total_titles_processed": 821,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "周三（4月1日）欧市尾盘，TTF基准荷兰天然气期货跌5.84%，报47.325欧元/兆瓦时，北京时间14:00显著下挫。 ICE欧盟碳排放交易许可（期货价格）涨2.97%，报73.59欧元/吨。 英国天然气期货没有交易数据。",
@@ -89,6 +89,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时49分]"
+        },
+        {
+          "title": "美股股指期货跌势扩大，标普500期指跌逾1%，纳斯达克期指跌1.3%。",
+          "url": "https://flash.jin10.com/detail/20260402103143778800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "美股股指期货、WTI原油和现货黄金周四开盘基本持稳，现货白银低开0.3%。",
