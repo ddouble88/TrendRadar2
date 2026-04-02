@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T06:40:23.268335+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-04-03T07:42:49.818557+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时47分 ~ 07时42分]"
+        },
+        {
+          "title": "芝商所（CME）上调部分铝期货合约保证金要求至5000美元，新规将于当地时间4月3日收盘后生效。",
+          "url": "https://flash.jin10.com/detail/20260403053424263800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时47分 ~ 06时40分]"
+          "time_info": "[06时40分 ~ 07时42分]"
         },
         {
           "title": "周四（4月2日）纽约尾盘，标普500股指期货最终涨0.12%，道指期货跌0.10%，纳斯达克100股指期货涨0.10%。 罗素2000股指期货涨0.66%。",
@@ -108,17 +121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "芝商所（CME）上调部分铝期货合约保证金要求至5000美元，新规将于当地时间4月3日收盘后生效。",
-          "url": "https://flash.jin10.com/detail/20260403053424263800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时40分"
         },
         {
           "title": "法院文件显示，美国商品期货交易委员会就康涅狄格州监管预测市场的举措对康涅狄格州提起诉讼。",
