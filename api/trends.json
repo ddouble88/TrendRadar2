@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T06:41:58.814029+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-04-04T07:42:24.310899+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             6,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时42分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：3月31日当周，投机者所持COMEX黄金净多头头寸增加1,097手合约，至93,872手合约。 所持COMEX白银净多头头寸降低至10,816手合约。 所持COMEX铜净多头头寸增加至39,292手合约。 所持NYMEX铂金净多头头寸增加至12,304手合约，创最近15周新高。 所持NYMEX钯金净空头头寸增加至2,000手合约，创大约六个月新高。",
@@ -27,11 +28,12 @@
           "ranks": [
             5,
             9,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时42分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至3月31日当周，欧元净多头持仓为507手，日元净空头头寸为-72,872手，英镑净空头头寸为-52,665手，瑞郎净空头头寸为-29,871手。",
@@ -39,11 +41,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时42分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至3月31日当周，投机者将CBOT美国2年期国债期货的净空头头寸减少855手至1,637,324手，10年期国债期货净空头头寸增加142,176手至784,063手",
@@ -51,11 +54,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时42分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至3月31日当周，股票基金经理将CME标普500指数期货净多头头寸增加39,730手至912,682手，股票基金投机者将CME标普500指数净多头头寸减少了113,496手至215,932手。",
@@ -63,11 +67,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时42分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至3月31日当周，纽约商品交易所和洲际交易所四大天然气期货市场中的投机者将净多头头寸减少11,945手至82,872手。",
@@ -75,11 +80,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时42分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至3月31日当周，COMEX铜期货投机者将净多头持仓增加3,491手至39,292手。",
@@ -87,11 +93,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时42分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至3月31日当周，原油投机者将WTI原油净多头持仓减少23,898手至103,707手。",
@@ -99,11 +106,12 @@
           "source": "金十数据",
           "ranks": [
             14,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时42分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至3月31日当周，COMEX黄金投机者净多头头寸增加1,098手，至93,872手。COMEX白银投机者将净多头持仓减少99手至10,816手。",
@@ -111,11 +119,12 @@
           "source": "金十数据",
           "ranks": [
             15,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时42分]"
         }
       ]
     }
