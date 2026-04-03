@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T07:42:49.818557+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-04-03T10:56:08.455617+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "恒指期货夜盘收涨0.58%，报25233点，高水116点。",
@@ -101,6 +101,17 @@
           "time_info": "[05时47分 ~ 06时40分]"
         },
         {
+          "title": "金十期货4月3日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日下跌2150元/吨，中间价报158000元/吨。",
+          "url": "https://flash.jin10.com/detail/20260403103305780800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
           "title": "美国商品期货交易委员会表示，因亚利桑那州监管预测市场的举措而对其提起诉讼。",
           "url": "https://flash.jin10.com/detail/20260403005017584800",
           "source": "金十数据",
@@ -143,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约与昨日持平，10年期主力合约涨0.01%，5年期主力合约涨0.04%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3081886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
         }
       ]
     }
