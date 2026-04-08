@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T21:50:08.017135+08:00",
-  "total_titles_processed": 1668,
+  "generated_at": "2026-04-08T23:19:42.076289+08:00",
+  "total_titles_processed": 1798,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3769370",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时18分 ~ 21时50分]"
+          "appearance_count": 10,
+          "time_info": "[11时18分 ~ 23时19分]"
         },
         {
           "title": "美伊接受巴基斯坦停火提议 美股期货贵金属暴涨、油价重挫 | 环球市场",
@@ -152,7 +153,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -328,7 +329,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -394,7 +395,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
