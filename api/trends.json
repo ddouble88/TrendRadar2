@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T17:13:14.044614+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-04-08T19:07:00.335020+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 17时13分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 19时07分]"
         },
         {
           "title": "美伊接受巴基斯坦停火提议 美股期货贵金属暴涨、油价重挫 | 环球市场",
@@ -328,7 +328,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
