@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T05:00:37.063120+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-04-10T05:55:18.386372+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "恒指期货夜盘收涨0.70%，报25900点，高水148点。",
@@ -52,6 +52,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "周四（4月9日）纽约尾盘，标普500股指期货最终涨0.56%，道指期货涨0.57%，纳斯达克100股指期货涨0.67%。 罗素2000股指期货涨0.62%。",
+          "url": "https://wallstreetcn.com/livenews/3085340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260410004212855800",
           "source": "金十数据",
@@ -69,7 +80,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         },
