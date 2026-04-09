@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T15:49:02.675665+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-04-09T17:18:50.148653+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
+          "appearance_count": 3,
+          "time_info": "[15时48分 ~ 17时18分]"
         },
         {
           "title": "恒指期货夜盘收跌0.34%，报25859点，低水34点。",
@@ -180,7 +180,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -213,7 +213,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
