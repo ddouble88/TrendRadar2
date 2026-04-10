@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T05:00:43.276155+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-04-11T05:48:44.395722+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "WTI 5月原油期货收跌1.30美元，跌幅1.33%，报96.57美元/桶。 NYMEX 5月天然气期货收报2.6480美元/百万英热单位。 NYMEX 5月汽油期货收报3.0373美元/加仑，NYMEX 5月取暖油期货收报3.7616美元/加仑。",
@@ -41,6 +41,39 @@
           "time_info": "03时05分"
         },
         {
+          "title": "美国商品期货交易委员会(CFTC)：截至4月7日当周，投机者将CBOT美国2年期国债期货净空头持仓增加74,691手至1,712,015手，美国5年期国债期货净空头持仓削减33,911手至1,552,929手，美国10年期国债期货净空头持仓增加39,561手至823,624手，超长期国债期货净空头持仓减少7,746手至260,383手。",
+          "url": "https://flash.jin10.com/detail/20260411034342868800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 05时48分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月7日当周，NYMEX、ICE市场的天然气期货净多头头寸减少30,476手至52,396手。",
+          "url": "https://flash.jin10.com/detail/20260411034055331800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 05时48分]"
+        },
+        {
+          "title": "周五（4月10日）纽约尾盘，标普500股指期货最终涨0.01%，道指期货跌0.46%，纳斯达克100股指期货涨0.33%。 罗素2000股指期货跌0.08%。",
+          "url": "https://wallstreetcn.com/livenews/3086108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
           "title": "WTI原油期货向下触及97美元/桶，日内跌0.90%。",
           "url": "https://flash.jin10.com/detail/20260411022045793800",
           "source": "金十数据",
@@ -50,6 +83,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "纽约铜期货涨1.8%，现货铂金涨2.5%，本周纽约铜涨约5.1%",
+          "url": "https://wallstreetcn.com/livenews/3086100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "周五（4月10日）纽约尾盘，现货黄金跌0.34%，报4750.39美元/盎司，本周累计上涨1.57%，4月6-7日在4650美元附近低位持稳，4月8日亚太盘初曾拉升至4856.81美元。 COMEX黄金期货跌0.95%，报4772.00美元/盎司，本周累涨2.02%。",
+          "url": "https://wallstreetcn.com/livenews/3086098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "市场消息：美国民主党参议员沃伦致函美国商品期货交易委员会（CFTC），要求调查与美国总统特朗普伊朗论调相关的石油交易。",
@@ -91,7 +146,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         },
@@ -102,29 +157,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "美国商品期货交易委员会(CFTC)：截至4月7日当周，投机者将CBOT美国2年期国债期货净空头持仓增加74,691手至1,712,015手，美国5年期国债期货净空头持仓削减33,911手至1,552,929手，美国10年期国债期货净空头持仓增加39,561手至823,624手，超长期国债期货净空头持仓减少7,746手至260,383手。",
-          "url": "https://flash.jin10.com/detail/20260411034342868800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至4月7日当周，NYMEX、ICE市场的天然气期货净多头头寸减少30,476手至52,396手。",
-          "url": "https://flash.jin10.com/detail/20260411034055331800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         },
@@ -135,7 +168,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         }
