@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T06:46:42.819723+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-04-11T07:43:08.211425+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
@@ -48,8 +48,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时00分 ~ 06时46分]"
+          "appearance_count": 4,
+          "time_info": "[05时00分 ~ 07时43分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至4月7日当周，NYMEX、ICE市场的天然气期货净多头头寸减少30,476手至52,396手。",
@@ -59,8 +59,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时00分 ~ 06时46分]"
+          "appearance_count": 4,
+          "time_info": "[05时00分 ~ 07时43分]"
         },
         {
           "title": "周五（4月10日）纽约尾盘，标普500股指期货最终涨0.01%，道指期货跌0.46%，纳斯达克100股指期货涨0.33%。 罗素2000股指期货跌0.08%。",
@@ -68,11 +68,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时43分]"
         },
         {
           "title": "纽约铜期货涨1.8%，现货铂金涨2.5%，本周纽约铜涨约5.1%",
