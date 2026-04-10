@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T16:24:27.827670+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-04-10T18:47:02.259077+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "恒指期货夜盘收涨0.70%，报25900点，高水148点。",
@@ -47,9 +47,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "年内首现期货公司合并获批，合并大幕才刚拉开？",
+          "url": "https://www.cls.cn/detail/2340248",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
         },
         {
           "title": "WTI 5月原油期货收涨3.46美元，涨幅3.66报97.87美元/桶。 布伦特6月原油期货收涨1.17美元，涨幅1.23%，报95.92美元。 中东Abu Dhabi Murban原油期货涨2.80%，报100.37美元/桶，北京时间20:47曾涨至102.10美元。 NYMEX 5月天然气期货收报2.67美元/百万英热单位。 NYMEX 5月汽油期货收报3.0007美元/加仑，NYMEX 5月取暖油期货收报3.9370美元/加仑。",
@@ -113,7 +124,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -146,7 +157,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
