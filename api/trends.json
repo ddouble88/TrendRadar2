@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T20:03:03.126202+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2026-04-14T22:54:35.838068+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时16分 ~ 22时54分]"
         },
         {
           "title": "WTI 5月原油期货收涨2.51美元，涨幅2.60报99.08美元/桶。 中东Abu Dhabi Murban原油期货涨5.25%，报103.31美元/桶，北京时间15:39曾达到106.49美元。 NYMEX 5月天然气期货收报2.6270美元/百万英热单位。 NYMEX 5月汽油期货收报3.1160美元/加仑，NYMEX 5月取暖油期货收报3.8341美元/加仑。",
@@ -73,18 +85,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时16分 ~ 20时03分]"
         },
         {
           "title": "上期所：调整黄金等期货相关合约涨跌停板幅度和交易保证金比例",
@@ -139,7 +139,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -150,7 +150,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
