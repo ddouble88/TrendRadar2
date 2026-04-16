@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T11:33:24.120700+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-04-16T14:08:12.966902+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 11时33分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 14时08分]"
         },
         {
           "title": "周三（4月15日）纽约尾盘，标普500股指期货最终涨0.76%，道指期货跌0.08%，纳斯达克100股指期货涨1.37%。 罗素2000股指期货涨0.25%。",
