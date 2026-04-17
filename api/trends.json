@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T14:09:04.976031+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-04-17T16:49:34.177490+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "WTI原油5分钟内上涨0.53美元/桶，报94.44美元/桶；布伦特原油期货日内涨超4美元。报道称，美国需要大约半年时间才能与伊朗达成协议。",
@@ -130,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "中金所：增加5年期国债期货合约可交割国债",
+          "url": "https://flash.jin10.com/detail/20260417162237031800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "芝加哥小麦期货涨约1.1%，大豆油张约2.5%",
