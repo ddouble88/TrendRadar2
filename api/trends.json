@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T11:37:24.137336+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-04-20T14:23:29.897397+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "国债期货早盘收盘",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "金十期货4月20日讯，据马来西亚独立检验机构AmSpec，马来西亚4月1-20日棕榈油出口量为868281吨，较上月同期出口的1166586吨减少25.6%。",
+          "url": "https://flash.jin10.com/detail/20260420141303840800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "股指期货早盘收盘",
@@ -25,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -64,6 +75,17 @@
           "time_info": "[06时43分 ~ 07时46分]"
         },
         {
+          "title": "周末美伊“各施手段”，油价飙升近8%、美股期货回落，日韩股市上涨，黄金小幅走软",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "国际原油大幅高开5% 美股指期货跌0.9%",
           "url": "https://flash.jin10.com/detail/20260420060034058800",
           "source": "金十数据",
@@ -73,6 +95,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
+        },
+        {
+          "title": "欧洲斯托克50期货下跌1.33%，DAX期货下跌1.36%，FTSE期货下跌0.44%。",
+          "url": "https://flash.jin10.com/detail/20260420140128260800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260420135845482800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         }
       ]
     }
