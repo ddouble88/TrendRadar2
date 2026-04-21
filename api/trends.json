@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T07:53:52.589118+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-04-21T11:29:38.247601+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金十数据整理：每日期货市场要闻速递（2026-04-21）",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -86,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260421103956886800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         },
         {
           "title": "芝加哥小麦期货涨超0.9%，大豆油涨约2.1%，豆粕跌超1.8%",
