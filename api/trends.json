@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T07:53:58.316189+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-04-23T11:31:59.486768+08:00",
+  "total_titles_processed": 890,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "WTI原油期货日内扩大至4%，现报93.26美元/桶。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "能源化工期货涨幅持续扩大，低硫燃料油（LU）涨超7%",
+          "url": "https://flash.jin10.com/detail/20260423111429051800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "WTI原油期货站上93美元/桶，日内涨3.71%。",
@@ -61,6 +72,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "原油系期货涨幅扩大，低硫燃料油（LU）主力合约日内大涨5.86%，现报4681元/吨。燃料油主力合约日内上涨4.17%，现报4000元/吨。SC原油主力合约日内涨幅超2.00%，现报641.8元/桶。",
+          "url": "https://flash.jin10.com/detail/20260423105735944800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260423105432974800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "WTI 5月原油期货收涨3.29美元，涨幅3.67%，报92.96美元/桶。 布伦特6月原油期货收涨3.43美元，涨幅3.48%，报101.91美元/桶。 中东Abu Dhabi Murban原油期货涨4.88%，报100.99美元/桶。 NYMEX 5月汽油期货收报3.3579美元/加仑，NYMEX 5月取暖油期货收报3.9379美元/加仑。 NYMEX 5月天然气期货收报2.7220美元/百万英热单位。",
