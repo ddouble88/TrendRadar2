@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T11:18:18.707283+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-04-25T13:53:56.091392+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
             6,
             13,
             17,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时56分 ~ 11时18分]"
+          "appearance_count": 5,
+          "time_info": "[05时56分 ~ 13时53分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，COMEX铜期货投机性净多头寸增加6995手至59132手。",
