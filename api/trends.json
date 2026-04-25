@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T07:50:06.680704+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-04-25T11:18:18.707283+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
@@ -28,6 +28,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "周五（4月24日）纽约尾盘，标普500股指期货最终涨0.78%，道指期货跌0.11%，纳斯达克100股指期货涨1.94%。 罗素2000股指期货涨0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3094309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时56分 ~ 11时18分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，COMEX铜期货投机性净多头寸增加6995手至59132手。",
@@ -83,19 +97,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时58分 ~ 07时50分]"
-        },
-        {
-          "title": "周五（4月24日）纽约尾盘，标普500股指期货最终涨0.78%，道指期货跌0.11%，纳斯达克100股指期货涨1.94%。 罗素2000股指期货涨0.69%。",
-          "url": "https://wallstreetcn.com/livenews/3094309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时56分 ~ 07时50分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
