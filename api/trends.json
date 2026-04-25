@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T05:44:02.287629+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-04-26T06:47:19.017726+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时44分]"
+          "appearance_count": 3,
+          "time_info": "[04时50分 ~ 06时47分]"
         },
         {
           "title": "美国总统特朗普在加密货币会议上警告银行家们不要阻碍加密货币立法的推进。",
