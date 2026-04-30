@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T18:12:58.998991+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-04-30T20:18:53.289035+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "WTI原油期货站上110美元/桶，日内涨近3%。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260430201100556800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "国债期货收盘，30年期主力合约跌0.26%，10年期主力合约跌0.03%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
