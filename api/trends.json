@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-02T03:21:49.100172+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-05-02T05:01:53.564515+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 5,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "芝加哥玉米、小麦期货本周至少涨3.2%，大豆油涨5.3%",
-          "url": "https://wallstreetcn.com/livenews/3098022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
         {
           "title": "美国原油期货结算价为每桶101.94美元，下跌3.13美元，跌幅2.98%。",
           "url": "https://flash.jin10.com/detail/20260502023138406800",
@@ -25,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -36,9 +25,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "芝加哥玉米、小麦期货本周至少涨3.2%，大豆油涨5.3%",
+          "url": "https://wallstreetcn.com/livenews/3098022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 05时01分]"
         },
         {
           "title": "洲际交易所（ICE）：截至4月28日当周，布伦特原油投机者将净多头头寸增加13,862份合约，达到383,205份。燃料油期货投机性净多头头寸增加6,456份合约，达到61,272份。",
@@ -47,9 +48,42 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月28日当周，NYMEX、ICE市场的天然气期货净空头持仓减少11617手至11117手。",
+          "url": "https://flash.jin10.com/detail/20260502033942711800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月28日当周，日元净空头头寸为-102,059手合约。英镑净空头头寸为-60,639手合约。瑞士法郎净空头头寸为-35,221手合约。欧元净多头头寸为35,712手合约。",
+          "url": "https://flash.jin10.com/detail/20260502033745670800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月28日当周，股票基金经理将标普500指数CME净多头持仓减持21,368手，至999,182手。股票基金投机者将标普500指数CME净空头持仓减持5,811手，至396,442手。",
+          "url": "https://flash.jin10.com/detail/20260502033549440800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "美国芝加哥商业交易所（CME）集团：4月30日，EBS平台受理的日元成交量达到858亿美元，创最近十年来新高。 通过CME旗下FX Link产品的日元成交量突破9.2万合约，创历史新高。 日元期权成交总额42亿美元。 4月30日，期货、期权、现货市场的日元成交量1407亿美元。",
@@ -58,9 +92,75 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月28日当周，投机者将CBOT美国2年期国债期货净空头头寸削减34,090手，至1,709,263手。将CBOT美国10年期国债期货净空头头寸增加48,166手，至839,137手。",
+          "url": "https://flash.jin10.com/detail/20260502033420920800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：4月28日当周，投机者所持COMEX黄金净多头头寸减少3,924手合约，至91,574手合约。",
+          "url": "https://wallstreetcn.com/livenews/3098027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月28日当周，WTI原油投机性净多头头寸减少3,416手，至108,498手。",
+          "url": "https://flash.jin10.com/detail/20260502033235246800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月28日当周，COMEX期铜投机性净多头头寸增加了1,665手，至60,796手。",
+          "url": "https://flash.jin10.com/detail/20260502033202142800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：4月28日当周，石油投机者所持WTI原油净多头头寸降低3,416手合约，至108,498手合约。 所持NMYEX WTI原油净多头头寸创四周新低，所持布伦特与WTI原油净多头头寸创三周新高。 所持美国四个枢纽的天然气净空头头寸降低11,617手合约，至11,117手合约。 所持NYMEX天然气净多头头寸创17个月新低。 所持NYMEX汽油净多头头寸创四周新高。 所持NYMEX取暖油净多头头寸创三个月新低。",
+          "url": "https://wallstreetcn.com/livenews/3098025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月28日当周，COMEX期金投机性净多头头寸减少3,924手至91,574手。COMEX期银投机性净多头头寸增加1,882手，至10,745手。",
+          "url": "https://flash.jin10.com/detail/20260502033049413800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     }
