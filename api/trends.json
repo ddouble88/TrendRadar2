@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T11:45:39.502839+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-05-05T14:25:06.248673+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 11时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 14时25分]"
         },
         {
           "title": "亚太盘初，美国三大股指期货涨约0.1%。 WTI原油期货涨0.20%，暂报105.29美元/桶。",
@@ -61,7 +61,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -72,7 +72,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -94,7 +94,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         }
