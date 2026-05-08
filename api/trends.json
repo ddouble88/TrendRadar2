@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T14:05:18.342871+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-05-08T16:26:34.817184+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "WTI 6月原油期货收跌0.27美元，跌幅0.28%，报94.81美元/桶。",
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -128,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "标普500E-Mini期货上涨0.33%，纳斯达克100期货上涨0.52%，道琼斯期货上涨0.15%。",
+          "url": "https://flash.jin10.com/detail/20260508160135223800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "富时中国A50指数期货跌幅扩大至1%。",
