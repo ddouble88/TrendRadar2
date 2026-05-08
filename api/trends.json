@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T18:44:34.981679+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-05-08T20:14:02.483337+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "WTI 6月原油期货收跌0.27美元，跌幅0.28%，报94.81美元/桶。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "外资机构席位·期货品种持仓一览（5月8日）",
+          "url": "https://flash.jin10.com/detail/20260508193322554800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "期货热点追踪",
