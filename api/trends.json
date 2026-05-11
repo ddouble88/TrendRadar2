@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T12:20:05.971642+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-05-11T16:30:22.148903+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "金十数据整理：每日期货市场要闻速递（2026-05-11）",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "彭博社能源和大宗商品专栏作家Javier Blas：另一艘卡塔尔的液化天然气油轮正驶近霍尔木兹海峡入口。如果该船成功通过，这将是美伊战争爆发以来卡塔尔第二次成功出口液化天然气。",
+          "url": "https://flash.jin10.com/detail/20260511162318953800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "美国三大股指期货跌幅扩大至0.3%，罗素2000股指期货跌0.6%。",
@@ -73,7 +84,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -84,7 +95,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -95,7 +106,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -106,7 +117,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -117,7 +128,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         }
