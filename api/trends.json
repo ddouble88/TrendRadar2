@@ -1,136 +1,33 @@
 {
-  "generated_at": "2026-05-11T20:18:26.646397+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-05-12T00:07:49.621100+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
         {
-          "title": "金十数据整理：每日期货市场要闻速递（2026-05-11）",
-          "url": "https://flash.jin10.com/detail/20260511073415971800",
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260511233837630800",
           "source": "金十数据",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "00时07分"
         },
         {
-          "title": "彭博社能源和大宗商品专栏作家Javier Blas：另一艘卡塔尔的液化天然气油轮正驶近霍尔木兹海峡入口。如果该船成功通过，这将是美伊战争爆发以来卡塔尔第二次成功出口液化天然气。",
-          "url": "https://flash.jin10.com/detail/20260511162318953800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "美国三大股指期货跌幅扩大至0.3%，罗素2000股指期货跌0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3101186",
+          "title": "内盘期货夜市涨跌各异，LPG收涨3.2%",
+          "url": "https://wallstreetcn.com/livenews/3101743",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 08时02分]"
-        },
-        {
-          "title": "布伦特原油期货跳涨3.5%，此前特朗普称伊朗的回应“不可接受”。",
-          "url": "https://wallstreetcn.com/livenews/3101184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 08时02分]"
-        },
-        {
-          "title": "周一亚太盘初，标普、道指期货跌超0.2%，纳指期货跌0.1%。 COMEX黄金期货跌超0.5%，报4705美元；现货黄金跌0.3%，报4698美元。 白银跌1.2%，报79.91美元。",
-          "url": "https://wallstreetcn.com/livenews/3101183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 08时02分]"
-        },
-        {
-          "title": "美股三大股指期货周一开盘微跌。",
-          "url": "https://flash.jin10.com/detail/20260511060044695800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 08时02分]"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.06%，10年期主力合约跌0.00%，5年期主力合约涨0.00%，2年期主力合约与昨日持平。",
-          "url": "https://wallstreetcn.com/livenews/3101323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "富时中国A50指数期货涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3101316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260511113219949800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260511113216221800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。集运欧线涨超5%，燃料油、低硫燃料油（LU）涨超4%，苯乙烯（EB）、鸡蛋、碳酸锂、SC原油涨超3%，PX、PTA涨超2%；跌幅方面，多晶硅跌超2%，尿素、烧碱、硅铁、20号胶、纯碱、橡胶跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260511113042571800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
+          "time_info": "00时07分"
         }
       ]
     }
