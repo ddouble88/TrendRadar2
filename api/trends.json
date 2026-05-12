@@ -1,200 +1,33 @@
 {
-  "generated_at": "2026-05-12T23:45:22.223908+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-05-13T02:06:41.637723+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 17,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美国天然气期货日内大涨6.00%，现报2.923美元/百万英热。",
-          "url": "https://flash.jin10.com/detail/20260512024040267800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "WTI 6月原油期货收涨2.65美元，涨幅2.78%，报98.07美元/桶。 NYMEX 6月天然气期货收报2.91美元/百万英热单位。 NYMEX 6月汽油期货收报3.5998美元/加仑，NYMEX 6月取暖油期货收报3.9686美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3101818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "上期所原油期货2606合约夜盘收涨0.11%，报633.30元人民币/桶。 沪金夜盘收涨0.45%，沪银收涨6.41%。",
-          "url": "https://wallstreetcn.com/livenews/3101817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.28%，10年期主力合约涨0.05%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3102005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "周一（5月11日）纽约尾盘，标普500股指期货最终涨0.15%，道指期货涨0.22%，纳斯达克100股指期货涨0.18%。 罗素2000股指期货涨0.39%。",
-          "url": "https://wallstreetcn.com/livenews/3101868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 07时02分]"
-        },
-        {
           "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260511233837630800",
+          "url": "https://flash.jin10.com/detail/20260513013105408800",
           "source": "金十数据",
           "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 23时45分]"
-        },
-        {
-          "title": "市场聚焦今晚CPI，纳指期货跌0.8%，美伊僵局致布油跳涨2.7%，现货黄金日内跌幅达1%",
-          "url": "https://wallstreetcn.com/articles/3772040",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "02时06分"
         },
         {
-          "title": "金十期货热图",
-          "url": "https://flash.jin10.com/detail/20260512113432427800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "内盘期货夜市涨跌各异，低硫燃油涨约3.1%，LPG涨超2.7%，焦煤跌超3.2%",
-          "url": "https://wallstreetcn.com/livenews/3102395",
+          "title": "CBOT小麦期货上涨，美国农业部（USDA）预计美国冬小麦产量将锐减25%。",
+          "url": "https://wallstreetcn.com/livenews/3102419",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260512113107919800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260512113105117800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。沪银涨超6%，液化石油气（LPG）涨超5%，铂、沪铜、国际铜、燃料油、低硫燃料油（LU）涨超2%；跌幅方面，多晶硅跌超4%，工业硅、焦煤、烧碱跌超2%，生猪、氧化铝、棕榈油跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260512113033440800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "英国利率期货定价显示，到12月英国央行政策利率将收紧约68个基点，而周一预测为约56个基点。",
-          "url": "https://flash.jin10.com/detail/20260512143237050800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "内盘期货夜市涨跌各异，LPG收涨3.2%",
-          "url": "https://wallstreetcn.com/livenews/3101743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "截至23:00收盘，国内期货主力合约涨多跌少，低硫燃料油（LU）涨超3%，液化石油气（LPG）涨近3%，燃油涨超1%，合成橡胶、沥青涨近1%；跌幅方面，焦煤跌超3%，焦炭跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260512230112433800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "外资机构席位·期货品种持仓一览（5月12日）",
-          "url": "https://flash.jin10.com/detail/20260512193808018800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "布伦特原油期货涨超4美元。",
-          "url": "https://wallstreetcn.com/livenews/3101789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "02时06分"
         }
       ]
     }
