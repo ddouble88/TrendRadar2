@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T18:48:36.489753+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-05-13T21:32:18.871157+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "期货热点追踪",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时06分 ~ 18时48分]"
+        },
+        {
+          "title": "夜盘期货开盘，PVC涨2%，20号胶、橡胶、焦煤、沪铝、丙烯涨逾1%；燃油、对二甲苯、液化石油气等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3103048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "AI世界的“原油期货”要来了：芝商所官宣将推出算力期货市场",
@@ -64,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约涨多跌少，聚氯乙烯（PVC）涨超2%，20号胶、橡胶涨近2%，焦煤、合成橡胶涨超1%。跌幅方面，燃油、PX跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260513210003155800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "周二（5月12日）纽约尾盘，标普500股指期货最终跌0.22%，道指期货涨0.13%，纳斯达克100股指期货跌1%。 罗素2000股指期货跌0.99%。",
@@ -138,7 +160,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -149,7 +171,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
