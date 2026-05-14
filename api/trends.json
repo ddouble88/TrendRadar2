@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T12:52:30.418370+08:00",
-  "total_titles_processed": 849,
+  "generated_at": "2026-05-14T15:48:50.627698+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "纳指期货、道指期货涨超0.2%，标普股指期货涨0.1%。",
@@ -97,6 +97,28 @@
           "time_info": "04时54分"
         },
         {
+          "title": "今年1至4月全国期货市场累计成交额同比增长42.75%",
+          "url": "https://wallstreetcn.com/livenews/3103535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "金十期货图示",
+          "url": "https://flash.jin10.com/detail/20260514153545389800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "周三（5月13日）纽约尾盘，标普500股指期货最终涨0.69%，道指期货涨0.08%，纳斯达克100股指期货涨1.25%。 罗素2000股指期货涨0.11%。",
           "url": "https://wallstreetcn.com/livenews/3103224",
           "source": "华尔街见闻-快讯",
@@ -106,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约跌0.15%，10年期主力合约跌0.02%，5年期主力合约与昨日持平，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3103529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "纳斯达克100股指期货涨幅扩大至0.4%。",
@@ -139,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "商品期货收盘，沪银、鸡蛋、多晶硅、焦炭主力合约涨超1%。碳酸锂跌超4%，原油、液化气、集运欧线、瓶片、乙二醇跌超3%，苯乙烯、LU燃油、20号胶跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3103523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         }
       ]
     }
