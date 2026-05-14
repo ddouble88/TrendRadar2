@@ -1,210 +1,22 @@
 {
-  "generated_at": "2026-05-14T23:26:38.448442+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-05-15T02:01:53.599924+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 18,
+      "match_count": 1,
       "titles": [
         {
-          "title": "内盘期货夜市多数收跌，20号胶、低硫燃油跌超2.7%",
-          "url": "https://wallstreetcn.com/livenews/3103803",
+          "title": "数字货币普遍走高，加密货币监管草案在美国参议院通过一道障碍",
+          "url": "https://wallstreetcn.com/livenews/3103845",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "纳指期货、道指期货涨超0.2%，标普股指期货涨0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3103239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "上期所原油期货2606合约夜盘收跌3.40%，报622.20元人民币/桶。 沪金夜盘收涨0.11%，沪银收涨3.38%。",
-          "url": "https://wallstreetcn.com/livenews/3103187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 04时54分]"
-        },
-        {
-          "title": "WTI 6月原油期货收跌1.16美元，跌幅1.14报101.02美元/桶。 中东Abu Dhabi Murban原油期货跌0.80%，报105.15美元/桶。 NYMEX 6月天然气期货收报2.8640美元/百万英热单位。 NYMEX 6月汽油期货收报3.6187美元/加仑，NYMEX 6月取暖油期货收报3.9667美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3103188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260514074917515800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "金十数据整理：每日期货市场要闻速递（2026-05-14）",
-          "url": "https://flash.jin10.com/detail/20260514074742883800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "纳斯达克100指数期货日内涨幅扩大至0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3103263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "美国参议院共和党成员Kennedy将支持加密货币立法草案。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3103141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "芝加哥豆粕期货涨超2.2%，大豆油跌1.5%",
-          "url": "https://wallstreetcn.com/livenews/3103203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "今年1至4月全国期货市场累计成交额同比增长42.75%",
-          "url": "https://wallstreetcn.com/livenews/3103535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
-          "title": "金十期货图示",
-          "url": "https://flash.jin10.com/detail/20260514153545389800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren要求证券交易委员会（SEC）调查总统特朗普家族的加密货币公司World Liberty Financial。",
-          "url": "https://wallstreetcn.com/livenews/3103789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "周三（5月13日）纽约尾盘，标普500股指期货最终涨0.69%，道指期货涨0.08%，纳斯达克100股指期货涨1.25%。 罗素2000股指期货涨0.11%。",
-          "url": "https://wallstreetcn.com/livenews/3103224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "国债期货收盘，30年期主力合约跌0.15%，10年期主力合约跌0.02%，5年期主力合约与昨日持平，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3103529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
-          "title": "纳斯达克100股指期货涨幅扩大至0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3103255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）主席：祝贺沃什获得确认成为我们的下一任美联储主席。期待我们共同努力，确保美国继续在金融领域保持全球领先地位。",
-          "url": "https://flash.jin10.com/detail/20260514034220192800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "WTI 6月原油期货收跌1.16美元，跌幅1.14报101.02美元/桶。 布伦特7月原油期货收跌2.14美元，跌幅1.99%，报105.63美元/桶。 中东Abu Dhabi Murban原油期货跌0.80%，报105.15美元/桶。 NYMEX 6月天然气期货收报2.8640美元/百万英热单位。 NYMEX 6月汽油期货收报3.6187美元/加仑，NYMEX 6月取暖油期货收报3.9667美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3103188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "商品期货收盘，沪银、鸡蛋、多晶硅、焦炭主力合约涨超1%。碳酸锂跌超4%，原油、液化气、集运欧线、瓶片、乙二醇跌超3%，苯乙烯、LU燃油、20号胶跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3103523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
+          "time_info": "02时01分"
         }
       ]
     }
