@@ -1,198 +1,33 @@
 {
-  "generated_at": "2026-05-19T20:16:47.304673+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-05-20T00:28:02.156628+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 17,
+      "match_count": 2,
       "titles": [
         {
-          "title": "周一（5月18日）纽约尾盘，现货黄金涨0.55%，报4564.90美元/盎司。 COMEX黄金期货涨0.16%，报4569.30美元/盎司。 现货白银涨2.07%，报77.5614美元/盎司。 COMEX白银期货涨0.58%，报77.995美元/盎司。 COMEX铜期货涨0.56%，报6.3305美元/磅。 现货铂金跌0.06%，现货钯金涨0.42%。",
-          "url": "https://wallstreetcn.com/livenews/3105610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260519113114680800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260519113108342800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌不一，豆二涨超2%，集运欧线、豆粕涨近2%，菜粕、鸡蛋涨超1%。跌幅方面，碳酸锂跌近4%，玻璃、塑料、铁矿石跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260519113057432800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "周一（5月18日）纽约尾盘，ICE原糖期货跌0.61%，ICE白糖期货跌0.50%。 ICE阿拉比卡咖啡期货跌0.50%，咖啡“C”期货跌0.15%。罗布斯塔咖啡期货跌1.96%。 纽约可可期货跌5.85%，报3768美元/吨。伦敦可可期货跌6.05%。 ICE棉花期货涨4.26%。",
-          "url": "https://wallstreetcn.com/livenews/3105572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "恒指期货夜盘收跌0.21%，报25558点，低水117点。",
-          "url": "https://flash.jin10.com/detail/20260519030141263800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260519161701963800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.32%，10年期主力合约涨0.17%，5年期主力合约涨0.08%，2年期主力合约涨0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3105764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "芝加哥玉米期货涨超4.7%，小麦涨超4.5%，大豆涨约3%",
-          "url": "https://wallstreetcn.com/livenews/3105564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "WTI 6月原油期货收涨3.24美元，涨幅3.07%，报108.66美元/桶。 布伦特7月原油期货收涨2.84美元，涨幅2.60%，报112.10美元/桶。 中东Abu Dhabi Murban原油期货跌1.19%，报106.72美元/桶。 NYMEX 6月天然气期货收报3.0240美元/百万英热单位。 NYMEX 6月汽油期货收报3.7607美元/加仑，NYMEX 6月取暖油期货收报4.1145美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3105560",
+          "title": "【美媒称北约考虑“协助船只”通过霍尔木兹海峡】美国彭博社19日援引一名北约高级官员的话报道称，如果霍尔木兹海峡在7月初前未重新开放，北约将考虑“协助船只通过这条被阻塞水道”的可能性。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3106150",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时54分"
+          "time_info": "00时28分"
         },
         {
-          "title": "美国10年期国债期货上涨10个点，30年期国债期货上涨13个点。",
-          "url": "https://flash.jin10.com/detail/20260519060658049800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "中金所发布关于增加10年期国债期货合约可交割国债的通知",
-          "url": "https://flash.jin10.com/detail/20260519160700061800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "上期所原油期货2606合约夜盘收涨2.37%，报682元人民币/桶。 沪金夜盘收涨0.04%，沪银收涨0.85%。",
-          "url": "https://wallstreetcn.com/livenews/3105559",
+          "title": "内盘期货夜市多数收涨，燃油涨约1.9%",
+          "url": "https://wallstreetcn.com/livenews/3106146",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "美国10年期国债期货上涨10个跳动点（ticks），30年期美债期货涨13个跳动点。",
-          "url": "https://wallstreetcn.com/livenews/3105635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "WTI原油期货7月跌2.1%，特朗普暂缓袭击伊朗的计划。",
-          "url": "https://wallstreetcn.com/livenews/3105634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "外资机构席位·期货品种持仓一览（5月19日）",
-          "url": "https://flash.jin10.com/detail/20260519193703836800",
-          "source": "金十数据",
-          "ranks": [
-            25
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时16分"
-        },
-        {
-          "title": "国债期货收盘，30年期主力合约涨0.56%，10年期主力合约涨0.15%，5年期主力合约涨0.06%，2年期主力合约涨0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3105884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "00时28分"
         }
       ]
     }
