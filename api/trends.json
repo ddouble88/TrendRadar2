@@ -1,12 +1,56 @@
 {
-  "generated_at": "2026-05-20T00:28:02.156628+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-05-20T03:08:12.994729+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "恒指期货夜盘收跌0.4%，报25603点，低水195点。",
+          "url": "https://flash.jin10.com/detail/20260520030224055800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "周二（5月19日）纽约尾盘，彭博谷物分类指数跌0.14%，报32.8808点，北京时间14:45涨至33.3410点刷新日高，随后逐步下挫。 CBOT玉米期货跌0.37%，CBOT小麦期货涨0.53%。 CBOT大豆期货跌0.23%，报12.1025美元/蒲式耳，豆粕期货跌0.66%，豆油期货跌0.34%。",
+          "url": "https://wallstreetcn.com/livenews/3106221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "WTI 6月原油期货收跌0.89美元，跌幅0.82报107.77美元/桶。 布伦特7月原油期货收跌0.82美元，跌幅0.73%，报111.28美元/桶。 中东Abu Dhabi Murban原油期货跌1.79%，报106.35美元/桶。 NYMEX 6月天然气期货收报3.1140美元/百万英热单位。 NYMEX 6月汽油期货收报3.6962美元/加仑，NYMEX 6月取暖油期货收报4.1625美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3106210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "上期所原油期货2607合约夜盘收涨2.40%，报690元人民币/桶。 沪金夜盘收跌1.11%，沪银收跌3.44%。",
+          "url": "https://wallstreetcn.com/livenews/3106209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
         {
           "title": "【美媒称北约考虑“协助船只”通过霍尔木兹海峡】美国彭博社19日援引一名北约高级官员的话报道称，如果霍尔木兹海峡在7月初前未重新开放，北约将考虑“协助船只通过这条被阻塞水道”的可能性。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3106150",
@@ -14,7 +58,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
         },
@@ -25,9 +69,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美国副总统万斯称，“无法说我们对‘将与伊朗达成一份协议’有信心”。WTI原油期货跌幅收窄至0.7%，重返103.65美元一线。",
+          "url": "https://wallstreetcn.com/livenews/3106199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
         }
       ]
     }
