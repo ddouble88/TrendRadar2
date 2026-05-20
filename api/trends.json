@@ -1,166 +1,33 @@
 {
-  "generated_at": "2026-05-20T23:51:40.686915+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2026-05-21T02:25:15.154480+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
         {
-          "title": "恒指期货夜盘收跌0.4%，报25603点，低水195点。",
-          "url": "https://flash.jin10.com/detail/20260520030224055800",
+          "title": "WTI原油期货回落至97美元/桶下方，日内跌6.87%。",
+          "url": "https://flash.jin10.com/detail/20260521011906083800",
           "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "周二（5月19日）纽约尾盘，彭博谷物分类指数跌0.14%，报32.8808点，北京时间14:45涨至33.3410点刷新日高，随后逐步下挫。 CBOT玉米期货跌0.37%，CBOT小麦期货涨0.53%。 CBOT大豆期货跌0.23%，报12.1025美元/蒲式耳，豆粕期货跌0.66%，豆油期货跌0.34%。",
-          "url": "https://wallstreetcn.com/livenews/3106221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "荷兰天然气期货跌5.8%，至49欧元下方，投资者紧盯美国与伊朗对话的动向。",
-          "url": "https://wallstreetcn.com/livenews/3106829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "周二（5月19日）纽约尾盘，标普500股指期货最终跌0.69%，道指期货跌0.67%，纳斯达克100股指期货跌0.66%。 罗素2000股指期货跌1.03%。",
-          "url": "https://wallstreetcn.com/livenews/3106258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 07时12分]"
-        },
-        {
-          "title": "外资机构席位·期货品种持仓一览（5月20日）",
-          "url": "https://flash.jin10.com/detail/20260520193542125800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "布伦特原油日内跌幅达7.0%，报103.44美元/桶；WTI原油日内跌幅达6.5%，报97.31美元/桶。 美国10年期国债收益率跌10个基点，至4.56%。 上期所原油期货夜盘跌幅扩大至6.11%，现报641元人民币/桶。 据Pool Report报道，美国总统特朗普声称，与伊朗的对话处于“最终阶段”。",
-          "url": "https://wallstreetcn.com/livenews/3106827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "周二（5月19日）纽约尾盘，现货黄金下跌1.83%，报4482.85美元/盎司，全天持续走低，北京时间20:59出现一波加速下跌行情，整体交投区间为4589.22-4464.95美元。 COMEX黄金期货跌1.57%，报4486.30美元/盎司，日内交投于4593.20-4467.10美元，逼近3月30日盘中低点4444.70美元、3月23日底部4128.50美元，彭博数据显示，200日均线已经上移至4415.83美元，5月7日左右，50日均线已经跌穿100日均线（目前分别报4719.72美元、4828.61美元）。",
-          "url": "https://wallstreetcn.com/livenews/3106255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "内盘期货夜市多数收跌，低硫燃油夜盘收跌3.87%，燃油跌3.07%，LPG跌2.46%，PVC跌1.28%，对二甲苯、豆一、塑料、乙二醇、甲醇、聚丙烯至少跌1%，铁矿石跌0.56%。 焦炭、焦煤则至多收涨0.12%，20号胶涨0.47%。",
-          "url": "https://wallstreetcn.com/livenews/3106822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "WTI 6月原油期货收跌0.89美元，跌幅0.82报107.77美元/桶。 布伦特7月原油期货收跌0.82美元，跌幅0.73%，报111.28美元/桶。 中东Abu Dhabi Murban原油期货跌1.79%，报106.35美元/桶。 NYMEX 6月天然气期货收报3.1140美元/百万英热单位。 NYMEX 6月汽油期货收报3.6962美元/加仑，NYMEX 6月取暖油期货收报4.1625美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3106210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "上期所原油期货2607合约夜盘收涨2.40%，报690元人民币/桶。 沪金夜盘收跌1.11%，沪银收跌3.44%。",
-          "url": "https://wallstreetcn.com/livenews/3106209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "【美媒称北约考虑“协助船只”通过霍尔木兹海峡】美国彭博社19日援引一名北约高级官员的话报道称，如果霍尔木兹海峡在7月初前未重新开放，北约将考虑“协助船只通过这条被阻塞水道”的可能性。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3106150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.09%，10年期主力合约涨0.07%，5年期主力合约涨0.05%，2年期主力合约涨0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3106429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "内盘期货夜市多数收涨，燃油涨约1.9%",
-          "url": "https://wallstreetcn.com/livenews/3106146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美国副总统万斯称，“无法说我们对‘将与伊朗达成一份协议’有信心”。WTI原油期货跌幅收窄至0.7%，重返103.65美元一线。",
-          "url": "https://wallstreetcn.com/livenews/3106199",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "02时25分"
+        },
+        {
+          "title": "周三（5月20日）欧市尾盘，ICE英国天然气期货跌5.25%，报120.000便士/千卡，北京时间22:14开启加速下跌行情。 TTF基准荷兰天然气期货跌5.63%，报49.065欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）涨1.10%，报74.76欧元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3106856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         }
       ]
     }
