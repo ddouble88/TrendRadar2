@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-22T12:16:33.389115+08:00",
-  "total_titles_processed": 785,
+  "generated_at": "2026-05-22T16:27:04.404716+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "中国证监会等八部门印发《综合整治非法跨境证券期货基金经营活动实施方案》。",
+          "url": "https://flash.jin10.com/detail/20260522160935371800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
         {
           "title": "WTI 7月原油期货收跌1.91美元，跌幅1.94%，报96.35美元/桶。 NYMEX 6月天然气期货收报3.0180美元/百万英热单位。 NYMEX 6月汽油期货收报3.3796美元/加仑，NYMEX 6月取暖油期货收报3.8316美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3107591",
@@ -19,6 +30,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "【中国证监会拟对老虎、富途、长桥依法严厉处罚】中国证监会5月22日宣布，Tiger Brokers（NZ）Limited、富途证券国际（香港）有限公司、长桥证券（香港）有限公司的非法跨境展业行为，违反了我国证券基金期货法律法规，破坏了市场秩序，必须坚决予以打击。依据相关规定，证监会拟决定没收老虎、富途、长桥境内外相关主体全部违法所得，并依法严厉处罚。(新华社)",
+          "url": "https://wallstreetcn.com/livenews/3107919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "上期所原油期货2607合约夜盘收跌3.41%，报633.60元人民币/桶。 沪金夜盘收涨0.43%，沪银收涨1.85%。",
           "url": "https://wallstreetcn.com/livenews/3107590",
           "source": "华尔街见闻-快讯",
@@ -28,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "证监会等八部门：经过2年集中整治，全面取缔境外证券期货基金经营机构非法跨境经营活动",
+          "url": "https://wallstreetcn.com/livenews/3107914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "周四（5月21日）纽约尾盘，标普500股指期货最终涨0.19%，道指期货涨0.61%，纳斯达克100股指期货涨0.22%。 罗素2000股指期货涨0.86%。",
@@ -48,9 +81,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260522160611078800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "国债期货早盘收盘",
@@ -59,7 +103,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -70,7 +114,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -81,7 +125,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -95,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约涨0.19%，10年期主力合约跌0.04%，5年期主力合约跌0.03%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3107884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "芝加哥小麦期货跌超1.9%，豆粕、大豆油跌约1.1%",
