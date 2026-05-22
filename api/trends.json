@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T19:50:39.341107+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-05-22T22:53:03.649715+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "整治非法跨境证券期货基金经营活动，证监会等八部门联合出手",
@@ -14,9 +14,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时53分]"
+        },
+        {
+          "title": "证监会等八部门：全面取缔境外证券期货基金非法跨境经营活动，设置两年集中整治期",
+          "url": "https://wallstreetcn.com/articles/3772917",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时53分]"
         },
         {
           "title": "中国证监会等八部门印发《综合整治非法跨境证券期货基金经营活动实施方案》。",
@@ -52,17 +64,6 @@
           "time_info": "16时27分"
         },
         {
-          "title": "证监会等八部门：全面取缔境外证券期货基金非法跨境经营活动，设置两年集中整治期",
-          "url": "https://wallstreetcn.com/articles/3772917",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
           "title": "上期所原油期货2607合约夜盘收跌3.41%，报633.60元人民币/桶。 沪金夜盘收涨0.43%，沪银收涨1.85%。",
           "url": "https://wallstreetcn.com/livenews/3107590",
           "source": "华尔街见闻-快讯",
@@ -80,7 +81,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -136,7 +137,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -172,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "市场定价显示，美国利率期货交易员现预计美联储最早将于10月加息。",
+          "url": "https://flash.jin10.com/detail/20260522220219698800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "加密货币交易平台Blockchain.com秘密提交IPO申请",
