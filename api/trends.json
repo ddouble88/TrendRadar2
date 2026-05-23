@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T19:19:23.540677+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-05-23T21:52:43.155067+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 19时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 21时52分]"
         },
         {
           "title": "恒指期货夜盘收跌0.49%，报25430点，低水176点。",
