@@ -1,146 +1,22 @@
 {
-  "generated_at": "2026-05-23T23:08:27.764152+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-05-24T01:11:00.221146+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 12,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "证监会等八部门：全面取缔境外证券期货基金非法跨境经营活动，设置两年集中整治期",
-          "url": "https://wallstreetcn.com/articles/3772917",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时13分 ~ 17时07分]"
-        },
         {
           "title": "【早报】8部门出手，整治非法跨境证券期货基金经营活动；证监会拟对老虎、富途、长桥依法严厉处罚",
           "url": "https://www.cls.cn/detail/2379666",
           "source": "财联社热门",
           "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时54分 ~ 23时08分]"
-        },
-        {
-          "title": "整治非法跨境证券期货基金经营活动，证监会等八部门联合出手",
-          "url": "https://www.cls.cn/detail/2379069",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时19分]"
-        },
-        {
-          "title": "恒指期货夜盘收跌0.49%，报25430点，低水176点。",
-          "url": "https://flash.jin10.com/detail/20260523030423013800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        },
-        {
-          "title": "国际原油期货结算价收涨",
-          "url": "https://flash.jin10.com/detail/20260523025403202800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：5月19日当周，投机者所持NYMEX WTI原油净多头头寸增加9,191手合约，至138,774手合约，创四周新高。 所持布伦特与WTI原油净多头头寸增加2,361手合约，至461,892手合约。 所持NYMEX汽油净多头头寸降低至62,629手合约。 所持NYMEX天然气净多头头寸降低至15,270手合约，创18个月新低。",
-          "url": "https://wallstreetcn.com/livenews/3108216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时58分 ~ 05时19分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：5月19日当周，投机者所持COMEX黄金净多头头寸减少6,239手合约，至94,388手合约。 所持COMEX铜净多头头寸增加1,476手合约，至74.999手合约，创21周新高。 所持NYMEX铂金净多头头寸降低至94,388手合约，创三周新低。 所持NYMEX钯金净空头头寸达到2,773手合约，创七个月新高。",
-          "url": "https://wallstreetcn.com/livenews/3108215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时58分 ~ 05时19分]"
-        },
-        {
-          "title": "芝加哥玉米、小麦、大豆期货本周涨超1.7%",
-          "url": "https://wallstreetcn.com/livenews/3108210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        },
-        {
-          "title": "WTI 6月原油期货收涨0.25美元，涨幅0.26%，报96.60美元/桶。 布伦特7月原油期货收涨0.96美元，涨幅0.94%，报103.54美元/桶。 中东Abu Dhabi Murban原油期货die 1.76%，报100.35美元/桶，本周累计下跌7.08%。 NYMEX 6月天然气期货收报2.9070美元/百万英热单位。 NYMEX 6月汽油期货收报3.4539美元/加仑，NYMEX 6月取暖油期货收报3.8878美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3108204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        },
-        {
-          "title": "上期所原油期货2607合约夜盘收跌1.88%，报638.40元人民币/桶。 沪金夜盘收跌0.10%，沪银收涨0.51%。",
-          "url": "https://wallstreetcn.com/livenews/3108203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        },
-        {
-          "title": "周五（5月22日）纽约尾盘，标普500股指期货最终涨0.29%，道指期货涨0.51%，纳斯达克100股指期货涨0.30%。 罗素2000股指期货涨0.69%。",
-          "url": "https://wallstreetcn.com/livenews/3108252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        },
-        {
-          "title": "WTI原油期货目前跌0.75%，报95.63美元。",
-          "url": "https://wallstreetcn.com/livenews/3108189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
+          "time_info": "[01时10分 ~ 01时11分]"
         }
       ]
     }
