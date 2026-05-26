@@ -1,191 +1,33 @@
 {
-  "generated_at": "2026-05-26T16:37:26.950178+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-05-27T00:46:57.698008+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 16,
+      "match_count": 2,
       "titles": [
         {
-          "title": "周一，WTI原油期货最终下跌6.52%，报90.30美元。",
-          "url": "https://wallstreetcn.com/livenews/3109014",
+          "title": "内盘期货夜市涨跌各异，燃油收涨1.6%，焦煤跌约1.5%，焦炭跌2%",
+          "url": "https://wallstreetcn.com/livenews/3109548",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            16
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 05时17分]"
+          "appearance_count": 1,
+          "time_info": "00时46分"
         },
         {
-          "title": "上期所原油期货2607合约夜盘收跌3.04%，报602.80元人民币/桶。 沪金夜盘收涨0.71%，沪银收涨1.62%。",
-          "url": "https://wallstreetcn.com/livenews/3109006",
+          "title": "长周末归来，纽约可可期货持续上涨，目前涨9.8%刷新日高至4175美元；（伦敦上市的）可可期货也涨9.1%。 在可可豆产量存在风险之际，投资者加大空头回补的力度。",
+          "url": "https://wallstreetcn.com/livenews/3109540",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 05时17分]"
-        },
-        {
-          "title": "周一（5月25日）欧市尾盘，TTF基准荷兰天然气期货跌6.08%，报45.601欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）跌0.16%，报75.78欧元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3109002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 05时17分]"
-        },
-        {
-          "title": "周一（5月25日），标普500股指期货最终涨0.95%，道指期货涨0.91%，纳斯达克100股指期货涨1.35%，罗素2000股指期货涨1.57%。",
-          "url": "https://wallstreetcn.com/livenews/3109001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 05时17分]"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.17%，10年期主力合约涨0.03%，5年期主力合约涨0.01%，2年期主力合约涨0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3109173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "金十期货热图",
-          "url": "https://flash.jin10.com/detail/20260526114524923800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "标普500股指期货涨0.9%，纳指期货涨1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3109044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "WTI原油期货跌破90美元/桶，为5月7日以来首次。",
-          "url": "https://flash.jin10.com/detail/20260526011633800800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "美股三大股指期货走高，纳斯达克期货上涨1.3%，标普500指数期货涨0.9%，道指期货涨0.87%。",
-          "url": "https://flash.jin10.com/detail/20260526060620011800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260526113132451800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "布伦特7月原油期货收跌7.40美元，跌幅超过7.14%，报96.14美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3108993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "股指期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260526113123240800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260525233806653800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，苯乙烯（EB）、SC原油跌超3%，纯苯跌近3%，硅铁、合成橡胶、聚丙烯、丙烯、甲醇跌超2%。涨幅方面，焦煤涨超6%，氧化铝涨超5%，焦炭涨超2%，沪锡涨超1%，棉花、纸浆、鸡蛋涨近1%。",
-          "url": "https://flash.jin10.com/detail/20260526113101471800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "标普500指数期货上涨0.5%、纳指期货上涨0.7%、道指期货上涨0.5%。",
-          "url": "https://flash.jin10.com/detail/20260526160429897800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "WTI原油期货跌超6.6%，报90.15美元。",
-          "url": "https://wallstreetcn.com/livenews/3108981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "time_info": "00时46分"
         }
       ]
     }
