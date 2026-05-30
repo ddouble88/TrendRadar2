@@ -1,189 +1,22 @@
 {
-  "generated_at": "2026-05-30T22:43:56.914306+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-05-31T00:09:47.445303+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 16,
+      "match_count": 1,
       "titles": [
         {
-          "title": "恒指期货夜盘收涨0.44%，报25098点，低水84点。",
-          "url": "https://flash.jin10.com/detail/20260530030357626800",
-          "source": "金十数据",
+          "title": "美国没收伊朗 10 亿美元加密货币资产，切断伊朗航空公司获取降落点、加油和售票的渠道，对局势有何影响？",
+          "url": "https://www.zhihu.com/question/2043976799139492397",
+          "source": "知乎",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "周五（5月29日）纽约尾盘，标普500股指期货最终涨0.18%，道指期货涨0.66%，纳斯达克100股指期货涨0.33%。 罗素2000股指期货跌0.69%。",
-          "url": "https://wallstreetcn.com/livenews/3111645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时23分]"
-        },
-        {
-          "title": "Kraken计划未来30天内在美国市场推出接受商品期货交易委员会（CFTC）监管的永续期货。",
-          "url": "https://wallstreetcn.com/livenews/3111640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时23分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至5月26日当周，投机者将美国2年期国债期货的净空头头寸减少30.5万份合约，降至1,255,246份；将美国10年期国债期货的净空头头寸减少60,098份合约，降至787,954份。",
-          "url": "https://flash.jin10.com/detail/20260530034220827800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时23分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至5月26日当周，投机者将美国国债期货净空头头寸增加20,577份合约，达到199,251份。",
-          "url": "https://flash.jin10.com/detail/20260530034121625800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时23分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至5月26日当周，COMEX铜期货投机者净多头头寸减少3,025手，降至71,974手。",
-          "url": "https://flash.jin10.com/detail/20260530034051994800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时23分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至5月26日当周，四大纽约商业交易所（NYMEX）和洲际交易所（ICE）市场的天然气投机者净空头头寸增加39,397份合约，达到41,422份。",
-          "url": "https://flash.jin10.com/detail/20260530034023511800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时23分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至5月26日当周，COMEX白银投机者净多头头寸减少1,517手，降至10,244手。",
-          "url": "https://flash.jin10.com/detail/20260530033948215800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时23分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至5月26日当周，COMEX黄金投机者净多头头寸增加2,544份合约，达到96,931份。",
-          "url": "https://flash.jin10.com/detail/20260530033936137800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时23分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至5月26日当周，原油投机者将WTI净多头头寸减少19,186份合约，至91,163份。",
-          "url": "https://flash.jin10.com/detail/20260530033913661800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时23分]"
-        },
-        {
-          "title": "布伦特原油期货结算价为每桶92.05美元，下跌1.66美元，跌幅1.77%。",
-          "url": "https://flash.jin10.com/detail/20260530024612142800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "据彭博社援引一位直接了解情况的人士报道，伊朗对科威特一处空军基地发动的弹道导弹袭击造成数名美国人受轻伤，并严重损坏了两架美国MQ-9“收割者”无人机。",
-          "url": "https://flash.jin10.com/detail/20260530143011028800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "布伦特原油期货5月跌超16%",
-          "url": "https://wallstreetcn.com/livenews/3111595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "上期所原油期货2607合约夜盘收跌1.61%，报580.30元人民币/桶。 沪金夜盘收涨1.61%，沪银收涨0.64%。",
-          "url": "https://wallstreetcn.com/livenews/3111594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "美国原油期货结算价为每桶87.36美元，下跌1.54美元，跌幅1.73%。",
-          "url": "https://flash.jin10.com/detail/20260530023055708800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "欧洲天然气期货5月份冲高回落，整体跌超1.7%",
-          "url": "https://wallstreetcn.com/livenews/3111548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "time_info": "00时09分"
         }
       ]
     }
