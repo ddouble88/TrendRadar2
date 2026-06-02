@@ -1,143 +1,44 @@
 {
-  "generated_at": "2026-06-02T22:14:04.136140+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-06-03T02:48:21.712901+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 12,
+      "match_count": 3,
       "titles": [
         {
-          "title": "为什么号称绝对安全的加密货币，频繁被美国政府没收？",
-          "url": "https://www.zhihu.com/question/2044381381808100105",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 07时08分]"
-        },
-        {
-          "title": "上海：做好算力期货研发准备，推动科创50、深证100、创业板股指期货和期权上市",
-          "url": "https://www.cls.cn/detail/2388194",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260602122509770800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "美国伊利诺伊州将对网络数字广告、社交媒体、预测市场、加密货币征税，从而支撑当地的2027财年预算。",
-          "url": "https://wallstreetcn.com/livenews/3112636",
+          "title": "WTI 7月原油期货收涨1.60美元，涨幅1.74%，报93.76美元/桶。 NYMEX 7月天然气期货收报3.1670美元/百万英热单位。 NYMEX 7月汽油期货收报3.1443美元/加仑，NYMEX 7月取暖油期货收报3.6987美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3113241",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "02时48分"
         },
         {
-          "title": "美国芝商所（CME）启动加密货币期货与期权全天候（7*24）交易。",
-          "url": "https://wallstreetcn.com/livenews/3112625",
+          "title": "上期所原油期货2607合约夜盘收跌0.41%，报603.60元人民币/桶。 沪金夜盘收涨0.17%，沪银收涨0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3113240",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "02时48分"
         },
         {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.16%，10年期主力合约跌0.00%，5年期主力合约与昨日持平，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3112799",
+          "title": "逾10亿美元加密货币遭强制平仓，比特币跌至两个月最低",
+          "url": "https://wallstreetcn.com/livenews/3113239",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "周一（6月1日）纽约尾盘，标普500股指期货最终涨0.21%，道指期货涨0.04%，纳斯达克100股指期货涨0.44%。 罗素2000股指期货跌0.61%。",
-          "url": "https://wallstreetcn.com/livenews/3112656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "芝加哥豆粕期货跌约1%，大豆油涨1.7%",
-          "url": "https://wallstreetcn.com/livenews/3112618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "ICE原糖期货涨幅达3.5%，报14.57美分。",
-          "url": "https://wallstreetcn.com/livenews/3112547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "美国原油期货收涨大约5.5%",
-          "url": "https://wallstreetcn.com/livenews/3112611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "上期所原油期货2607合约夜盘收涨3.57%，报605.70元人民币/桶。 沪金夜盘收跌1.28%，沪银收跌0.73%。",
-          "url": "https://wallstreetcn.com/livenews/3112610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "内盘期货夜市多数收涨，低硫燃油涨约5.4%，LPG涨约5.3%",
-          "url": "https://wallstreetcn.com/livenews/3112539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "time_info": "02时48分"
         }
       ]
     }
