@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T12:48:51.210549+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-06-04T16:55:47.282696+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 16时55分]"
         },
         {
           "title": "周三（6月3日）纽约尾盘，标普500股指期货最终跌0.98%，道指期货跌1.20%，纳斯达克100股指期货跌0.73%。 罗素2000股指期货跌1.46%。",
@@ -47,7 +47,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
