@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T15:54:10.421901+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-06-06T18:12:34.705332+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             6,
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 15时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 18时12分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -29,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时15分 ~ 15时54分]"
+          "appearance_count": 5,
+          "time_info": "[08时15分 ~ 18时12分]"
         },
         {
           "title": "WTI 7月原油期货收跌2.50美元，跌幅2.69%，报90.54美元/桶。 中东Abu Dhabi Murban原油期货跌2.49%，报91.17美元/桶，本周冲高回落累涨1.24%。 NYMEX 7月天然气期货收报3.2290美元/百万英热单位。 NYMEX 7月汽油期货收报3.0459美元/加仑，NYMEX 7月取暖油期货收报3.5874美元/加仑。",
