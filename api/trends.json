@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-06-07T22:09:31.447552+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2026-06-08T00:23:56.005473+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
-          "url": "https://wallstreetcn.com/articles/3773946",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 06时10分]"
-        },
-        {
-          "title": "美非农大超预期打击降息前景 纳指期货盘前跌超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2392284",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 06时10分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
