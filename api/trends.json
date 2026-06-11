@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T18:54:46.574368+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-06-11T22:45:48.850362+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "WTI原油期货高开大约3%。 周四亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.5%。 据新华社报道，美军于美东时间10日17时15分开始对伊朗境内多个目标实施“自卫性”打击。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "多晶硅期货“底部躁动”今日大涨 业内预计出清传闻短期难改基本面",
+          "url": "https://www.cls.cn/detail/2397533",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "SpaceX等超级IPO排队来袭 华尔街警告加密货币市场压力加剧",
@@ -86,6 +97,17 @@
           "time_info": "08时23分"
         },
         {
+          "title": "黄金期货价格较近期高点下跌 20%，四年来首次正式迈入熊市，黄金到底为什么崩了？",
+          "url": "https://www.zhihu.com/question/2048414803740160205",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "金十数据整理：每日期货市场要闻速递（2026-06-11）",
           "url": "https://flash.jin10.com/detail/20260611074623421800",
           "source": "金十数据",
@@ -114,7 +136,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         }
