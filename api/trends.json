@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T08:23:03.948735+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-06-11T13:58:21.559164+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2396534",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时22分 ~ 08时23分]"
+          "appearance_count": 3,
+          "time_info": "[08时22分 ~ 13时58分]"
         },
         {
           "title": "芝加哥大豆期货涨超0.6%",
@@ -80,7 +81,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         },
@@ -91,7 +92,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         },
