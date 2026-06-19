@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T18:49:18.279379+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-06-19T22:16:59.239022+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,24 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "广东省：支持广州期货交易所丰富期货产品体系，完善全期货产业链",
-          "url": "https://flash.jin10.com/detail/20260619182229689800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
           "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
           "url": "https://wallstreetcn.com/articles/3775074",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 22时16分]"
+        },
+        {
+          "title": "广东省：支持广州期货交易所丰富期货产品体系，完善全期货产业链",
+          "url": "https://flash.jin10.com/detail/20260619182229689800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -60,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 18时49分]"
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 22时16分]"
         },
         {
           "title": "周四（6月18日）纽约尾盘，现货黄金跌1.10%，报4210.35美元/盎司，亚太早盘上涨、北京时间10:13刷新日高至4329.87美元，14:00以来持续走低。 COMEX黄金期货跌3.41%，报4232.00美元/盎司。 现货白银跌3.27%，报65.7071美元/盎司。 COMEX白银期货跌3.09%，报66.385美元/盎司。 COMEX铜期货跌1.76%，报6.4425美元/磅。 现货铂金跌2.40%，现货钯金跌2.79%。",
