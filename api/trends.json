@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T13:09:13.784470+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-06-23T17:56:37.286582+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "期货热点追踪",
@@ -20,13 +20,24 @@
           "time_info": "[08时15分 ~ 13时09分]"
         },
         {
+          "title": "科技热潮降温 ，全球股市“黑色星期二”，纳指期货跌2%，美光盘前跌超10%，韩股收跌10%，现货黄金失守4100",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "沪深300股指期货（IF）主力合约日内跌超2.00%，现报4875.0点。",
           "url": "https://flash.jin10.com/detail/20260623130055140800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -37,7 +48,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -48,7 +59,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
