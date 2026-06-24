@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T19:51:10.557497+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-06-24T22:46:40.123741+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时05分 ~ 07时13分]"
+        },
+        {
+          "title": "美国汽油期货跌幅小幅扩大，最新下跌2.74%。",
+          "url": "https://flash.jin10.com/detail/20260624223956185800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "WTI原油期货维持4.2%的跌幅，目前交投于70美元关口上方，最新数据显示，美国上周EIA原油库存下降609万桶，降幅超过彭博用户与受访分析师的预期。",
+          "url": "https://wallstreetcn.com/livenews/3124110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "美国三大股指期货转跌。",
@@ -59,7 +81,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -70,7 +92,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -81,7 +103,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
