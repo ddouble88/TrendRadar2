@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T20:18:29.527402+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-06-26T23:28:27.973445+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "周五亚太盘初，纳斯达克100指数股指期货跌0.3%，道指期货涨0.15%。",
@@ -82,7 +82,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -96,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨跌不一，合成橡胶跌超2%，燃料油、20号胶、聚氯乙烯（PVC）跌超1%，苯乙烯（EB）、纯碱、低硫燃料油（LU）跌近1%。涨幅方面，焦炭、焦煤涨超1%，淀粉、菜粕、豆二涨近1%。",
+          "url": "https://flash.jin10.com/detail/20260626230055937800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "周四（6月25日）纽约尾盘，现货黄金涨0.64%，报4024.97美元/盎司。 COMEX黄金期货涨0.78%，报4040.10美元/盎司。 现货白银涨0.73%，报57.8327美元/盎司。 COMEX白银期货跌0.38%，报58.290美元/盎司。 COMEX铜期货涨2.03%，报6.1335美元/磅。 现货铂金涨1.08%，现货钯金涨1.43%。",
