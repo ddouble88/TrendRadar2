@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T08:16:01.245721+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-06-29T13:57:05.041755+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "纳指期货早盘涨幅扩大至1%，标普500指数期货涨0.6%，道指期货涨0.38%。",
@@ -14,7 +14,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -25,9 +25,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
+        },
+        {
+          "title": "中证1000股指期货（IM）主力合约日内跌超2.00%，现报8156.8点。",
+          "url": "https://flash.jin10.com/detail/20260629130939340800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "布伦特原油期货周一亚市盘初涨1.9%，至每桶73.39美元；WTI原油期货接近每桶70美元。此前美伊停火协议陷入紧张状态。",
@@ -36,7 +47,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         }
