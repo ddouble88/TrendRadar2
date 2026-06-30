@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T08:13:07.548175+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-06-30T13:11:58.418680+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "周一（6月29日）纽约尾盘，标普500股指期货最终涨1.09%，道指期货涨0.54%，纳斯达克100股指期货涨2.05%。 罗素2000股指期货跌0.01%。",
@@ -43,6 +43,28 @@
           "time_info": "[04时52分 ~ 06时15分]"
         },
         {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260630124659585800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.37%，10年期主力合约跌0.09%，5年期主力合约跌0.05%，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3126462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "周一（6月29日）欧市尾盘，ICE英国天然气期货涨4.90%，报102.590便士/千卡，北京时间22:00过后出现一波加速上涨行情、一度达到103.670便士。 TTF基准荷兰天然气期货涨2.51%，报42.560欧元/兆瓦时，22:25也曾一度拉升至42.914欧元。 ICE欧盟碳排放交易许可（期货价格）跌1.69%，报77.90欧元/吨。",
           "url": "https://wallstreetcn.com/livenews/3126261",
           "source": "华尔街见闻-快讯",
@@ -60,7 +82,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         }
