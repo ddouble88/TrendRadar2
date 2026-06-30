@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T20:17:14.502060+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-06-30T23:36:13.293033+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "金十期货热图",
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "宁王枧下窝锂矿复产在即？碳酸锂期货本月震荡起伏 钠电商业化加速分流需求",
+          "url": "https://www.cls.cn/detail/2413330",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时35分 ~ 23时36分]"
         },
         {
           "title": "WTI 8月原油期货收涨1.52美元，涨幅2.20%，报70.75美元/桶。 布伦特7月原油期货收涨1.16美元，涨幅1.661%，报73.15美元/桶。 NYMEX 8月天然气期货收报3.1810美元/百万英热单位。 NYMEX 7月汽油期货收报3.0614美元/加仑，NYMEX 7月取暖油期货收报3.3317美元/加仑。",
@@ -71,7 +82,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -93,7 +104,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -115,7 +126,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -137,7 +148,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         }
