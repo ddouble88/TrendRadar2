@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T06:23:29.042200+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-07-01T08:15:39.620942+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时04分 ~ 06时23分]"
+          "appearance_count": 4,
+          "time_info": "[02时04分 ~ 08时15分]"
         },
         {
           "title": "加密货币市场二季度普跌，比特币已累跌超14%，以太币累跌超25%",
@@ -49,7 +49,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -82,7 +82,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -93,7 +93,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
