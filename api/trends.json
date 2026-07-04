@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T06:11:25.710071+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-07-04T08:12:43.544225+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 04时19分]"
+        },
+        {
+          "title": "恒指期货夜盘收跌0.2%，报23253点，低水97点。",
+          "url": "https://flash.jin10.com/detail/20260704030155971800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 08时12分]"
+        },
+        {
+          "title": "洲际交易所（ICE）：截至6月30日当周，布伦特原油期货投机者削减了34,704手净多头头寸，降至55,634手。柴油期货投机者削减了2,664手净多头头寸，降至57,852手。",
+          "url": "https://flash.jin10.com/detail/20260704025342619800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 08时12分]"
         },
         {
           "title": "布伦特9月原油期货收涨0.32美元，涨幅超过0.44%，报72.12美元/桶，本周累计下跌0.66%。 中东Abu Dhabi Murban原油期货涨1.47%，报66.18美元/桶，本周累跌1.61%。",
@@ -38,28 +60,6 @@
           "ranks": [
             15,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 06时11分]"
-        },
-        {
-          "title": "恒指期货夜盘收跌0.2%，报23253点，低水97点。",
-          "url": "https://flash.jin10.com/detail/20260704030155971800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 06时11分]"
-        },
-        {
-          "title": "洲际交易所（ICE）：截至6月30日当周，布伦特原油期货投机者削减了34,704手净多头头寸，降至55,634手。柴油期货投机者削减了2,664手净多头头寸，降至57,852手。",
-          "url": "https://flash.jin10.com/detail/20260704025342619800",
-          "source": "金十数据",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
