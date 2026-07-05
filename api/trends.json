@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-06T05:10:50.533666+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-07-06T07:08:31.712228+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳指期货周一亚市盘初涨逾1%",
+          "url": "https://wallstreetcn.com/livenews/3129020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
