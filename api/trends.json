@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T19:58:29.135886+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-07-07T22:57:34.383762+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股期指延续涨势 纳斯达克100指数期货涨超1% | 今夜看点",
@@ -60,7 +60,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -87,6 +87,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 06时22分]"
+        },
+        {
+          "title": "三星财报引发全球芯片股回调 纳斯达克100指数期货跌近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2419563",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "周一（7月6日）纽约尾盘，标普500股指期货最终涨0.83%，道指期货涨0.39%，纳斯达克100股指期货涨1.28%。 罗素2000股指期货涨0.69%。",
@@ -153,6 +164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "期货交易夜读 | 学会等待，是交易最大的修行",
+          "url": "https://flash.jin10.com/detail/20260707220252449800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：6月30日当周，投机者所持COMEX黄金净多头头寸增加3,808手合约，至116,817手合约。 所持COMEX白银净多头头寸增加至12,747手合约，创逾七周新高。 所持COMEX铜净多头头寸减少至61,367手合约，创逾九周新低。 所持NYMEX铂金净多头头寸减少至7,862手合约，创超过十六周新低。 所持NYMEX钯金净空头头寸增加至5,989手合月，创大约十个月新高。",
@@ -238,7 +260,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
