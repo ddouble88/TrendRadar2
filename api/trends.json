@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T18:26:36.444598+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-07-08T20:26:52.614075+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "期货热点追踪",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
+        },
+        {
+          "title": "标普500指数期货回吐部分跌幅，目前下跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20260708200804789800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "英国天然气期货涨超7.2%，卡塔尔LNG船只在霍尔木兹海峡遇袭",
@@ -104,7 +115,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -236,7 +247,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         }
