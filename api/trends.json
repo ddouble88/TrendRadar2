@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T12:20:38.423928+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-07-08T15:35:01.023280+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "期货热点追踪",
@@ -14,9 +14,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260708151622019800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "英国天然气期货涨超7.2%，卡塔尔LNG船只在霍尔木兹海峡遇袭",
@@ -76,13 +87,24 @@
           "time_info": "04时06分"
         },
         {
+          "title": "国债期货收盘，30年期主力合约涨0.29%，10年期主力合约涨0.10%，5年期主力合约涨0.06%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3130462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "国债期货早盘收盘，30年期主力合约跌0.08%，10年期主力合约跌0.02%，5年期主力合约跌0.01%，2年期主力合约跌0.00%。",
           "url": "https://wallstreetcn.com/livenews/3130350",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -126,9 +148,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "商品期货收盘，原油、LU燃油、燃料油主力合约涨超6%，纯苯涨超5%，苯乙烯、甲醇涨超4%，丙烯、聚丙烯、液化气涨超3%。碳酸锂、工业硅、不锈钢跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3130450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "股指期货早盘收盘",
@@ -137,7 +170,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -148,7 +181,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -159,9 +192,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "股指期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260708150127599800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨多跌少，SC原油、低硫燃料油（LU）、燃料油涨超6%，纯苯涨超5%，苯乙烯（EB）、甲醇涨超4%，丙烯涨近4%，聚丙烯涨超3%。跌幅方面，工业硅、不锈钢（SS）、碳酸锂跌超2%，苹果、棉花跌超1%，沪镍、白糖、棉纱跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260708150108213800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     }
