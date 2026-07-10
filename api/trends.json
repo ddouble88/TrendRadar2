@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-10T16:32:19.850832+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-07-10T20:02:56.037546+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时13分 ~ 16时32分]"
+          "appearance_count": 6,
+          "time_info": "[08时13分 ~ 20时02分]"
         },
         {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
@@ -64,6 +65,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时13分 ~ 12时59分]"
+        },
+        {
+          "title": "外资机构席位·期货品种持仓一览（7月10日）",
+          "url": "https://flash.jin10.com/detail/20260710194428756800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "因KOSPI 200指数期货上涨5%，韩国交易所启动Sidecar机制，暂停KOSPI程序化买盘。 韩国首尔综指现涨近5%。",
