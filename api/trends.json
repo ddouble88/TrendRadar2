@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T16:53:19.367954+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-07-11T18:21:15.916303+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 05时13分]"
+        },
+        {
+          "title": "中期协： 6月全国期货交易市场成交额同比增长52.72%",
+          "url": "https://flash.jin10.com/detail/20260711155059303800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 18时21分]"
         },
         {
           "title": "WTI 8月原油期货收跌0.67美元，跌幅0.93%，报71.41美元/桶，本周累计上涨将近3.96%。 布伦特9月原油期货收跌0.29美元，跌幅0.38%，报76.01美元/桶，本周累涨超5.39%。 中东Abu Dhabi Murban原油期货跌0.99%，报70.66美元/桶，本周累涨6.29%。 NYMEX 8月天然气期货收报2.94美元/百万英热单位。 NYMEX 8月汽油期货收报2.9846美元/加仑，NYMEX 8月取暖油期货收报3.5533美元/加仑。",
@@ -89,17 +101,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
-        },
-        {
-          "title": "中期协： 6月全国期货交易市场成交额同比增长52.72%",
-          "url": "https://flash.jin10.com/detail/20260711155059303800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "布伦特原油期货结算价为每桶76.01美元，下跌29美分，跌幅0.38%。",
