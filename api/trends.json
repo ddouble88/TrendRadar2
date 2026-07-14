@@ -1,211 +1,22 @@
 {
-  "generated_at": "2026-07-14T23:39:22.622031+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2026-07-15T01:21:51.815129+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 18,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "芝加哥小麦期货跌超0.7%，大豆油涨超3.1%，纽约可可V形走势跌幅收窄至不足4.3%",
-          "url": "https://wallstreetcn.com/livenews/3133052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
         {
           "title": "美国6月CPI低于预期 纳指期货涨超1% IBM盘前暴跌逾22% | 今夜看点",
           "url": "https://www.cls.cn/detail/2426306",
           "source": "财联社热门",
           "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时01分 ~ 23时39分]"
-        },
-        {
-          "title": "WTI原油期货涨幅一度扩大至将近6%，报75.79美元。 据伊朗塔斯尼姆通讯社，沙特阿拉伯艾卜哈国际机场遭袭。",
-          "url": "https://wallstreetcn.com/livenews/3133015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260714105731860800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 22时02分]"
-        },
-        {
-          "title": "恒指期货夜盘收涨0.18%，报24158点，高水56点。",
-          "url": "https://flash.jin10.com/detail/20260714030451591800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "美国短期利率期货显示，美联储7月加息概率约为45%，较周一早些时候的35%有所上升。",
-          "url": "https://flash.jin10.com/detail/20260714004013180800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国原油期货收涨超9.4%",
-          "url": "https://wallstreetcn.com/livenews/3133045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "上期所原油期货2608合约夜盘收涨6.20%，报500.30元人民币/桶。 沪金夜盘收跌2.12%，沪银收跌2.84%。",
-          "url": "https://wallstreetcn.com/livenews/3133044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "布伦特原油期货结算价为每桶83.30美元，上涨7.29美元，涨幅9.59%。",
-          "url": "https://flash.jin10.com/detail/20260714025209205800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "夜盘期货开盘，燃油涨逾5%，低硫燃油、原油涨逾4%，苯乙烯涨逾3%，丙烯、塑料、对二甲苯、沪锡、PTA、沪银涨逾2%。",
-          "url": "https://wallstreetcn.com/livenews/3133679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "内盘期货夜市多数收涨",
-          "url": "https://wallstreetcn.com/livenews/3133743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "美国原油期货结算价为每桶78.14美元，上涨6.73美元，涨幅9.42%。",
-          "url": "https://flash.jin10.com/detail/20260714023113680800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "欧洲斯托克50指数期货下跌0.35%，德国DAX指数期货下跌0.35%，英国富时指数期货下跌0.28%。",
-          "url": "https://flash.jin10.com/detail/20260714140357429800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "富时中国A50指数期货涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3133339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "布伦特原油期货日内涨幅达4%，报86.64美元/桶；WTI原油期货涨3.6%，报80.94美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3133456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "花旗：受厄尔尼诺现象影响，冬季气温可能较常年偏高，这将给天然气期货价格带来额外的下行压力。",
-          "url": "https://flash.jin10.com/detail/20260714135934267800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "截至23:00收盘，国内期货主力合约涨多跌少，燃料油涨超4%，低硫燃料油（LU）涨超3%，乙二醇（EG）涨近3%，苯乙烯（EB）、沥青涨超2%，丙烯、纯苯涨近2%。跌幅方面，纯碱、玻璃小幅下跌。",
-          "url": "https://flash.jin10.com/detail/20260714230046667800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时39分"
-        },
-        {
-          "title": "周一（7月13日）纽约尾盘，标普500股指期货最终跌0.89%，道指期货跌0.33%，纳斯达克100股指期货跌2.02%。 罗素2000股指期货跌0.95%。",
-          "url": "https://wallstreetcn.com/livenews/3133094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "01时21分"
         }
       ]
     }
