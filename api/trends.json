@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T05:06:37.064297+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-07-15T07:02:40.517796+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时02分]"
         },
         {
           "title": "芝加哥小麦期货涨约1.4%",
