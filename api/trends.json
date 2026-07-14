@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-07-14T19:37:10.602049+08:00",
-  "total_titles_processed": 1257,
-  "failed_sources": [],
+  "generated_at": "2026-07-14T22:02:48.908902+08:00",
+  "total_titles_processed": 1428,
+  "failed_sources": [
+    "wallstreetcn-hot"
+  ],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "芝加哥小麦期货跌超0.7%，大豆油涨超3.1%，纽约可可V形走势跌幅收窄至不足4.3%",
@@ -28,6 +30,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "美国6月CPI低于预期 纳指期货涨超1% IBM盘前暴跌逾22% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2426306",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260714105731860800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 22时02分]"
         },
         {
           "title": "恒指期货夜盘收涨0.18%，报24158点，高水56点。",
@@ -85,15 +110,15 @@
           "time_info": "03时39分"
         },
         {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260714105731860800",
-          "source": "金十数据",
+          "title": "夜盘期货开盘，燃油涨逾5%，低硫燃油、原油涨逾4%，苯乙烯涨逾3%，丙烯、塑料、对二甲苯、沪锡、PTA、沪银涨逾2%。",
+          "url": "https://wallstreetcn.com/livenews/3133679",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时12分"
+          "time_info": "22时02分"
         },
         {
           "title": "美国原油期货结算价为每桶78.14美元，上涨6.73美元，涨幅9.42%。",
