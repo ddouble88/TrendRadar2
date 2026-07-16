@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T18:17:48.707550+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-07-16T20:25:08.757723+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "商品期货收盘，沪银主力合约跌超3%，集运欧线、玻璃、纯碱跌超2%。沪镍涨超3%，苯乙烯、铂、BR橡胶、不锈钢、菜籽油涨超1%。",
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "纳指期货盘前跌1%。",
+          "url": "https://flash.jin10.com/detail/20260716201233847800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "芝加哥小麦期货涨约5.1%，俄乌冲突威胁到地区谷物出口",
