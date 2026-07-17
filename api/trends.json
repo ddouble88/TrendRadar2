@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T21:53:00.496256+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-07-17T23:19:34.524598+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
@@ -57,11 +57,12 @@
           "url": "https://www.cls.cn/detail/2429875",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 21时53分]"
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 23时19分]"
         },
         {
           "title": "美国原油期货结算价为每桶78.95美元，下跌65美分，跌幅0.82%。",
@@ -86,6 +87,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "截至23:00收盘，国内期货主力合约涨多跌少，低硫燃料油（LU）涨超4%，甲醇、液化石油气（LPG）、沥青涨超2%，纯苯、丙烯涨近2%，跌幅方面，玻璃跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260717230050728800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "中证1000股指期货（IM）主力合约日内下跌6.00%，现报7101.0点；中证500股指期货（IC）主力合约日内重挫6.00%，现报7394.8点。",
           "url": "https://flash.jin10.com/detail/20260717134638555800",
           "source": "金十数据",
@@ -108,13 +120,24 @@
           "time_info": "19时25分"
         },
         {
+          "title": "内盘期货夜市多数收涨，低硫燃油涨约4.4%领跑",
+          "url": "https://wallstreetcn.com/livenews/3135814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "商品期货夜盘开盘，LU燃油主力合约涨超2%，燃料油、沥青、纯苯涨超1%。玻璃、沪锡、沪镍、PVC、纯碱跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3135733",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -147,7 +170,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
