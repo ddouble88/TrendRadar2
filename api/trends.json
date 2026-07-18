@@ -1,170 +1,22 @@
 {
-  "generated_at": "2026-07-18T23:02:40.444184+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-07-19T00:07:03.015908+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 14,
+      "match_count": 1,
       "titles": [
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
           "url": "https://www.cls.cn/detail/2429875",
           "source": "财联社热门",
           "ranks": [
-            6,
-            7,
-            8,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时18分 ~ 23时02分]"
-        },
-        {
-          "title": "周五（7月17日）纽约尾盘，标普500股指期货最终跌1.04%，道指期货跌0.76%，纳斯达克100股指期货跌1.51%。 罗素2000股指期货跌0.48%。",
-          "url": "https://wallstreetcn.com/livenews/3135915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时58分]"
-        },
-        {
-          "title": "芝加哥小麦期货本周涨超7.1%，大豆油累涨5%，纽约可可累跌7.5%",
-          "url": "https://wallstreetcn.com/livenews/3135877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "布伦特原油期货结算价为每桶88.10美元，上涨3.87美元，涨幅4.59%。",
-          "url": "https://flash.jin10.com/detail/20260718025146298800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国原油期货本周涨超15%",
-          "url": "https://wallstreetcn.com/livenews/3135874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "上期所原油期货2609合约夜盘收涨5.23%，报542.90元人民币/桶。 沪金夜盘收涨0.67%，沪银收涨0.97%。",
-          "url": "https://wallstreetcn.com/livenews/3135873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国原油期货结算价为每桶82.49美元，上涨3.54美元，涨幅4.48%。",
-          "url": "https://flash.jin10.com/detail/20260718023157464800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国原油期货涨幅扩大至4%，报道称美国向以色列增派数十架空中加油机。",
-          "url": "https://wallstreetcn.com/livenews/3135843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "尽管遭遇抛售，交易员们仍在继续将资金涌入贝莱德（BlackRock）规模达224亿美元的 iShares MSCI South Korea ETF。 根据彭博社汇编的数据，该基金本周已吸引超过28亿美元的资金流入，有望创下其有史以来最佳的单周资金流入纪录。该基金将其约四分之一的投资组合配置在韩国上市的SK海力士（SK Hynix）股票上。",
-          "url": "https://wallstreetcn.com/livenews/3135870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "欧洲天然气期货本周涨超19%",
-          "url": "https://wallstreetcn.com/livenews/3135834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "美国参议院加密货币谈判陷入波折，法案通过窗口期日益收窄",
-          "url": "https://wallstreetcn.com/livenews/3135859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20260718164635656800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：7月14日当周，投机者所持NYMEX WTI原油净多头头寸增加11,704手合约，至86,383手合约。 所持布伦特与WTI原油净多头头寸增至252,836手合约，创五周新高。 所持NYMEX天然气净空头头寸增至48,229手合约，创逾两年新高。",
-          "url": "https://wallstreetcn.com/livenews/3135889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：7月14日当周，投机者所持COMEX黄金净多头头寸增加4,293手合约，至119,147手合约，创五个月新高。 所持COMEX铜净多头头寸增至61,932手合约，创三周新高。 所持NYMEX铂金净多头头寸增至8,146手合约，创三周新高。",
-          "url": "https://wallstreetcn.com/livenews/3135888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
         }
       ]
     }
