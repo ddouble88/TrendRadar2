@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T16:53:17.482226+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-07-18T18:24:00.619352+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -15,11 +15,12 @@
             6,
             7,
             8,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时18分 ~ 16时53分]"
+          "appearance_count": 12,
+          "time_info": "[01时18分 ~ 18时24分]"
         },
         {
           "title": "周五（7月17日）纽约尾盘，标普500股指期货最终跌1.04%，道指期货跌0.76%，纳斯达克100股指期货跌1.51%。 罗素2000股指期货跌0.48%。",
@@ -131,6 +132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "期货盯盘神器专属文章",
+          "url": "https://flash.jin10.com/detail/20260718164635656800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：7月14日当周，投机者所持NYMEX WTI原油净多头头寸增加11,704手合约，至86,383手合约。 所持布伦特与WTI原油净多头头寸增至252,836手合约，创五周新高。 所持NYMEX天然气净空头头寸增至48,229手合约，创逾两年新高。",
