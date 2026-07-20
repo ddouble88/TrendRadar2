@@ -1,110 +1,33 @@
 {
-  "generated_at": "2026-07-20T22:22:47.326343+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-07-21T00:37:09.110920+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%。 布伦特原油5分钟内下跌1.32美元/桶，报86.9美元/桶。 WTI原油5分钟内下跌1.28美元/桶，报80.24美元/桶。 现货黄金5分钟内上涨12.21美元/盎司，报4034.4美元/盎司。 路透援引伊朗高级消息人士的话称，调停方已提议双方停止打击行动10天，以寻求恢复伊朗与美国临时协议的途径。",
-          "url": "https://wallstreetcn.com/livenews/3136884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时51分"
-        },
-        {
-          "title": "期货交易夜读 | 交易中的“沉没成本”：别再为打翻的牛奶哭泣",
-          "url": "https://flash.jin10.com/detail/20260720220625983800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "美股三大股指期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.57%，道指期货涨0.43%。",
-          "url": "https://flash.jin10.com/detail/20260720193452727800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时51分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.13%，10年期主力合约跌0.07%，5年期主力合约跌0.05%，2年期主力合约跌0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3136541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "金十期货图示",
-          "url": "https://flash.jin10.com/detail/20260720154733879800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "周一亚市盘初，布油、WTI原油期货高开2%，美国和伊朗在中东地区冲突加剧。 布油期货突破90美元/桶，为6月11日以来首次。",
-          "url": "https://wallstreetcn.com/livenews/3136359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "夜盘期货开盘，纯苯、液化石油气涨逾2%，PVC、豆粕、豆二、苯乙烯、沪银涨逾1%；焦炭、玻璃跌逾1%，焦煤、沪铝、纯碱等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3136926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
           "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260720113301562800",
+          "url": "https://flash.jin10.com/detail/20260720233602308800",
           "source": "金十数据",
           "ranks": [
-            29
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "00时37分"
         },
         {
-          "title": "国债期货收盘，30年期主力合约跌0.16%，10年期主力合约跌0.07%，5年期主力合约跌0.05%，2年期主力合约跌0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3136677",
+          "title": "内盘期货夜市多数收跌，低硫燃油跌超2.9%，焦煤跌超2.7%",
+          "url": "https://wallstreetcn.com/livenews/3136993",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时11分"
+          "time_info": "00时37分"
         }
       ]
     }
