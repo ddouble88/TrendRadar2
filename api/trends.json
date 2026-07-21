@@ -1,7 +1,58 @@
 {
-  "generated_at": "2026-07-22T01:36:23.525361+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-22T03:41:38.458700+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "芝加哥小麦期货涨约0.7%，豆粕涨超1.4%",
+          "url": "https://wallstreetcn.com/livenews/3137719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "恒指期货夜盘收跌0.70%，报24978点，低水154点。",
+          "url": "https://flash.jin10.com/detail/20260722030132254800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "WTI 8月原油期货收涨1.68美元，涨幅将近2.02%，报84.91美元/桶，逼近6月11日收盘位86.16美元。 布伦特9月原油期货收涨1.79美元，涨幅2.00%，报91.01美元/桶，逼近6月10日收盘位91.47美元。 中东Abu Dhabi Murban原油期货涨4.61%，报85.53美元/桶，逼近6月10日收盘位88.16美元。 NYMEX 8月天然气期货收报2.8650美元/百万英热单位。 NYMEX 8月汽油期货收报3.4059美元/加仑，NYMEX 8月取暖油期货收报4.1266美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3137718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "上期所原油期货2609合约夜盘收涨3.15%，报547.40元人民币/桶。 沪金夜盘收涨1.36%，沪银收涨3.01%。",
+          "url": "https://wallstreetcn.com/livenews/3137717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
