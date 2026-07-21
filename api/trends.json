@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T18:32:01.791843+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-07-21T20:27:27.299401+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
           "url": "https://www.douyin.com/hot/2579826",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时27分]"
         },
         {
           "title": "期货热点追踪",
