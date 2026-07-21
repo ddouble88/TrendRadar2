@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T15:37:05.878605+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-07-21T18:32:01.791843+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "WTI 8月原油期货收涨0.74美元，涨幅将近0.90%，报83.23美元/桶，亚太时段高位窄幅震荡，北京时间16:00以来持稳于82美元一线、在一波短线V形行情中于19:43刷新日低至80.27美元。 NYMEX 8月天然气期货收报2.86美元/百万英热单位。 NYMEX 8月汽油期货收报3.3890美元/加仑，NYMEX 8月取暖油期货收报4.1190美元/加仑。",
@@ -54,6 +54,17 @@
           "time_info": "[06时06分 ~ 08时03分]"
         },
         {
+          "title": "美股盘前三大股指期货齐涨",
+          "url": "https://www.douyin.com/hot/2579826",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
           "title": "期货热点追踪",
           "url": "https://flash.jin10.com/detail/20260720233602308800",
           "source": "金十数据",
@@ -94,7 +105,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
