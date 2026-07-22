@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-22T14:36:48.143072+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-07-22T17:34:02.690106+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "英大期货从此新归属，中石油11.29亿拿下100%股权，公司新名有了？",
+          "url": "https://www.cls.cn/detail/2433537",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 17时34分]"
+        },
         {
           "title": "芝加哥小麦期货涨约0.7%，豆粕涨超1.4%",
           "url": "https://wallstreetcn.com/livenews/3137719",
@@ -52,24 +64,13 @@
           "time_info": "03时41分"
         },
         {
-          "title": "英大期货从此新归属，中石油11.29亿拿下100%股权，公司新名有了？",
-          "url": "https://www.cls.cn/detail/2433537",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
           "title": "中证500股指期货（IC）主力合约日内跌超1.00%，现报7597.4点。",
           "url": "https://flash.jin10.com/detail/20260722140706654800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -102,9 +103,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "美股期货走低，纳斯达克100指数期货跌1%，标普500指数期货跌0.4%，道指期货跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3138075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         }
       ]
     }
