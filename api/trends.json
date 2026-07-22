@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T11:23:26.707247+08:00",
-  "total_titles_processed": 752,
+  "generated_at": "2026-07-22T14:36:48.143072+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "芝加哥小麦期货涨约0.7%，豆粕涨超1.4%",
@@ -52,13 +52,35 @@
           "time_info": "03时41分"
         },
         {
+          "title": "英大期货从此新归属，中石油11.29亿拿下100%股权，公司新名有了？",
+          "url": "https://www.cls.cn/detail/2433537",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "中证500股指期货（IC）主力合约日内跌超1.00%，现报7597.4点。",
+          "url": "https://flash.jin10.com/detail/20260722140706654800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "富时中国A50指数期货涨超1%。",
           "url": "https://flash.jin10.com/detail/20260722105357388800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -72,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260722140338919800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         }
       ]
     }
