@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-23T18:31:56.428110+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-07-23T20:45:59.802576+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美股三大股指期货扩大跌幅，纳期斯达克100指数期货跌超1%，标普500指数期货跌0.73%，道指期货跌0.83%。",
+          "url": "https://flash.jin10.com/detail/20260723202333793800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
         {
           "title": "周四亚太盘初，纳指期货跌0.3%，谷歌A与特斯拉掀开美国科技股业绩报告序幕。",
           "url": "https://wallstreetcn.com/livenews/3138440",
@@ -74,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
+        },
+        {
+          "title": "纳斯达克100指数期货跌幅扩大至0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3138857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "恒指期货夜盘收涨0.33%，报24997点，高水104点。",
