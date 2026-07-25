@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T17:05:52.620382+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-07-25T19:17:48.961582+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 17时05分]"
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 19时17分]"
         },
         {
           "title": "恒指期货夜盘收涨0.22%，报25020点，高水57点。",
