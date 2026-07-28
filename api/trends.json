@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T17:40:50.028658+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-07-28T20:03:28.234608+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "恒指期货夜盘收涨0.35%，报25299点，高水92点。",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "期货盯盘神器新功能",
+          "url": "https://flash.jin10.com/detail/20260728194014515800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "美国原油期货结算价为每桶82.61美元，下跌6.70美元，跌幅7.50%。",
@@ -184,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "外资机构席位·期货品种持仓一览（7月28日）",
+          "url": "https://flash.jin10.com/detail/20260728193137067800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "周二亚太盘初，WTI原油期货低开1.1%，跌至81.68美元/桶，投资者关注特朗普所谓的美国与伊朗正在“对话”。",
