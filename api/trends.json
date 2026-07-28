@@ -1,255 +1,55 @@
 {
-  "generated_at": "2026-07-28T20:03:28.234608+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2026-07-29T00:04:10.265446+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 22,
+      "match_count": 4,
       "titles": [
         {
-          "title": "恒指期货夜盘收涨0.35%，报25299点，高水92点。",
-          "url": "https://flash.jin10.com/detail/20260728031045687800",
-          "source": "金十数据",
+          "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2439316",
+          "source": "财联社热门",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "美国芝商所推出个股期货，允许投资者全天23小时交易SpaceX、美光等股票",
-          "url": "https://wallstreetcn.com/livenews/3140483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            28
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时44分 ~ 05时18分]"
+          "time_info": "[00时03分 ~ 00时04分]"
         },
         {
-          "title": "周一（7月27日）欧市尾盘，ICE英国天然气期货跌10.75%，报137.550便士/千卡。 TTF基准荷兰天然气期货跌9.52%，报57.005欧元/兆瓦时，亚太盘初跳空低开，随后持续震荡于58.500欧元附近，22:00以来持续扩大跌幅。 ICE欧盟碳排放交易许可（期货价格）跌1.30%，报81.78欧元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3140454",
+          "title": "WTI原油期货跌幅扩大至4%，跌穿79.30美元。美国国债价格涨幅扩大，收益率普遍跌4-6个基点。标普涨超0.3%，道指涨超1.1%，纳指跌0.1%，纳斯达克100指数仍然跌约0.8%，半导体指数目前跌超4.3%。 据媒体报道，在内塔尼亚胡与特朗普会晤之前，调解方认为已接近达成突破性协议，有望重启美国与伊朗上个月签署的谅解备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3141109",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时49分 ~ 03时44分]"
-        },
-        {
-          "title": "布伦特原油期货结算价为每桶88.36美元，下跌8.42美元，跌幅8.7%。",
-          "url": "https://flash.jin10.com/detail/20260728025314107800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "纳斯达克100指数期货盘中跌幅扩大至1.1%，触及日内低点。",
-          "url": "https://wallstreetcn.com/livenews/3140760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "期货盯盘神器新功能",
-          "url": "https://flash.jin10.com/detail/20260728194014515800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
-          "title": "美国原油期货结算价为每桶82.61美元，下跌6.70美元，跌幅7.50%。",
-          "url": "https://flash.jin10.com/detail/20260728023329117800",
-          "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "00时04分"
         },
         {
-          "title": "加密货币市场于美股盘初跳水",
-          "url": "https://wallstreetcn.com/livenews/3140446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
-        },
-        {
-          "title": "芝加哥大豆期货跌超3.3%，玉米、小麦也至少跌2.7%",
-          "url": "https://wallstreetcn.com/livenews/3140471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "美国原油期货收跌7.5%",
-          "url": "https://wallstreetcn.com/livenews/3140469",
+          "title": "布伦特原油期货跌幅超过3%，WTI原油期货刷新日低至80美元/桶整数位心理关口下方。",
+          "url": "https://wallstreetcn.com/livenews/3141105",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "00时04分"
         },
         {
-          "title": "上期所原油期货2609合约夜盘收跌4.50%，报539.60元人民币/桶。 沪金夜盘收跌0.11%，沪银收跌0.72%。",
-          "url": "https://wallstreetcn.com/livenews/3140468",
+          "title": "内盘期货夜市多数收跌，20号胶跌超2.3%",
+          "url": "https://wallstreetcn.com/livenews/3141101",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "富时中国A50指数期货盘中跌逾2%。",
-          "url": "https://wallstreetcn.com/livenews/3140659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "WTI原油期货跌约9.4%，触及82美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3140467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "中国30年期国债期货创近8个月新高，债市或告别“三低”震荡",
-          "url": "https://wallstreetcn.com/livenews/3140539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "WTI原油期货向下触及82美元/桶，日内跌9.37%。",
-          "url": "https://flash.jin10.com/detail/20260728022057850800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "交易商在芝加哥商品交易所集团推出全天候（24/7）黄金期货的首个周末带动了强劲需求。",
-          "url": "https://flash.jin10.com/detail/20260728022011736800",
-          "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "纳指期货下跌1.1%触及日低，标普500指数期货跌近0.4%",
-          "url": "https://flash.jin10.com/detail/20260728134207945800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "外资机构席位·期货品种持仓一览（7月28日）",
-          "url": "https://flash.jin10.com/detail/20260728193137067800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
-          "title": "周二亚太盘初，WTI原油期货低开1.1%，跌至81.68美元/桶，投资者关注特朗普所谓的美国与伊朗正在“对话”。",
-          "url": "https://wallstreetcn.com/livenews/3140533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "美国参议院民主党人在国会山论坛上痛斥共和党主导的加密货币法案",
-          "url": "https://wallstreetcn.com/livenews/3140530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "美国芝加哥商业交易所集团（CME Group Inc.）董事总经理兼全球贵金属业务负责人Jin Hennig：“尽管波动率较低，但我们在首个周末迎来了非常强劲的成交量。” 芝商所的参与者构成与其现有的1盎司黄金客户群相似，需求继续主要来自散户投资者。交易活动在地域上分布广泛，芝商所的金属交易通常约有半数来自美国时区以外。 Hennig交易所目前没有计划将全天候交易扩展到其他贵金属合约或规模更大的黄金期货，尽管如果客户需求出现，他们会考虑这样做。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3140528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "美国CME全天候黄金期货上线首周末需求强劲，成交将近1.5万份合约，散户为主",
-          "url": "https://wallstreetcn.com/livenews/3140526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "00时04分"
         }
       ]
     }
