@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T10:51:59.404853+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2026-07-30T13:49:20.150627+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十期货7月30日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨250元/吨，中间价报146050元/吨。",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -25,9 +25,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "WTI原油期货突破85美元/桶，日内涨0.50%。",
+          "url": "https://flash.jin10.com/detail/20260730133312397800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "中证500股指期货（IC）主力合约日内跌幅达2.00%，现报7290.0点。",
@@ -36,9 +47,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "英国富时100指数期货下跌0.95%，欧洲斯托克50指数期货持平，德国DAX指数期货下跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260730132711146800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "内盘期货夜市涨跌各异，乙二醇收涨4.7%，低硫燃油、燃油涨约3.3%",
