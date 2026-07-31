@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T02:23:00.327063+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-07-31T08:09:47.847839+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2441775",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 08时09分]"
         },
         {
           "title": "周四（7月30日）欧市尾盘，ICE英国天然气期货跌3.50%，报141.300便士/千卡。 TTF基准荷兰天然气期货跌3.41%，报58.650欧元/兆瓦时。 ICE欧盟碳排放交易许可（期货价格）跌0.32%，报81.26欧元/吨。",
@@ -25,7 +26,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
