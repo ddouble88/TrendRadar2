@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T06:46:11.598566+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-08-11T07:42:10.196702+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            8
+            8,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时50分 ~ 07时42分]"
         },
         {
           "title": "WTI 9月原油期货收涨3.95美元，涨幅超过5.05%，报82.13美元/桶。 NYMEX 9月天然气期货收报2.7940美元/百万英热单位。 NYMEX 9月汽油期货收报3.1354美元/加仑，NYMEX 9月取暖油期货收报4.1898美元/加仑。",
