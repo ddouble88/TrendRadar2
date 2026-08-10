@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T03:09:17.208934+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2026-08-11T04:52:13.714508+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "布伦特原油期货结算价为每桶87.72美元，上涨4.17美元，涨幅4.99%。",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
         },
@@ -47,9 +47,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "国际原油期货结算价上涨5%",
+          "url": "https://flash.jin10.com/detail/20260811034237315800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         },
         {
           "title": "周一（8月10日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌0.75%，报230.25欧元/吨。 油菜籽期货涨1.03%，报538.75欧元/吨，近期呈现出V形反转行情、8月3日曾跌至508.75欧元。",
@@ -61,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "周一（8月10日）纽约尾盘，ICE原糖期货涨0.06%，ICE白糖期货涨0.50%。 ICE阿拉比卡咖啡期货跌0.10%，咖啡“C”期货跌0.22%。罗布斯塔咖啡期货涨0.85%。 纽约可可期货涨2.09%，报6018美元/吨。伦敦可可期货涨0.57%。 芝加哥WCE双低油菜籽期货涨1.91%。 ICE棉花期货跌0.75%。",
+          "url": "https://wallstreetcn.com/livenews/3147663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         }
       ]
     }
