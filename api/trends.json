@@ -1,125 +1,22 @@
 {
-  "generated_at": "2026-08-10T23:07:36.627469+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2026-08-11T01:58:36.249084+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
         {
-          "title": "夜盘期货开盘，低硫燃油、燃油、原油、液化石油气、甲醇、沥青、聚丙烯、丙烯涨逾1%；玻璃、菜粕、纸浆、烧碱等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3147538",
+          "title": "周一（8月10日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌0.75%，报230.25欧元/吨。 油菜籽期货涨1.03%，报538.75欧元/吨，近期呈现出V形反转行情、8月3日曾跌至508.75欧元。",
+          "url": "https://wallstreetcn.com/livenews/3147613",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
-          "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
-          "url": "https://flash.jin10.com/detail/20260810060135599800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时38分]"
-        },
-        {
-          "title": "期货热点追踪",
-          "url": "https://flash.jin10.com/detail/20260810135401469800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 18时23分]"
-        },
-        {
-          "title": "布油和WTI原油期货均上涨逾每桶1美元，受霍尔木兹海峡重开的不确定性影响。",
-          "url": "https://wallstreetcn.com/livenews/3147125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时38分]"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.16%，10年期主力合约涨0.02%，5年期主力合约涨0.01%，2年期主力合约跌0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3147265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 14时15分]"
-        },
-        {
-          "title": "夜盘开盘，国内期货主力合约涨多跌少，低硫燃料油（LU）涨近2%，燃料油、SC原油、液化石油气（LPG）、甲醇、沥青、聚丙烯涨超1%。跌幅方面，玻璃、菜粕、纸浆小幅下跌。",
-          "url": "https://flash.jin10.com/detail/20260810210002832800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约涨0.03%，10年期主力合约跌0.00%，5年期主力合约跌0.01%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3147189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时19分"
-        },
-        {
-          "title": "热浪将至叠加出口回升 美国天然气期货价格飙升",
-          "url": "https://flash.jin10.com/detail/20260810221919000800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "商品期货开盘，纯碱、乙二醇主力合约涨超3%，燃料油涨超2%，原油、沪银、纯苯、沪金、焦煤涨超1%。PVC跌超2%，沪锡、沪锌跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3147174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时19分"
-        },
-        {
-          "title": "富时中国A50指数期货盘初涨0.19%，上一个交易日夜盘收涨0.23%。",
-          "url": "https://wallstreetcn.com/livenews/3147172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "01时58分"
         }
       ]
     }
