@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T18:56:38.932958+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-08-11T19:50:18.947673+08:00",
+  "total_titles_processed": 1543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "彭博社 财新 期货 洪灏 加密货币 华尔街新闻",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "布伦特原油期货结算价为每桶87.72美元，上涨4.17美元，涨幅4.99%。",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "外资机构席位·期货品种持仓一览（8月11日）",
+          "url": "https://flash.jin10.com/detail/20260811193553597800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "国债期货开盘，30年期主力合约跌0.16%，10年期主力合约跌0.02%，5年期主力合约与昨日持平，2年期主力合约跌0.00%。",
@@ -195,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "标普500指数期货上涨0.2%，纳斯达克100指数期货上涨0.5%。",
+          "url": "https://flash.jin10.com/detail/20260811190352888800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "周一（8月10日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌0.75%，报230.25欧元/吨。 油菜籽期货涨1.03%，报538.75欧元/吨，近期呈现出V形反转行情、8月3日曾跌至508.75欧元。",
